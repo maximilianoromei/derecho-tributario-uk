@@ -12,9 +12,9 @@ website:
         text: Inicio
       - text: Clases
         menu:
-          - href: clases/clase01.qmd
+          - href: derecho-financiero-villegas.qmd
             text: Clase 1
-          - href: clases/clase02.qmd
+          - href: tributos-villegas.qmd
             text: Clase 2
           - href: clases/clase03.qmd
             text: Clase 3

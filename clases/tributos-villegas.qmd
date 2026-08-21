@@ -11,6 +11,7 @@ format:
     slide-number: true
     theme: default
     transition: fade
+    scrollable: true
     width: 1280
 subtitle: Estructura · especies · impuestos · efectos económicos ·
   potestad tributaria · vigencia e interpretación
@@ -169,6 +170,12 @@ Jurisprudencia citada por Villegas al tratar la finalidad fiscal y
 extrafiscal del tributo.
 :::
 
+::: alerta
+“Lorenzo Larralde y otros” (2/3/1959). La Corte allí desarrolla la idea de la “función de fomento y asistencia social” del impuesto y admite que la imposición puede servir a la política económica del Estado.
+
+“Montarcé, Marcelo” (CSJN, 17/9/1974, Fallos 289:443). Allí la cuestión aparece con mucha claridad respecto de tributos aduaneros: la Corte admite incluso gravámenes con finalidad disuasiva y reproduce la doctrina de que el poder fiscal puede utilizarse como instrumento de regulación económica y perseguir una finalidad extrafiscal.
+:::
+
 ------------------------------------------------------------------------
 
 ## Estructura del tributo {#estructura-del-tributo .section-title}
@@ -192,15 +199,23 @@ Es el aspecto objetivo del hecho imponible.
 
 Puede consistir, por ejemplo, en:
 
--   obtener una renta;
--   poseer un patrimonio;
--   consumir;
--   importar;
--   realizar una operación jurídicamente relevante.
+- obtener una renta;
+- poseer un patrimonio;
+- consumir;
+- importar;
+- realizar una operación jurídicamente relevante.
 
-::: idea-central
-El elemento material describe el comportamiento o situación que la ley
-selecciona como manifestación relevante.
+::: {.ejemplo}
+**Ejemplos**
+
+- **Impuesto a las Ganancias:** obtener una **renta** alcanzada por el impuesto.
+- **Bienes Personales:** ser titular de determinados **bienes**.
+- **IVA:** realizar una **venta de cosa mueble**, una obra, locación o prestación alcanzada.
+- **Derechos de importación:** **importar mercadería** para consumo.
+:::
+
+::: {.idea-central}
+El elemento material responde: **¿qué hecho, conducta o situación económica decidió gravar el legislador?**
 :::
 
 ------------------------------------------------------------------------
@@ -209,10 +224,18 @@ selecciona como manifestación relevante.
 
 ### ¿Quién?
 
-Identifica al sujeto que realiza el hecho o se encuentra en la situación
-prevista por la norma.
+Identifica al sujeto que realiza el hecho o se encuentra en la situación prevista por la norma.
 
-::: formula
+::: {.ejemplo}
+**Ejemplos**
+
+- **Ganancias:** la persona humana o jurídica que **obtiene la ganancia** alcanzada.
+- **Bienes Personales:** la persona que resulta **titular de los bienes** comprendidos.
+- **IVA:** quien realiza habitualmente las **operaciones gravadas** en las condiciones previstas por la ley.
+- **Derechos de importación:** el sujeto vinculado jurídicamente con la **importación para consumo**.
+:::
+
+::: {.formula}
 HECHO PREVISTO + SUJETO PREVISTO → POSIBLE NACIMIENTO DE LA OBLIGACIÓN
 :::
 
@@ -222,13 +245,20 @@ HECHO PREVISTO + SUJETO PREVISTO → POSIBLE NACIMIENTO DE LA OBLIGACIÓN
 
 ### ¿Dónde?
 
-Permite determinar el lugar al que la ley conecta el hecho imponible.
+Determina el lugar al que la ley conecta el hecho imponible.
 
-Es especialmente importante cuando:
+::: {.ejemplo}
+**Ejemplos**
 
--   existen distintos niveles de gobierno;
--   una operación presenta elementos en más de una jurisdicción;
--   aparece una situación internacional.
+- Una persona obtiene una renta **en Argentina** → interesa determinar si queda alcanzada por la ley argentina.
+- Una empresa desarrolla actividad en **CABA y Provincia de Buenos Aires** → aparece el problema de distribuir la base imponible de Ingresos Brutos entre jurisdicciones.
+- Una persona residente en Argentina posee un inmueble **en Uruguay** → debe analizarse el alcance espacial que la ley atribuye al tributo.
+- Una mercadería ingresa desde Brasil **al territorio aduanero argentino** → el elemento espacial resulta decisivo para el derecho de importación.
+:::
+
+::: {.idea-central}
+El elemento espacial responde: **¿qué conexión territorial exige la ley para someter ese hecho al tributo?**
+:::
 
 ------------------------------------------------------------------------
 
@@ -236,23 +266,55 @@ Es especialmente importante cuando:
 
 ### ¿Cuándo?
 
-Determina el momento en que el legislador considera configurado el
-hecho.
+Determina el momento en que el legislador considera configurado el hecho imponible.
 
-::: dos
+::: {.dos}
+
 <div>
 
-`<strong>`{=html}Instantáneo`</strong>`{=html}`<br>`{=html}se
-perfecciona en un momento determinado
+**Instantáneo**
+
+El hecho imponible se configura en un momento determinado.
+
+**Ejemplo:** una importación para consumo.
+
+El hecho relevante se produce en un momento jurídicamente determinado.
 
 </div>
 
 <div>
 
-`<strong>`{=html}Periódico`</strong>`{=html}`<br>`{=html}se considera un
-período de tiempo
+**Periódico**
+
+La ley considera los hechos producidos durante un período.
+
+**Ejemplo:** Impuesto a las Ganancias.
+
+Para una persona humana, se considera el resultado correspondiente al período fiscal.
 
 </div>
+
+:::
+
+------------------------------------------------------------------------
+
+## Los cuatro elementos · un mismo caso
+
+### Ejemplo: Impuesto a las Ganancias
+
+Supongamos que una persona residente en Argentina obtiene durante el año rentas alcanzadas por el impuesto.
+
+| Elemento | Pregunta | Ejemplo |
+|---|---|---|
+| **Material** | ¿Qué? | Obtener una ganancia gravada |
+| **Personal** | ¿Quién? | La persona que obtiene esa ganancia |
+| **Espacial** | ¿Dónde? | Conexión territorial prevista por la ley |
+| **Temporal** | ¿Cuándo? | Durante el período fiscal correspondiente |
+
+::: {.idea-central}
+No son cuatro hechos diferentes.
+
+Son **cuatro aspectos de un mismo hecho imponible** que permiten precisar **qué se grava, respecto de quién, dónde y cuándo**.
 :::
 
 ------------------------------------------------------------------------

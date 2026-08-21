@@ -1,0 +1,1431 @@
+---
+title: "Jurisprudencia sobre las especies tributarias"
+subtitle: "Impuestos · Tasas · Contribuciones especiales"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    css: styles.css
+    slide-number: true
+    transition: fade
+    center: false
+    scrollable: true
+---
+
+## Jurisprudencia sobre las especies tributarias
+
+### Impuestos · Tasas · Contribuciones especiales
+
+La clasificación de los tributos no constituye una cuestión puramente
+terminológica.
+
+La jurisprudencia permite observar que la **estructura jurídica de cada
+especie** determina:
+
+- cuáles son los presupuestos que legitiman su exigencia;
+- qué debe acreditar el Estado;
+- qué puede cuestionar el contribuyente;
+- y cuáles son los límites constitucionales aplicables.
+
+::: {.idea-central}
+**IMPUESTO** → hecho revelador de capacidad contributiva
+
+**TASA** → actividad estatal vinculada al obligado
+
+**CONTRIBUCIÓN ESPECIAL** → actividad estatal + beneficio diferencial
+:::
+
+---
+
+## Una advertencia inicial
+
+### El nombre no define la especie
+
+Que una norma denomine a un gravamen:
+
+> “tasa”
+
+> “contribución”
+
+> “derecho”
+
+no determina definitivamente su naturaleza jurídica.
+
+::: {.formula}
+NOMEN IURIS ≠ NATURALEZA JURÍDICA
+:::
+
+Lo decisivo es analizar **cómo está estructurado el hecho imponible**.
+
+Esta cuestión será especialmente visible en *Laboratorios Raffo*.
+
+---
+
+# I · IMPUESTOS
+
+---
+
+## El impuesto frente a la Constitución
+
+En el impuesto no existe una actividad estatal específicamente referida
+al contribuyente que constituya el presupuesto del tributo.
+
+Pero ello no significa que el legislador carezca de límites.
+
+La jurisprudencia permite analizar, entre otros:
+
+- legalidad;
+- capacidad contributiva;
+- igualdad;
+- razonabilidad;
+- propiedad;
+- no confiscatoriedad.
+
+Analizaremos dos problemas diferentes:
+
+**Candy** → ¿cuándo el resultado de un impuesto se vuelve confiscatorio?
+
+**Camaronera Patagónica** → ¿quién puede crear o determinar sus elementos?
+
+---
+
+# CASO 1 · CANDY
+
+---
+
+## CSJN · *Candy S.A. c/ AFIP*
+
+### 3 de julio de 2009 · Fallos 332:1571
+
+El caso se desarrolla en un contexto económico excepcional:
+
+**Argentina · ejercicio fiscal 2002**
+
+Luego de la salida de la convertibilidad reapareció un proceso
+inflacionario significativo.
+
+Sin embargo, continuaban vigentes normas que impedían aplicar el
+**ajuste por inflación impositivo**.
+
+::: {.pregunta}
+¿Qué sucede si, por efecto de la inflación, el impuesto termina recayendo
+sobre una ganancia que no representa la verdadera capacidad económica
+del contribuyente?
+:::
+
+---
+
+## *Candy* · el conflicto
+
+Candy S.A. promovió una acción de amparo contra la AFIP.
+
+Pretendía poder utilizar el mecanismo de ajuste por inflación previsto
+por la Ley del Impuesto a las Ganancias para determinar el impuesto
+correspondiente al ejercicio 2002.
+
+### El argumento
+
+Sin ajuste:
+
+**resultado nominal**
+
+≠
+
+**resultado económico real**
+
+La empresa sostenía que se terminaba gravando una utilidad meramente
+nominal producida por la inflación.
+
+---
+
+## *Candy* · primera cuestión
+
+La Corte distingue dos problemas.
+
+### Problema abstracto
+
+¿Es constitucional que el Congreso suspenda un mecanismo de ajuste
+por inflación?
+
+### Problema concreto
+
+¿Puede la aplicación de esas normas producir, respecto de un
+contribuyente determinado, un resultado **confiscatorio**?
+
+::: {.idea-central}
+La Corte no reconoce un derecho constitucional general a utilizar
+cualquier mecanismo de ajuste por inflación.
+
+La cuestión decisiva pasa por los **efectos concretos del impuesto**.
+:::
+
+---
+
+## *Candy* · la prueba
+
+Este aspecto es fundamental.
+
+Candy había producido **prueba contable** sobre los efectos que generaba
+la falta de ajuste.
+
+Se comparó:
+
+- el impuesto determinado sin ajuste;
+- el impuesto resultante con ajuste;
+- el resultado económico de la empresa.
+
+La Corte consideró acreditado que, sin aplicar el mecanismo correctivo,
+el gravamen absorbía una porción sustancial de la renta.
+
+::: {.alerta}
+**La confiscatoriedad no se presume.**
+
+Debe ser demostrada por quien la invoca.
+:::
+
+---
+
+## *Candy* · la regla
+
+La jurisprudencia tradicional de la Corte considera confiscatorio un
+tributo cuando produce una absorción **sustancial** de la renta o del
+capital.
+
+Pero no existe una declaración abstracta.
+
+::: {.formula}
+TRIBUTO
+
++
+
+EFECTO ECONÓMICO CONCRETO
+
++
+
+PRUEBA
+
+→
+
+POSIBLE CONFISCATORIEDAD
+:::
+
+---
+
+## *Candy* · alcance del fallo
+
+La Corte no declaró:
+
+> “El impuesto a las ganancias es inconstitucional”.
+
+Tampoco estableció:
+
+> “Siempre debe aplicarse ajuste por inflación”.
+
+La decisión estuvo vinculada con **las circunstancias acreditadas por
+Candy en ese ejercicio fiscal**.
+
+::: {.idea-central}
+La inconstitucionalidad surge del **resultado concreto de la aplicación
+del tributo**, no necesariamente de la existencia del impuesto.
+:::
+
+---
+
+## *Candy* · para discutir
+
+::: {.pregunta}
+Una empresa demuestra que la aplicación de un impuesto absorbe una
+parte sustancial de su renta.
+
+¿Alcanza con demostrar que el impuesto es económicamente muy gravoso?
+
+¿O debe demostrar además una afectación constitucional concreta?
+:::
+
+### Conceptos
+
+**Capacidad contributiva · propiedad · confiscatoriedad · prueba**
+
+[Consultar *Candy S.A. c/ AFIP* – CSJN](https://www.csjn.gov.ar/archivo-cij/adj/pdfs/ADJ-0.354613001246744577.pdf){target="_blank"}
+
+---
+
+# CASO 2 · CAMARONERA PATAGÓNICA
+
+---
+
+## CSJN · *Camaronera Patagónica S.A.*
+
+### c/ Ministerio de Economía y otros
+
+**15 de abril de 2014 · Fallos 337:388**
+
+El caso involucraba **derechos de exportación**.
+
+El Ministerio de Economía había dictado la **Resolución 11/2002**,
+estableciendo derechos de exportación sobre determinadas mercaderías.
+
+::: {.pregunta}
+¿Puede el Poder Ejecutivo establecer los elementos esenciales de un
+tributo utilizando una autorización legislativa?
+:::
+
+---
+
+## *Camaronera* · primer paso
+
+Antes de analizar quién podía establecerlos, la Corte debía determinar
+qué naturaleza tenían los derechos de exportación.
+
+La respuesta es fundamental:
+
+::: {.idea-central}
+**Los derechos de exportación son tributos.**
+:::
+
+La circunstancia de que sean utilizados como instrumentos de:
+
+- política económica;
+- regulación del comercio exterior;
+- política monetaria;
+- política social;
+
+no elimina su **naturaleza tributaria**.
+
+---
+
+## *Camaronera* · consecuencia
+
+Si estamos frente a un tributo, resulta aplicable el:
+
+# PRINCIPIO DE LEGALIDAD
+
+La Constitución reserva al Congreso la imposición de contribuciones.
+
+La Corte recuerda su doctrina según la cual los elementos esenciales
+del tributo deben encontrar sustento en una **ley**.
+
+::: {.formula}
+NATURALEZA TRIBUTARIA
+
+↓
+
+RESERVA DE LEY
+
+↓
+
+LÍMITE A LA DELEGACIÓN
+:::
+
+---
+
+## *Camaronera* · Código Aduanero
+
+El art. 755 del Código Aduanero autorizaba al Poder Ejecutivo a establecer
+y modificar derechos de exportación bajo determinadas condiciones.
+
+Pero el problema constitucional era más profundo:
+
+::: {.pregunta}
+¿Puede una habilitación legislativa amplia sustituir la decisión que
+constitucionalmente corresponde al Congreso respecto de los elementos
+esenciales del tributo?
+:::
+
+La Corte entendió que la Resolución 11/2002 no encontraba sustento
+legislativo suficiente para satisfacer la reserva constitucional.
+
+---
+
+## *Camaronera* · extrafiscalidad
+
+El caso permite además conectar con otro tema.
+
+Un tributo puede perseguir simultáneamente:
+
+**FINALIDAD FISCAL**
+
+obtener recursos
+
+y
+
+**FINALIDAD EXTRAFISCAL**
+
+orientar conductas o intervenir en la economía.
+
+::: {.idea-central}
+La finalidad extrafiscal **no transforma al tributo en otra cosa**.
+
+Y tampoco elimina las garantías constitucionales propias de la
+tributación.
+:::
+
+---
+
+## *Camaronera* · regla
+
+::: {.formula}
+NECESIDAD DE POLÍTICA ECONÓMICA
+
+≠
+
+EXCEPCIÓN AL PRINCIPIO DE LEGALIDAD
+:::
+
+La utilización de un tributo como instrumento económico no habilita
+por sí sola al Poder Ejecutivo a sustituir al Congreso.
+
+### Para discutir
+
+::: {.pregunta}
+¿Por qué la exigencia de ley es especialmente importante cuando el
+tributo se utiliza deliberadamente para modificar conductas económicas?
+:::
+
+[Consultar *Camaronera Patagónica* – CSJN](https://sj.csjn.gov.ar/homeSJ/suplementos/suplemento/64/documento){target="_blank"}
+
+---
+
+# II · TASAS
+
+---
+
+## La particularidad de la tasa
+
+La tasa comparte con el impuesto su carácter:
+
+- tributario;
+- obligatorio;
+- coactivo;
+- establecido en ejercicio del poder de imperio.
+
+Pero existe una diferencia estructural.
+
+::: {.formula}
+IMPUESTO
+
+HECHO REVELADOR DE CAPACIDAD CONTRIBUTIVA
+
+
+TASA
+
+ACTIVIDAD ESTATAL VINCULADA AL OBLIGADO
+:::
+
+La jurisprudencia municipal permite ver con especial claridad esa
+diferencia.
+
+---
+
+# CASO 3 · LABORATORIOS RAFFO
+
+---
+
+## CSJN · *Laboratorios Raffo S.A.*
+
+### c/ Municipalidad de Córdoba
+
+**23 de junio de 2009 · Fallos 332:1503**
+
+La Municipalidad de Córdoba pretendía cobrar la denominada:
+
+> **“Contribución que incide sobre el Comercio, la Industria y las
+> Empresas de Servicios”**
+
+a Laboratorios Raffo.
+
+La empresa comercializaba sus productos en la ciudad.
+
+Pero existía una particularidad decisiva.
+
+---
+
+## *Raffo* · los hechos
+
+Laboratorios Raffo desarrollaba actividad comercial en Córdoba mediante
+**agentes de propaganda médica**.
+
+Sin embargo, no poseía allí:
+
+- local;
+- establecimiento;
+- depósito.
+
+La empresa cuestionó entonces la pretensión municipal.
+
+::: {.pregunta}
+¿Qué servicio municipal concreto podía prestar Córdoba a Raffo que
+justificara exigirle una **tasa**?
+:::
+
+---
+
+## *Raffo* · el verdadero problema
+
+El municipio podía señalar que Raffo:
+
+- desarrollaba actividad económica;
+- obtenía ingresos;
+- tenía presencia comercial en la ciudad.
+
+Pero esas circunstancias demuestran fundamentalmente:
+
+**CAPACIDAD ECONÓMICA**
+
+No demuestran necesariamente:
+
+**ACTIVIDAD ESTATAL VINCULADA**
+
+::: {.idea-central}
+Ahí aparece la frontera entre **impuesto y tasa**.
+:::
+
+---
+
+## *Raffo* · la doctrina
+
+La Corte, remitiéndose al dictamen de la Procuración, recupera su
+jurisprudencia tradicional.
+
+Al cobro de una tasa debe corresponder una prestación estatal:
+
+::: {.formula}
+CONCRETA
+
++
+
+EFECTIVA
+
++
+
+INDIVIDUALIZADA
+:::
+
+referida a algo también individualizado del contribuyente.
+
+---
+
+## *Raffo* · ¿por qué no alcanza un servicio general?
+
+El municipio presta innumerables servicios:
+
+- mantenimiento urbano;
+- seguridad;
+- higiene general;
+- planificación;
+- infraestructura;
+- administración.
+
+Todos ellos pueden beneficiar indirectamente a quienes desarrollan
+actividad económica.
+
+Pero eso no basta para configurar el presupuesto propio de una tasa.
+
+::: {.alerta}
+Si bastara el beneficio general derivado de la actividad municipal,
+la diferencia entre **tasa e impuesto** prácticamente desaparecería.
+:::
+
+---
+
+## *Raffo* · el nombre del tributo
+
+La ordenanza hablaba de una:
+
+> **“Contribución”**
+
+Sin embargo, eso no resuelve el problema.
+
+La Corte analiza la estructura real del gravamen.
+
+::: {.formula}
+NOMBRE ASIGNADO POR LA NORMA
+
+≠
+
+NATURALEZA JURÍDICA
+:::
+
+La distinción entre especies tributarias tiene consecuencias concretas
+sobre la legitimidad de la pretensión fiscal.
+
+---
+
+## *Raffo* · para discutir
+
+Un municipio crea una:
+
+> “Contribución para el desarrollo económico municipal”
+
+y cobra el 1 % de la facturación a todas las empresas que venden
+productos dentro de su territorio.
+
+No identifica ningún servicio concreto.
+
+::: {.pregunta}
+¿Puede defenderse como una tasa simplemente porque la ordenanza
+la denomina “contribución”?
+:::
+
+**Raffo obliga a mirar la estructura del tributo, no su etiqueta.**
+
+[Consultar Fallos 332:1503 – CSJN](https://sjconsulta.csjn.gov.ar/sj/verTomo?tomoId=440){target="_blank"}
+
+---
+
+# CASO 4 · QUILPE
+
+---
+
+## CSJN · *Quilpe S.A. s/ inconstitucionalidad*
+
+### 9 de octubre de 2012 · Fallos 335:1987
+
+La Municipalidad de la Ciudad de La Rioja pretendía cobrar a Quilpe
+una **tasa de inspección, seguridad e higiene**.
+
+La empresa negó que el servicio que justificaba el tributo hubiera sido
+efectivamente prestado.
+
+El Tribunal Superior provincial rechazó inicialmente el planteo.
+
+La controversia llegó a la Corte Suprema.
+
+---
+
+## *Quilpe* · una cuestión probatoria
+
+La doctrina sobre tasas ya establecía:
+
+::: {.formula}
+TASA
+
+→
+
+SERVICIO CONCRETO + EFECTIVO + INDIVIDUALIZADO
+:::
+
+Pero aparece un problema práctico.
+
+### ¿Quién debe demostrar la prestación?
+
+El contribuyente afirma:
+
+> “Nunca me prestaron el servicio”.
+
+El municipio sostiene:
+
+> “La tasa es válida”.
+
+::: {.pregunta}
+¿Quién está en mejores condiciones de probar qué actividades de
+inspección fueron realizadas?
+:::
+
+---
+
+## *Quilpe* · carga de la prueba
+
+La Corte advierte la enorme dificultad que tendría el contribuyente
+para probar un **hecho negativo**:
+
+> que el Estado nunca prestó el servicio.
+
+En cambio, la Administración dispone normalmente de:
+
+- actas;
+- registros;
+- expedientes;
+- inspectores;
+- constancias administrativas.
+
+::: {.idea-central}
+La Administración se encuentra en mejores condiciones para demostrar
+la realización de la actividad estatal que justifica la tasa.
+:::
+
+---
+
+## *Quilpe* · importancia
+
+El fallo complementa perfectamente a *Raffo*.
+
+### Raffo
+
+**¿Qué debe existir?**
+
+Una actividad estatal concreta, efectiva e individualizada.
+
+### Quilpe
+
+**¿Quién debe acreditar su existencia cuando es controvertida?**
+
+La Administración no puede limitarse a trasladar al contribuyente la
+prueba imposible de que el servicio **no ocurrió**.
+
+---
+
+## *Quilpe* · para discutir
+
+::: {.pregunta}
+Una ordenanza crea una tasa de inspección.
+
+Durante cinco años el contribuyente nunca recibe una visita de
+inspectores.
+
+El municipio reclama la deuda y sostiene:
+
+“Demuestre usted que nunca lo inspeccionamos”.
+
+**¿Es razonable esa distribución de la carga probatoria?**
+:::
+
+[Consultar jurisprudencia oficial – CSJN](https://sjconsulta.csjn.gov.ar/sj/verTomo?tomoId=440){target="_blank"}
+
+---
+
+# CASO 5 · ESSO
+
+---
+
+## CSJN · *Esso Petrolera Argentina S.R.L.*
+
+### c/ Municipalidad de Quilmes
+
+**2 de septiembre de 2021**
+
+El litigio involucraba la **Tasa por Inspección de Seguridad e Higiene**
+de la Municipalidad de Quilmes.
+
+Pero el problema era diferente al de *Raffo* y *Quilpe*.
+
+Aquí adquiere especial importancia la **cuantificación** de la tasa.
+
+---
+
+## *Esso* · la controversia
+
+Esso cuestionó la pretensión municipal vinculada con la utilización de
+sus ingresos para determinar la base imponible.
+
+La discusión planteaba una pregunta clásica:
+
+::: {.pregunta}
+Si la tasa retribuye una actividad estatal, ¿su importe debe equivaler
+exactamente al costo individual del servicio prestado a cada
+contribuyente?
+:::
+
+Una respuesta afirmativa convertiría prácticamente a la tasa en un
+**precio individual del servicio**.
+
+---
+
+## *Esso* · costo y cuantificación
+
+La Corte no exige una equivalencia matemática estricta:
+
+::: {.formula}
+MONTO DE LA TASA
+
+≠
+
+COSTO INDIVIDUAL EXACTO DEL SERVICIO
+:::
+
+La cuantificación puede utilizar criterios que contemplen la capacidad
+económica del obligado.
+
+Eso no transforma automáticamente a la tasa en impuesto.
+
+Pero tampoco significa que el municipio tenga libertad ilimitada.
+
+---
+
+## *Esso* · razonabilidad
+
+La cuestión pasa por determinar si existe una relación **razonable**
+entre:
+
+- la actividad estatal;
+- la organización del servicio;
+- la categoría de contribuyentes;
+- y el criterio utilizado para distribuir su costo.
+
+::: {.idea-central}
+Una cosa es exigir **actividad estatal vinculada** como presupuesto de
+la tasa.
+
+Otra diferente es exigir una **equivalencia matemática exacta** entre
+cada peso pagado y el costo individual del servicio.
+:::
+
+---
+
+## *Esso* · autonomía municipal
+
+El fallo también coloca la discusión dentro del régimen federal.
+
+Los municipios necesitan recursos para cumplir sus funciones.
+
+La autonomía municipal reconocida constitucionalmente supone también
+la existencia de **medios económicos**.
+
+Pero esa potestad tributaria continúa sometida a:
+
+- legalidad;
+- igualdad;
+- razonabilidad;
+- propiedad;
+- distribución constitucional de competencias.
+
+---
+
+## Tres fallos · tres preguntas
+
+| Caso | Problema |
+|---|---|
+| **Raffo** | ¿Existe actividad estatal vinculada? |
+| **Quilpe** | ¿Quién prueba que el servicio fue prestado? |
+| **Esso** | ¿Cómo puede cuantificarse la tasa? |
+
+::: {.idea-central}
+Los tres casos no dicen exactamente lo mismo.
+
+Construyen diferentes dimensiones del **régimen constitucional de las
+tasas**.
+:::
+
+[Consultar tomo oficial CSJN – *Esso*](https://sjservicios.csjn.gov.ar/sj/verTomo?tomoId=440){target="_blank"}
+
+---
+
+# III · CONTRIBUCIONES ESPECIALES
+
+---
+
+## La tercera especie
+
+En la contribución especial existe también una actividad estatal.
+
+Pero su fundamento no es simplemente que esa actividad **ataña** al
+contribuyente.
+
+Existe algo adicional:
+
+# BENEFICIO ESPECIAL
+
+::: {.formula}
+ACTIVIDAD U OBRA ESTATAL
+
+↓
+
+BENEFICIO DIFERENCIAL
+
+↓
+
+CONTRIBUCIÓN ESPECIAL
+:::
+
+---
+
+## El ejemplo clásico
+
+### Contribución de mejoras
+
+El Estado construye:
+
+- una ruta;
+- una avenida;
+- un pavimento;
+- una obra hidráulica.
+
+La obra beneficia a toda la comunidad.
+
+Pero determinados inmuebles experimentan además un:
+
+**INCREMENTO PARTICULAR DE VALOR**
+
+::: {.pregunta}
+¿Por qué cobrar especialmente a esos propietarios y no financiar toda
+la obra mediante impuestos generales?
+:::
+
+---
+
+## Beneficio general y beneficio especial
+
+::: {.dos}
+
+<div>
+
+### Beneficio general
+
+La nueva ruta mejora:
+
+- circulación;
+- transporte;
+- conectividad;
+- actividad económica.
+
+Beneficia a la comunidad.
+
+</div>
+
+<div>
+
+### Beneficio especial
+
+El inmueble ubicado junto a la nueva ruta:
+
+- mejora su acceso;
+- aumenta su utilidad;
+- incrementa su valor.
+
+Existe un beneficio **diferencial**.
+
+</div>
+
+:::
+
+Ese segundo beneficio justifica la contribución especial.
+
+---
+
+# CASO 6 · FALLOS 138:161
+
+---
+
+## CSJN · Fallos 138:161
+
+### Camino La Plata – Avellaneda
+
+El caso involucraba una carga establecida en relación con la
+construcción de un camino pavimentado.
+
+El propietario debía soportar una contribución vinculada con la obra.
+
+Pero apareció un problema fundamental:
+
+**¿qué relación existía entre el monto exigido y el beneficio recibido
+por la propiedad?**
+
+---
+
+## Fallos 138:161 · los números importan
+
+Según los antecedentes posteriormente recopilados por la propia Corte,
+la propiedad había experimentado por la obra un aumento de valor que
+no superaba aproximadamente el **12 %**.
+
+Sin embargo, la carga impuesta resultaba extraordinariamente superior
+al beneficio obtenido.
+
+::: {.pregunta}
+Si el fundamento de la contribución es el beneficio especial,
+¿puede el Estado exigir una suma completamente desvinculada de ese
+beneficio?
+:::
+
+---
+
+## Fallos 138:161 · la estructura
+
+La contribución de mejoras no se justifica simplemente porque:
+
+> “El Estado hizo una obra”.
+
+Debe existir:
+
+::: {.formula}
+OBRA PÚBLICA
+
+↓
+
+BENEFICIO PARTICULAR
+
+↓
+
+CARGA VINCULADA CON ESE BENEFICIO
+:::
+
+Cuando la carga pierde relación sustancial con el beneficio, se debilita
+la justificación específica de esta especie tributaria.
+
+---
+
+## Fallos 138:161 · para discutir
+
+Supongamos:
+
+**Valor inmueble antes de la obra:** $100 millones
+
+**Valor después de la obra:** $112 millones
+
+**Beneficio:** $12 millones
+
+**Contribución exigida:** $40 millones
+
+::: {.pregunta}
+¿Puede seguir justificándose el gravamen exclusivamente como
+“contribución de mejoras”?
+:::
+
+[Consultar recopilación oficial CSJN sobre jurisprudencia tributaria](https://sj.csjn.gob.ar/homeSJ/notas/nota/63/documento){target="_blank"}
+
+---
+
+# CASO 7 · LACOSTE
+
+---
+
+## CSJN · Fallos 170:185
+
+### *Lacoste c/ Provincia de Buenos Aires*
+
+**28 de febrero de 1934**
+
+El caso también estaba relacionado con una contribución derivada de
+obras de pavimentación.
+
+Pero la magnitud económica de la carga hacía especialmente visible
+otro problema constitucional.
+
+# CONFISCATORIEDAD
+
+---
+
+## *Lacoste* · dimensión económica
+
+La Corte analizó una situación en la cual la carga derivada de la
+pavimentación:
+
+- absorbía más que el valor de la propiedad si se pagaba al contado;
+- y superaba la renta de la propiedad si se abonaba mediante las cuotas
+  previstas.
+
+La cuestión excedía entonces la mera existencia de una obra pública.
+
+---
+
+## *Lacoste* · límite constitucional
+
+Aunque exista:
+
+**OBRA**
+
+y aunque exista:
+
+**BENEFICIO**
+
+la contribución continúa sometida al art. 17 de la Constitución.
+
+::: {.idea-central}
+La categoría “contribución especial” no inmuniza al tributo frente al
+principio de **no confiscatoriedad**.
+:::
+
+---
+
+## *Lacoste* · conexión con Candy
+
+Dos tributos muy diferentes.
+
+### Candy
+
+**Impuesto a las ganancias**
+
+### Lacoste
+
+**Contribución vinculada con pavimentación**
+
+Pero aparece un límite común:
+
+::: {.formula}
+NINGUNA ESPECIE TRIBUTARIA
+
+PUEDE PRODUCIR
+
+UN RESULTADO CONFISCATORIO
+:::
+
+La garantía constitucional opera sobre todas las especies.
+
+[Consultar recopilación oficial CSJN](https://sj.csjn.gob.ar/homeSJ/notas/nota/63/documento){target="_blank"}
+
+---
+
+# CASO 8 · FALLOS 172:272
+
+---
+
+## CSJN · Fallos 172:272
+
+### Camino Lomas de Zamora – Esteban Echeverría
+
+Este precedente es particularmente útil porque permite observar el
+**resultado contrario**.
+
+La existencia de una contribución de mejoras no conduce necesariamente
+a su invalidez.
+
+En este caso se encontraba acreditado el **beneficio local** producido
+por la construcción del camino.
+
+---
+
+## Fallos 172:272 · relación con el beneficio
+
+Además del beneficio derivado de la obra, la Corte consideró que la
+carga exigida:
+
+> no excedía sustancialmente el beneficio recibido por la propiedad.
+
+Por eso rechazó el planteo de invalidez constitucional.
+
+::: {.idea-central}
+La jurisprudencia no prohíbe la contribución de mejoras.
+
+Controla la **relación entre la obra, el beneficio diferencial y la
+carga exigida**.
+:::
+
+---
+
+## Dos casos · dos resultados
+
+::: {.dos}
+
+<div>
+
+### Fallos 138:161
+
+Existe obra.
+
+Pero la carga resulta extraordinariamente superior al beneficio.
+
+**Impugnación admitida**
+
+</div>
+
+<div>
+
+### Fallos 172:272
+
+Existe obra.
+
+Existe beneficio local.
+
+La contribución no excede sustancialmente ese beneficio.
+
+**Impugnación rechazada**
+
+</div>
+
+:::
+
+---
+
+## ¿Qué cambia entre ambos casos?
+
+No cambia la categoría tributaria.
+
+En ambos estamos analizando una contribución vinculada con una obra.
+
+Lo que cambia es la:
+
+# RELACIÓN CARGA ↔ BENEFICIO
+
+::: {.pregunta}
+¿La contribución de mejoras tiene como límite máximo matemático el
+incremento exacto del valor del inmueble?
+
+¿O la jurisprudencia exige una relación de razonabilidad y no una
+equivalencia contable absoluta?
+:::
+
+[Consultar jurisprudencia tributaria – CSJN](https://sj.csjn.gob.ar/homeSJ/notas/nota/63/documento){target="_blank"}
+
+---
+
+# IV · COMPARACIÓN
+
+---
+
+## Volvamos a las tres especies
+
+### IMPUESTO
+
+El hecho imponible se vincula con una manifestación de capacidad
+contributiva.
+
+No necesita como presupuesto una actividad estatal individualizada
+respecto del obligado.
+
+### TASA
+
+El presupuesto incorpora una actividad estatal vinculada al obligado.
+
+### CONTRIBUCIÓN ESPECIAL
+
+La actividad estatal genera además un **beneficio diferencial** que
+justifica la obligación.
+
+---
+
+## La jurisprudencia como mapa
+
+| Especie | Fallo | Problema central |
+|---|---|---|
+| Impuesto | **Candy** | Confiscatoriedad |
+| Impuesto | **Camaronera** | Legalidad |
+| Tasa | **Raffo** | Existencia de actividad estatal |
+| Tasa | **Quilpe** | Prueba de la prestación |
+| Tasa | **Esso** | Cuantificación |
+| Contribución | **Fallos 138:161** | Relación carga-beneficio |
+| Contribución | **Lacoste** | Confiscatoriedad |
+| Contribución | **Fallos 172:272** | Beneficio acreditado |
+
+---
+
+## No confundir los controles
+
+::: {.tres}
+
+<div>
+
+### IMPUESTO
+
+**¿Existe capacidad contributiva?**
+
+**¿Respeta legalidad?**
+
+**¿Es confiscatorio?**
+
+</div>
+
+<div>
+
+### TASA
+
+**¿Existe actividad estatal?**
+
+**¿Está vinculada al obligado?**
+
+**¿Es razonable su cuantificación?**
+
+</div>
+
+<div>
+
+### CONTRIBUCIÓN
+
+**¿Existe actividad estatal?**
+
+**¿Existe beneficio diferencial?**
+
+**¿Guarda relación con la carga?**
+
+</div>
+
+:::
+
+---
+
+## Caso integrador I
+
+La Municipalidad crea una:
+
+> **“Contribución para el Desarrollo Comercial”**
+
+equivalente al **1,5 % de las ventas** realizadas dentro del municipio.
+
+La pagan todas las empresas que comercialicen allí.
+
+No se identifica ningún servicio municipal específico.
+
+::: {.pregunta}
+### ¿Qué miraríamos primero?
+
+1. ¿El nombre “contribución”?
+
+2. ¿La capacidad económica gravada?
+
+3. ¿La existencia de actividad estatal?
+
+4. ¿La existencia de un beneficio diferencial?
+:::
+
+---
+
+## Caso integrador I · análisis
+
+**No hay servicio individualizado**
+
+→ problema para considerarla **tasa**.
+
+**No hay obra o actividad generadora de beneficio diferencial**
+
+→ problema para considerarla **contribución especial**.
+
+La estructura parece gravar directamente:
+
+**EL EJERCICIO DE UNA ACTIVIDAD ECONÓMICA**
+
+::: {.idea-central}
+El análisis de la **estructura** puede revelar una naturaleza jurídica
+distinta de la denominación utilizada por el legislador.
+:::
+
+---
+
+## Caso integrador II
+
+Un municipio pavimenta una avenida.
+
+Los inmuebles frentistas aumentan considerablemente de valor.
+
+Se exige exclusivamente a esos propietarios una suma destinada a
+financiar parte de la obra.
+
+::: {.pregunta}
+¿Qué elemento permite distinguir esta obligación de un impuesto
+destinado simplemente a financiar obra pública?
+:::
+
+**El beneficio diferencial obtenido por determinados sujetos.**
+
+---
+
+## Caso integrador III
+
+El municipio cobra una **Tasa de Inspección, Seguridad e Higiene**.
+
+Una empresa cuestiona el tributo.
+
+Afirma que durante seis años jamás fue inspeccionada.
+
+El municipio contesta:
+
+> “La empresa debe probar que nunca recibió una inspección”.
+
+::: {.pregunta}
+### ¿Qué precedente resulta inmediatamente relevante?
+
+**Quilpe S.A.**
+:::
+
+El problema ya no es solamente conceptual.
+
+Es también un problema de **carga de la prueba**.
+
+---
+
+## Caso integrador IV
+
+Existe una tasa municipal válida.
+
+El servicio existe y se presta.
+
+Pero para distribuir su costo el municipio utiliza como parámetro los
+ingresos económicos de los contribuyentes.
+
+::: {.pregunta}
+¿La utilización de ingresos como parámetro transforma automáticamente
+la tasa en un impuesto?
+:::
+
+**No necesariamente.**
+
+La cuestión exige analizar la razonabilidad de la cuantificación.
+
+### Precedente
+
+**Esso Petrolera**
+
+---
+
+## Caso integrador V
+
+El Congreso crea válidamente un impuesto.
+
+No existe ningún problema de legalidad.
+
+Sin embargo, un contribuyente sostiene que, dadas las circunstancias
+económicas de un ejercicio determinado, el gravamen absorbe una parte
+sustancial de su renta.
+
+::: {.pregunta}
+¿Alcanza con afirmar que la carga es excesiva?
+:::
+
+**No.**
+
+Debe acreditar concretamente la confiscatoriedad.
+
+### Precedente
+
+**Candy**
+
+---
+
+## Síntesis jurisprudencial
+
+::: {.idea-central}
+### La especie tributaria determina qué debemos buscar
+
+**IMPUESTO**
+
+No requiere actividad estatal individualizada.
+
+---
+
+**TASA**
+
+Requiere actividad estatal vinculada al obligado.
+
+---
+
+**CONTRIBUCIÓN ESPECIAL**
+
+Requiere actividad estatal y un beneficio diferencial.
+:::
+
+---
+
+## Pero existe un piso constitucional común
+
+Todas las especies están sometidas a:
+
+- legalidad;
+- igualdad;
+- razonabilidad;
+- propiedad;
+- no confiscatoriedad;
+- distribución constitucional de competencias.
+
+::: {.formula}
+DISTINTA ESTRUCTURA TRIBUTARIA
+
+≠
+
+AUSENCIA DE LÍMITES CONSTITUCIONALES
+:::
+
+---
+
+## Para cerrar
+
+::: {.pregunta}
+### ¿Qué pregunta harían primero ante un tributo desconocido?
+
+**¿Cómo lo llamó el legislador?**
+
+o
+
+**¿Cuál es el hecho que jurídicamente justifica que el Estado pueda
+exigir su pago?**
+:::
+
+La segunda pregunta permite comenzar a determinar su verdadera
+**naturaleza jurídica**.

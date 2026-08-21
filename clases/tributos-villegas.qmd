@@ -1,0 +1,1618 @@
+---
+author: Derecho Tributario
+format:
+  revealjs:
+    center: false
+    css: styles-tributario2.css
+    hash: true
+    height: 720
+    margin: 7.0e-2
+    navigation-mode: linear
+    slide-number: true
+    theme: default
+    transition: fade
+    width: 1280
+subtitle: Estructura · especies · impuestos · efectos económicos ·
+  potestad tributaria · vigencia e interpretación
+title: Tributos
+---
+
+## Unidad 2 · Tributos {#unidad-2-tributos .section-title}
+
+### Recorrido de la unidad
+
+1.  Tributos: concepto, estructura y especies.
+2.  Impuestos internos y al comercio exterior. Clasificaciones.
+3.  Efectos económicos de los impuestos.
+4.  Efectos de las normas tributarias en el espacio.
+5.  Derecho Constitucional Tributario.
+6.  Fuentes y límites constitucionales al poder de imposición.
+7.  Efectos de las normas tributarias en el tiempo e interpretación.
+
+::: fuente
+Estructura: tributario.2.docx. Desarrollo doctrinal exclusivo: Héctor B.
+Villegas, Curso de finanzas, derecho financiero y tributario, ed. 2021.
+:::
+
+------------------------------------------------------------------------
+
+## ¿Qué es un tributo?
+
+::: definicion
+Prestación en dinero que el Estado exige en ejercicio de su poder de
+imperio, en virtud de una ley, para cubrir los gastos que demanda la
+satisfacción de necesidades públicas.
+:::
+
+La definición permite separar cuatro elementos:
+
+::: cuatro
+<div>
+
+`<strong>`{=html}Prestación`</strong>`{=html}`<br>`{=html}normalmente
+dineraria
+
+</div>
+
+<div>
+
+`<strong>`{=html}Coacción`</strong>`{=html}`<br>`{=html}poder de imperio
+
+</div>
+
+<div>
+
+`<strong>`{=html}Legalidad`</strong>`{=html}`<br>`{=html}creación por
+ley
+
+</div>
+
+<div>
+
+`<strong>`{=html}Finalidad`</strong>`{=html}`<br>`{=html}cobertura de
+gastos públicos
+
+</div>
+:::
+
+::: fuente
+Villegas, 2021, Derecho tributario, Parte General.
+:::
+
+------------------------------------------------------------------------
+
+## 1. Prestaciones en dinero
+
+Villegas explica que el tributo se expresa normalmente en **dinero**.
+
+Históricamente existieron prestaciones en especie, pero la economía
+monetaria conduce a que la prestación tributaria adopte forma
+pecuniaria.
+
+::: idea-central
+El tributo supone una detracción de riqueza del particular jurídicamente
+impuesta por el Estado.
+:::
+
+------------------------------------------------------------------------
+
+## 2. Poder de imperio
+
+El tributo es **coactivo**.
+
+No nace de un acuerdo entre Estado y contribuyente.
+
+::: formula
+POTESTAD TRIBUTARIA → NORMA → OBLIGACIÓN TRIBUTARIA
+:::
+
+La potestad tributaria consiste en la facultad estatal de dictar normas
+creadoras de tributos.
+
+------------------------------------------------------------------------
+
+## 3. En virtud de una ley
+
+La coacción tributaria no equivale a arbitrariedad.
+
+::: idea-central
+La prestación solo puede exigirse si ha sido creada conforme al
+principio de legalidad.
+:::
+
+La ley describe las circunstancias cuya realización genera la
+obligación.
+
+Esa circunstancia será el **hecho imponible**.
+
+------------------------------------------------------------------------
+
+## 4. Finalidad fiscal y extrafiscal
+
+El objetivo esencial del tributo es **fiscal**: obtener recursos para
+cubrir gastos vinculados con necesidades públicas.
+
+Pero Villegas admite una finalidad adicional:
+
+### Extrafiscalidad
+
+El tributo también puede utilizarse para:
+
+-   proteger;
+-   promover;
+-   desalentar;
+-   incentivar determinadas actividades.
+
+::: alerta
+La finalidad extrafiscal es adicional: para Villegas no constituye la
+esencia jurídica del tributo.
+:::
+
+------------------------------------------------------------------------
+
+## Jurisprudencia · función extrafiscal
+
+Villegas recuerda que la Corte Suprema ha admitido que el poder
+impositivo:
+
+-   procura ante todo recursos para el Tesoro;
+-   pero también puede funcionar como instrumento de **regulación
+    económica**.
+
+::: pregunta
+¿Un tributo deja de ser tributo porque, además de recaudar, intenta
+modificar conductas económicas?
+:::
+
+::: fuente
+Jurisprudencia citada por Villegas al tratar la finalidad fiscal y
+extrafiscal del tributo.
+:::
+
+------------------------------------------------------------------------
+
+## Estructura del tributo {#estructura-del-tributo .section-title}
+
+### Del concepto general al supuesto concreto
+
+La obligación tributaria se conecta con una situación prevista
+normativamente.
+
+Para analizarla conviene distinguir:
+
+**qué · quién · dónde · cuándo · cuánto**
+
+------------------------------------------------------------------------
+
+## Elemento material
+
+### ¿Qué conducta o situación se grava?
+
+Es el aspecto objetivo del hecho imponible.
+
+Puede consistir, por ejemplo, en:
+
+-   obtener una renta;
+-   poseer un patrimonio;
+-   consumir;
+-   importar;
+-   realizar una operación jurídicamente relevante.
+
+::: idea-central
+El elemento material describe el comportamiento o situación que la ley
+selecciona como manifestación relevante.
+:::
+
+------------------------------------------------------------------------
+
+## Elemento personal
+
+### ¿Quién?
+
+Identifica al sujeto que realiza el hecho o se encuentra en la situación
+prevista por la norma.
+
+::: formula
+HECHO PREVISTO + SUJETO PREVISTO → POSIBLE NACIMIENTO DE LA OBLIGACIÓN
+:::
+
+------------------------------------------------------------------------
+
+## Elemento espacial
+
+### ¿Dónde?
+
+Permite determinar el lugar al que la ley conecta el hecho imponible.
+
+Es especialmente importante cuando:
+
+-   existen distintos niveles de gobierno;
+-   una operación presenta elementos en más de una jurisdicción;
+-   aparece una situación internacional.
+
+------------------------------------------------------------------------
+
+## Elemento temporal
+
+### ¿Cuándo?
+
+Determina el momento en que el legislador considera configurado el
+hecho.
+
+::: dos
+<div>
+
+`<strong>`{=html}Instantáneo`</strong>`{=html}`<br>`{=html}se
+perfecciona en un momento determinado
+
+</div>
+
+<div>
+
+`<strong>`{=html}Periódico`</strong>`{=html}`<br>`{=html}se considera un
+período de tiempo
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Base imponible
+
+### ¿Cuánto?
+
+La base permite cuantificar la obligación.
+
+Sobre ella se aplica el parámetro que corresponda:
+
+**alícuota · porcentaje · escala · suma fija**
+
+::: idea-central
+El hecho imponible determina si nace la obligación; la base y la
+alícuota permiten determinar su magnitud.
+:::
+
+------------------------------------------------------------------------
+
+## Especies tributarias {#especies-tributarias .section-title}
+
+::: triada
+<div>
+
+`<strong>`{=html}IMPUESTO`</strong>`{=html}`<br>`{=html}sin actividad
+estatal concreta relativa al obligado
+
+</div>
+
+<div>
+
+`<strong>`{=html}TASA`</strong>`{=html}`<br>`{=html}actividad estatal
+vinculada con el obligado
+
+</div>
+
+<div>
+
+`<strong>`{=html}CONTRIBUCIÓN
+ESPECIAL`</strong>`{=html}`<br>`{=html}beneficio derivado de actividad
+estatal
+
+</div>
+:::
+
+::: idea-central
+Son tres especies de un mismo género: el tributo.
+:::
+
+------------------------------------------------------------------------
+
+## ¿Por qué importa distinguirlas?
+
+Villegas destaca que la clasificación no es puramente académica.
+
+Tiene consecuencias:
+
+-   políticas;
+-   técnicas;
+-   jurídicas;
+-   constitucionales;
+-   vinculadas con la coordinación de potestades tributarias.
+
+### CSJN · Fallos 332:1503
+
+Villegas cita expresamente este precedente para destacar el papel
+esencial de la distinción entre especies tributarias.
+
+------------------------------------------------------------------------
+
+## El impuesto
+
+::: definicion
+Tributo exigido a quienes se encuentran en situaciones consideradas por
+la ley como hechos imponibles, sin que exista una actividad estatal
+concreta relativa al obligado.
+:::
+
+El hecho imponible se vincula con circunstancias que revelan o permiten
+inferir **capacidad contributiva**.
+
+------------------------------------------------------------------------
+
+## Impuesto: nota distintiva
+
+::: contraste
+`<strong>`{=html}IMPUESTO`</strong>`{=html}`<br>`{=html} Hecho imponible
+independiente de una actividad estatal individualizada respecto del
+contribuyente.
+:::
+
+Ejemplos de índices de capacidad económica utilizados por Villegas:
+
+**renta · patrimonio · consumo**
+
+------------------------------------------------------------------------
+
+## La tasa
+
+Villegas caracteriza la tasa como una prestación tributaria exigida a
+quienes de alguna manera afecta o beneficia una **actividad estatal**.
+
+::: formula
+TASA = TRIBUTO + ACTIVIDAD ESTATAL VINCULADA
+:::
+
+Aquí está la diferencia estructural con el impuesto.
+
+------------------------------------------------------------------------
+
+## Tasa: prestación efectiva
+
+Villegas adopta una posición estricta:
+
+::: idea-central
+La actividad estatal que sirve de fundamento a la tasa debe ser efectiva
+y encontrarse particularizada respecto del obligado.
+:::
+
+No basta la mera existencia abstracta de una estructura administrativa.
+
+------------------------------------------------------------------------
+
+## Jurisprudencia · tasas
+
+Villegas recoge la doctrina de la Corte según la cual el cobro de una
+tasa debe corresponderse con una **concreta, efectiva e individualizada
+prestación** referida al contribuyente.
+
+### Fallos 332:1503
+
+El precedente ocupa un lugar central en el tratamiento de la tasa.
+
+::: pregunta
+Si no existe actividad estatal individualizada, ¿seguimos ante una tasa?
+:::
+
+------------------------------------------------------------------------
+
+## Tasa e impuesto
+
+  Elemento                                 Impuesto    Tasa
+  ---------------------------------------- ----------- -------------------
+  Naturaleza                               Tributo     Tributo
+  Coactividad                              Sí          Sí
+  Ley                                      Necesaria   Necesaria
+  Actividad estatal relativa al obligado   No          Sí
+  Beneficio individual como requisito      No          No necesariamente
+
+------------------------------------------------------------------------
+
+## Cuantía de la tasa
+
+Villegas analiza la relación entre:
+
+-   costo del servicio;
+-   capacidad contributiva;
+-   cuantía exigida.
+
+La jurisprudencia citada en la obra admite que la tasa no deba equivaler
+matemáticamente al costo individual exacto del servicio.
+
+::: idea-central
+La tasa no debe confundirse con un precio contractual.
+:::
+
+------------------------------------------------------------------------
+
+## Contribución especial
+
+::: definicion
+Tributo cuyo hecho generador se vincula con beneficios derivados de una
+actividad o gasto estatal.
+:::
+
+La diferencia aparece en el **beneficio** que el legislador conecta con
+la actuación pública.
+
+------------------------------------------------------------------------
+
+## Contribución de mejoras
+
+Es la forma clásica de contribución especial.
+
+::: flujo
+<div>
+
+OBRA PÚBLICA
+
+</div>
+
+→
+
+<div>
+
+BENEFICIO PRESUNTO
+
+</div>
+
+→
+
+<div>
+
+INCREMENTO DE VALOR
+
+</div>
+
+→
+
+<div>
+
+CONTRIBUCIÓN
+
+</div>
+:::
+
+Ejemplos trabajados por Villegas:
+
+-   pavimentación;
+-   apertura de calles o caminos;
+-   obras que valorizan inmuebles.
+
+------------------------------------------------------------------------
+
+## ¿Debe existir beneficio efectivo?
+
+Villegas explica que el beneficio funciona como una **presunción
+jurídica** construida por el legislador.
+
+::: idea-central
+No resulta decisivo que, en el caso individual, el patrimonio del
+obligado se haya incrementado efectivamente.
+:::
+
+Lo relevante es la idoneidad de la obra para producir el beneficio
+contemplado por la ley.
+
+------------------------------------------------------------------------
+
+## Jurisprudencia · contribución de mejoras
+
+Villegas cita jurisprudencia sobre el momento en que nace la obligación
+y la identificación del obligado.
+
+Entre otros:
+
+-   **Fallos 220:5**
+-   SC Buenos Aires, 6/10/1953
+-   SC Buenos Aires, 20/4/1954
+-   Tribunal Fiscal La Plata, 4/12/1956
+
+::: idea-central
+La deuda pertenece al propietario y nace al finalizar la obra pública
+beneficiante.
+:::
+
+------------------------------------------------------------------------
+
+## Peaje y parafiscalidad
+
+Villegas incluye dentro del estudio de las contribuciones especiales:
+
+### Peaje
+
+Vinculado con la circulación por vías de comunicación.
+
+### Contribuciones parafiscales
+
+Exacciones destinadas a financiar determinados entes o finalidades
+específicas.
+
+::: nota
+Villegas considera que, en la Argentina, las contribuciones parafiscales
+son verdaderos tributos.
+:::
+
+------------------------------------------------------------------------
+
+## Impuestos internos y al comercio exterior {#impuestos-internos-y-al-comercio-exterior .section-title}
+
+### Mercado interno
+
+Gravan hechos o manifestaciones imponibles producidos dentro del ámbito
+interno.
+
+### Comercio exterior
+
+Se vinculan con la importación y exportación.
+
+::: idea-central
+En el federalismo argentino esta distinción también se conecta con la
+distribución constitucional de potestades.
+:::
+
+------------------------------------------------------------------------
+
+## Clasificar impuestos
+
+Las clasificaciones permiten observar distintos aspectos de un mismo
+fenómeno.
+
+En esta unidad:
+
+1.  proporcionales / progresivos;
+2.  ordinarios / extraordinarios;
+3.  reales / personales;
+4.  monofásicos / plurifásicos;
+5.  directos / indirectos;
+6.  instantáneos / periódicos;
+7.  nacionales / locales.
+
+------------------------------------------------------------------------
+
+## Proporcionales y progresivos
+
+::: dos
+<div>
+
+`<strong>`{=html}Proporcional`</strong>`{=html}`<br>`{=html}La alícuota
+permanece constante aunque cambie la base.
+
+</div>
+
+<div>
+
+`<strong>`{=html}Progresivo`</strong>`{=html}`<br>`{=html}La carga
+relativa aumenta a medida que aumenta la magnitud gravada.
+
+</div>
+:::
+
+La progresividad se conecta con la discusión sobre **capacidad
+contributiva** y justicia tributaria.
+
+------------------------------------------------------------------------
+
+## Ordinarios y extraordinarios
+
+### Ordinarios o permanentes
+
+Rigen sin una limitación temporal predeterminada, hasta su modificación
+o derogación.
+
+### Extraordinarios o transitorios
+
+Se establecen con duración limitada o vinculados con circunstancias
+excepcionales.
+
+::: pregunta
+¿La emergencia elimina los límites constitucionales al poder tributario?
+:::
+
+------------------------------------------------------------------------
+
+## Reales y personales
+
+::: dos
+<div>
+
+`<strong>`{=html}Personales`</strong>`{=html}`<br>`{=html}Consideran
+circunstancias del contribuyente vinculadas con su capacidad
+contributiva.
+
+</div>
+
+<div>
+
+`<strong>`{=html}Reales`</strong>`{=html}`<br>`{=html}Atienden
+principalmente a la riqueza gravada, prescindiendo de condiciones
+personales.
+
+</div>
+:::
+
+Ejemplos utilizados en la estructura del Word:
+
+**Ganancias de personas humanas** / **impuestos al consumo e
+inmobiliario**
+
+------------------------------------------------------------------------
+
+## Monofásicos y plurifásicos
+
+### Monofásico
+
+Incide en una sola etapa del proceso económico.
+
+### Plurifásico
+
+Incide en más de una etapa.
+
+::: formula
+PRODUCCIÓN → DISTRIBUCIÓN → COMERCIALIZACIÓN → CONSUMO
+:::
+
+La clasificación permite analizar cómo se distribuye el gravamen a lo
+largo de la cadena.
+
+------------------------------------------------------------------------
+
+## Directos e indirectos: el problema
+
+La distinción ha sido explicada con diversos criterios.
+
+Una concepción antigua recurría a la **traslación**:
+
+-   directo = no trasladable;
+-   indirecto = trasladable.
+
+Villegas considera insuficiente ese criterio.
+
+------------------------------------------------------------------------
+
+## Directos e indirectos según Villegas
+
+El criterio que privilegia es la forma de exteriorización de la
+**capacidad contributiva**.
+
+::: dos
+<div>
+
+`<strong>`{=html}Directo`</strong>`{=html}`<br>`{=html}Manifestación
+inmediata de capacidad contributiva.
+
+</div>
+
+<div>
+
+`<strong>`{=html}Indirecto`</strong>`{=html}`<br>`{=html}Manifestación
+mediata o indiciaria de capacidad contributiva.
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Exteriorización inmediata
+
+Existen circunstancias que revelan de manera suficientemente aproximada
+un nivel de capacidad económica.
+
+Ejemplos:
+
+-   renta;
+-   patrimonio.
+
+::: formula
+RIQUEZA APRECIADA DIRECTAMENTE → IMPOSICIÓN DIRECTA
+:::
+
+------------------------------------------------------------------------
+
+## Exteriorización mediata
+
+El legislador toma una circunstancia como **indicio** de capacidad
+económica.
+
+Ejemplo típico:
+
+### Consumo
+
+Se presume que un mayor consumo revela, en términos generales, una mayor
+aptitud económica.
+
+::: formula
+INDICIO DE RIQUEZA → IMPOSICIÓN INDIRECTA
+:::
+
+------------------------------------------------------------------------
+
+## Instantáneos y periódicos
+
+### Instantáneos
+
+El hecho imponible se perfecciona en un momento determinado.
+
+**Ejemplo:** importación.
+
+### Periódicos o de ejercicio
+
+La norma considera un período temporal.
+
+**Ejemplos:** ganancias; bienes personales.
+
+------------------------------------------------------------------------
+
+## Nacionales y locales
+
+La clasificación se conecta con el **federalismo fiscal**.
+
+::: triada
+<div>
+
+`<strong>`{=html}NACIÓN`</strong>`{=html}`<br>`{=html}potestades
+constitucionalmente atribuidas
+
+</div>
+
+<div>
+
+`<strong>`{=html}PROVINCIAS`</strong>`{=html}`<br>`{=html}poderes no
+delegados
+
+</div>
+
+<div>
+
+`<strong>`{=html}MUNICIPIOS`</strong>`{=html}`<br>`{=html}potestades
+conforme al marco constitucional provincial
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Efectos económicos de los impuestos {#efectos-económicos-de-los-impuestos .section-title}
+
+### La pregunta central
+
+::: pregunta
+¿Quién paga jurídicamente el impuesto y quién soporta económicamente su
+carga?
+:::
+
+No siempre coinciden.
+
+------------------------------------------------------------------------
+
+## De iure y de facto
+
+::: dos
+<div>
+
+`<strong>`{=html}Contribuyente de
+iure`</strong>`{=html}`<br>`{=html}Persona jurídicamente obligada al
+pago.
+
+</div>
+
+<div>
+
+`<strong>`{=html}Contribuyente de
+facto`</strong>`{=html}`<br>`{=html}Persona que termina soportando
+económicamente la carga.
+
+</div>
+:::
+
+Esta diferencia obliga a distinguir el plano **jurídico** del plano
+**económico**.
+
+------------------------------------------------------------------------
+
+## Fenómenos económicos
+
+::: mapa
+<div>
+
+`<strong>`{=html}Percusión`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Traslación`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Incidencia`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Difusión`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Amortización / capitalización`</strong>`{=html}
+
+</div>
+
+<div>
+
+`<strong>`{=html}Efecto noticia`</strong>`{=html}
+
+</div>
+:::
+
+Villegas analiza estos fenómenos para explicar el reparto efectivo de la
+carga.
+
+------------------------------------------------------------------------
+
+## Percusión
+
+Es el momento en que el impuesto recae inicialmente sobre el sujeto
+señalado por la ley.
+
+::: formula
+NORMA → CONTRIBUYENTE DE IURE
+:::
+
+Si ese sujeto soporta definitivamente la carga, percusión e incidencia
+pueden coincidir.
+
+------------------------------------------------------------------------
+
+## Traslación
+
+Consiste en transferir económicamente la carga a otra persona.
+
+::: flujo
+<div>
+
+CONTRIBUYENTE DE IURE
+
+</div>
+
+→
+
+<div>
+
+PRECIO / RELACIÓN ECONÓMICA
+
+</div>
+
+→
+
+<div>
+
+TERCERO
+
+</div>
+:::
+
+Villegas advierte que la traslación depende de circunstancias económicas
+y no puede afirmarse a priori en todos los casos.
+
+------------------------------------------------------------------------
+
+## Trasladable ≠ trasladado
+
+::: contraste
+`<strong>`{=html}Impuesto
+trasladable`</strong>`{=html}`<br>`{=html}afirmación abstracta sobre una
+clase de impuesto `<br>`{=html}`<br>`{=html} `<strong>`{=html}Impuesto
+trasladado`</strong>`{=html}`<br>`{=html}comprobación de que la
+transferencia ocurrió efectivamente
+:::
+
+Para Villegas, jurídicamente importa la **realidad del caso**.
+
+------------------------------------------------------------------------
+
+## Jurisprudencia · traslación
+
+Villegas destaca que la traslación ha sido considerada por la
+jurisprudencia al resolver cuestiones de confiscatoriedad.
+
+Cita, entre otros:
+
+-   **Fallos 287:79**
+-   **Fallos 297:500**
+-   **Fallos 308:2153**
+
+::: idea-central
+Importa identificar quién soporta efectivamente la carga en su
+patrimonio.
+:::
+
+------------------------------------------------------------------------
+
+## Incidencia
+
+Es el momento en que la carga llega a quien **ya no puede trasladarla**.
+
+::: formula
+TRASLACIÓN → SUJETO INCIDIDO → CARGA DEFINITIVA
+:::
+
+El incidido es el contribuyente de facto definitivo.
+
+------------------------------------------------------------------------
+
+## Difusión
+
+La carga tributaria puede producir efectos que exceden al sujeto
+incidido.
+
+Villegas analiza repercusiones sobre:
+
+-   precios;
+-   demanda;
+-   oferta;
+-   consumo;
+-   ahorro;
+-   producción.
+
+::: idea-central
+El impuesto puede modificar relaciones económicas más amplias que la
+relación Fisco-contribuyente.
+:::
+
+------------------------------------------------------------------------
+
+## Efecto noticia
+
+Puede aparecer **antes** de la vigencia efectiva del impuesto.
+
+Ante la noticia de:
+
+-   creación de un tributo;
+-   aumento de uno existente;
+
+los agentes económicos pueden modificar anticipadamente precios,
+consumos o decisiones patrimoniales.
+
+------------------------------------------------------------------------
+
+## Impuestos en cascada
+
+Se produce cuando el gravamen de una etapa se incorpora a la base
+económica de etapas posteriores.
+
+### Acumulación
+
+El impuesto se integra al costo al adicionarse márgenes sucesivos.
+
+### Piramidación
+
+El aumento final del precio supera el monto que el Fisco recauda por el
+tributo.
+
+------------------------------------------------------------------------
+
+## Efectos en el espacio {#efectos-en-el-espacio .section-title}
+
+### Principio general
+
+Cada Estado, en razón de su soberanía, procura gravar situaciones
+imponibles que se encuentran bajo su poder de imperio.
+
+El problema consiste en determinar **qué conexión territorial o
+personal** justifica la imposición.
+
+------------------------------------------------------------------------
+
+## Criterios de vinculación
+
+Villegas examina criterios utilizados por los Estados para conectar una
+manifestación de riqueza con su potestad tributaria.
+
+Entre ellos pueden aparecer:
+
+-   territorialidad;
+-   domicilio o residencia;
+-   nacionalidad, según el sistema;
+-   fuente de la renta o localización del hecho.
+
+::: idea-central
+La elección de puntos de conexión puede generar superposición entre
+potestades tributarias.
+:::
+
+------------------------------------------------------------------------
+
+## Doble imposición
+
+Cuando dos o más potestades fiscales pretenden gravar una misma
+manifestación económica pueden aparecer fenómenos de doble o múltiple
+imposición.
+
+Esto explica la importancia del **Derecho Tributario Internacional** y
+de los mecanismos de coordinación.
+
+------------------------------------------------------------------------
+
+## Federalismo fiscal {#federalismo-fiscal .section-title}
+
+El Word define federalismo fiscal como el conjunto de problemas
+relativos a la:
+
+**planificación · distribución · coordinación**
+
+de potestades tributarias entre distintos niveles de gobierno.
+
+::: idea-central
+No basta que un Estado sea políticamente federal: el sistema fiscal debe
+proporcionar recursos compatibles con las funciones asignadas a cada
+nivel.
+:::
+
+------------------------------------------------------------------------
+
+## Federalismo argentino
+
+Villegas destaca la coexistencia de potestades fiscales:
+
+-   Nación;
+-   provincias;
+-   municipios.
+
+Esto genera un sistema de competencias:
+
+**exclusivas · concurrentes · coordinadas**
+
+y explica la importancia de la coparticipación.
+
+------------------------------------------------------------------------
+
+## Derecho Constitucional Tributario {#derecho-constitucional-tributario .section-title}
+
+::: definicion
+Estudia las normas fundamentales que disciplinan el ejercicio del poder
+tributario y las que delimitan y coordinan las potestades entre
+distintas esferas estatales.
+:::
+
+Para Villegas, constituye una parte del **Derecho Constitucional**,
+tributaria por el objeto al que se refiere.
+
+------------------------------------------------------------------------
+
+## Potestad tributaria
+
+::: definicion
+Facultad del Estado de crear, modificar o suprimir unilateralmente
+tributos.
+:::
+
+Su ejercicio permite obligar a las personas sometidas a la competencia
+estatal a entregar una porción de sus rentas o patrimonios para atender
+necesidades públicas.
+
+::: alerta
+En el Estado de derecho, potestad tributaria no significa poder
+ilimitado.
+:::
+
+------------------------------------------------------------------------
+
+## Poder tributario y Constitución
+
+::: formula
+POTESTAD TRIBUTARIA \< CONSTITUCIÓN
+:::
+
+En la Argentina:
+
+-   Constitución rígida;
+-   control judicial de constitucionalidad;
+-   distribución federal de competencias;
+-   garantías del contribuyente.
+
+------------------------------------------------------------------------
+
+## Límites al poder de imposición {#límites-al-poder-de-imposición .section-title}
+
+Villegas distingue:
+
+::: dos
+<div>
+
+`<strong>`{=html}Límite formal`</strong>`{=html}`<br>`{=html}Legalidad
+
+</div>
+
+<div>
+
+`<strong>`{=html}Límites
+materiales`</strong>`{=html}`<br>`{=html}Justicia de la imposición
+
+</div>
+:::
+
+La Constitución no solo pregunta **quién puede crear el tributo**, sino
+también bajo qué condiciones materiales puede hacerlo.
+
+------------------------------------------------------------------------
+
+## Principio de legalidad
+
+::: idea-central
+No hay tributo sin ley.
+:::
+
+La potestad tributaria debe concretarse mediante preceptos legislativos.
+
+La reserva legal alcanza los elementos estructurales esenciales de la
+obligación tributaria.
+
+------------------------------------------------------------------------
+
+## Legalidad y Poder Ejecutivo
+
+Villegas destaca especialmente:
+
+-   la prohibición constitucional de DNU en materia tributaria;
+-   los límites a la delegación legislativa;
+-   la necesidad de preservar la competencia del Congreso.
+
+::: pregunta
+¿Por qué la legalidad tributaria es algo más que una mera formalidad?
+:::
+
+------------------------------------------------------------------------
+
+## Capacidad contributiva
+
+::: definicion
+Aptitud económica de los miembros de la comunidad para contribuir a la
+cobertura de los gastos públicos.
+:::
+
+Para Villegas, constituye un criterio central de justicia tributaria.
+
+------------------------------------------------------------------------
+
+## Capacidad contributiva en la Constitución argentina
+
+Villegas entiende que, aunque no aparezca nominada expresamente, surge
+implícitamente de varias cláusulas:
+
+-   **art. 4 CN**: contribuciones equitativas y proporcionales;
+-   **art. 16 CN**: igualdad como base del impuesto;
+-   **art. 75 inc. 2 CN**: proporcionalidad en contribuciones directas.
+
+::: formula
+IGUALDAD + EQUIDAD + PROPORCIONALIDAD → CAPACIDAD CONTRIBUTIVA
+:::
+
+------------------------------------------------------------------------
+
+## Implicancias de la capacidad contributiva
+
+Villegas señala consecuencias centrales:
+
+1.  deben contribuir quienes cuentan con medios aptos;
+2.  quienes tienen mayor capacidad deben participar en mayor medida;
+3.  no puede seleccionarse como hecho imponible una circunstancia que no
+    revele aptitud económica;
+4.  el sistema debe preservar un mínimo compatible con las necesidades
+    vitales.
+
+------------------------------------------------------------------------
+
+## Igualdad tributaria
+
+La igualdad no exige identidad matemática.
+
+::: idea-central
+La igualdad tributaria supone tratar igualmente a quienes se encuentran
+en condiciones equivalentes y admite diferenciaciones razonables.
+:::
+
+En materia fiscal, Villegas vincula igualdad con capacidad contributiva.
+
+------------------------------------------------------------------------
+
+## Generalidad
+
+La tributación debe alcanzar a quienes se encuentran comprendidos en las
+condiciones que justifican el gravamen.
+
+La generalidad se opone a:
+
+-   privilegios arbitrarios;
+-   exclusiones sin fundamento;
+-   tratamientos discriminatorios incompatibles con la Constitución.
+
+------------------------------------------------------------------------
+
+## Proporcionalidad y progresividad
+
+La proporcionalidad constitucional no obliga necesariamente a utilizar
+una alícuota única.
+
+Villegas analiza la compatibilidad entre:
+
+-   proporcionalidad;
+-   progresividad;
+-   igualdad;
+-   capacidad contributiva.
+
+::: idea-central
+La progresividad puede operar como instrumento para distribuir la carga
+según la distinta capacidad económica.
+:::
+
+------------------------------------------------------------------------
+
+## No confiscatoriedad
+
+La tributación encuentra un límite en el derecho de propiedad.
+
+::: idea-central
+Un tributo puede devenir inconstitucional cuando absorbe una porción
+sustancial de la renta o del patrimonio en condiciones que la
+jurisprudencia considera confiscatorias.
+:::
+
+Villegas destaca que el análisis debe atender a las circunstancias del
+caso.
+
+------------------------------------------------------------------------
+
+## Confiscatoriedad y traslación
+
+Aquí se conectan los efectos económicos con el Derecho Constitucional
+Tributario.
+
+::: formula
+¿QUIÉN SOPORTÓ REALMENTE EL IMPUESTO?
+:::
+
+Si la carga fue efectivamente trasladada, el análisis del perjuicio
+patrimonial cambia.
+
+Por eso Villegas considera jurídicamente relevante la traslación.
+
+------------------------------------------------------------------------
+
+## Razonabilidad
+
+Villegas recoge la concepción según la cual la razonabilidad funciona:
+
+-   como garantía constitucional;
+-   como criterio de valoración de otras garantías.
+
+::: contraste
+`<strong>`{=html}Legalidad formal`</strong>`{=html} +
+`<strong>`{=html}justicia intrínseca`</strong>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## Control de constitucionalidad
+
+En la Argentina, el control corresponde al **Poder Judicial**.
+
+Villegas destaca:
+
+-   control en una causa concreta;
+-   intervención de todos los jueces competentes;
+-   eventual llegada a la Corte por recurso extraordinario;
+-   imposibilidad general de que la Administración declare por sí la
+    inconstitucionalidad.
+
+------------------------------------------------------------------------
+
+## Fuentes del Derecho Tributario {#fuentes-del-derecho-tributario .section-title}
+
+Villegas remite inicialmente al tratamiento general de las fuentes del
+Derecho Financiero.
+
+En materia tributaria adquiere especial intensidad:
+
+### La ley
+
+porque la creación de obligaciones tributarias está sometida al
+principio de legalidad.
+
+------------------------------------------------------------------------
+
+## Fuentes extralegales
+
+Villegas admite relevancia de:
+
+-   doctrina;
+-   jurisprudencia;
+-   usos y costumbres;
+-   principios generales del derecho.
+
+::: alerta
+No pueden reemplazar a la ley para crear un tributo ni sus elementos
+estructurales esenciales.
+:::
+
+------------------------------------------------------------------------
+
+## Jurisprudencia como fuente
+
+Aunque no crea el tributo, la jurisprudencia puede ser decisiva para
+resolver casos concretos.
+
+Esto se advierte especialmente en cuestiones como:
+
+-   naturaleza de las especies tributarias;
+-   tasas;
+-   capacidad contributiva;
+-   confiscatoriedad;
+-   distribución de potestades.
+
+------------------------------------------------------------------------
+
+## Vigencia espacial de la norma {#vigencia-espacial-de-la-norma .section-title}
+
+La soberanía permite a cada Estado gravar situaciones sometidas a su
+poder de imperio.
+
+Pero la economía contemporánea multiplica los puntos de conexión.
+
+::: pregunta
+¿Qué ocurre cuando una renta se genera en un país, pertenece a un
+residente de otro y deriva de operaciones realizadas en varios
+territorios?
+:::
+
+La respuesta exige reglas de vinculación y coordinación.
+
+------------------------------------------------------------------------
+
+## Vigencia temporal {#vigencia-temporal .section-title}
+
+La norma tributaria debe ubicarse en el tiempo.
+
+Preguntas centrales:
+
+-   ¿cuándo comienza a regir?
+-   ¿qué hechos quedan alcanzados?
+-   ¿qué sucede con hechos anteriores?
+-   ¿cómo opera frente a tributos periódicos?
+
+------------------------------------------------------------------------
+
+## Irretroactividad
+
+Villegas analiza la retroactividad tributaria dentro del marco general
+del orden jurídico y de las garantías constitucionales.
+
+::: idea-central
+El problema no se resuelve con una afirmación automática: debe
+analizarse la naturaleza de la norma, el momento de configuración del
+hecho imponible y las garantías constitucionales comprometidas.
+:::
+
+------------------------------------------------------------------------
+
+## Tributos instantáneos y periódicos
+
+La dimensión temporal del hecho imponible vuelve a ser decisiva.
+
+### Instantáneo
+
+La ley debe confrontarse con un hecho perfeccionado en un momento
+concreto.
+
+### Periódico
+
+Debe determinarse cuándo se considera completado el período
+jurídicamente relevante.
+
+------------------------------------------------------------------------
+
+## Interpretación de la norma tributaria {#interpretación-de-la-norma-tributaria .section-title}
+
+Villegas rechaza la idea de que las normas tributarias deban
+interpretarse siempre:
+
+-   a favor del Fisco; o
+-   a favor del contribuyente.
+
+::: idea-central
+La finalidad es determinar el verdadero sentido y alcance de la norma
+conforme a los métodos jurídicos de interpretación.
+:::
+
+------------------------------------------------------------------------
+
+## Métodos interpretativos
+
+En el análisis tributario pueden intervenir métodos:
+
+-   literal;
+-   lógico;
+-   histórico;
+-   sistemático;
+-   teleológico.
+
+La particularidad tributaria no elimina las reglas generales de
+interpretación jurídica.
+
+------------------------------------------------------------------------
+
+## Realidad económica
+
+Villegas dedica especial atención a la **interpretación según la
+realidad económica**.
+
+::: formula
+FORMA JURÍDICA ≠ NECESARIAMENTE REALIDAD ECONÓMICA
+:::
+
+Cuando las formas utilizadas distorsionan la realidad para obtener un
+tratamiento fiscal que no corresponde, puede ser necesario atender a la
+sustancia efectiva de los hechos.
+
+------------------------------------------------------------------------
+
+## Intención empírica e intención jurídica
+
+Villegas distingue:
+
+### Intención empírica
+
+Resultado económico efectivamente perseguido.
+
+### Intención jurídica
+
+Forma jurídica elegida para producir determinados efectos.
+
+::: idea-central
+La interpretación económica atiende especialmente al resultado económico
+real cuando las formas jurídicas son utilizadas de manera inadecuada
+para encubrirlo.
+:::
+
+------------------------------------------------------------------------
+
+## Límite de la realidad económica
+
+La realidad económica no autoriza a ignorar libremente la ley.
+
+Su utilización se encuentra jurídicamente encauzada.
+
+Villegas vincula el criterio con el régimen de la **ley 11.683**, que
+permite atender a los actos, situaciones y relaciones efectivamente
+realizados y prescindir de formas inadecuadas.
+
+------------------------------------------------------------------------
+
+## Integración de la unidad
+
+::: gran-flujo
+<div>
+
+POTESTAD TRIBUTARIA
+
+</div>
+
+↓
+
+<div>
+
+LEY
+
+</div>
+
+↓
+
+<div>
+
+HECHO IMPONIBLE
+
+</div>
+
+↓
+
+<div>
+
+TRIBUTO
+
+</div>
+
+↓
+
+<div>
+
+EFECTOS ECONÓMICOS
+
+</div>
+
+↓
+
+<div>
+
+LÍMITES CONSTITUCIONALES
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Caso integrador I
+
+Una provincia crea por ley un gravamen denominado **"tasa"** sobre
+determinados establecimientos.
+
+El monto se calcula sobre sus ingresos.
+
+### Para analizar
+
+1.  ¿El nombre asignado por la ley determina su naturaleza?
+2.  ¿Qué actividad estatal debería existir para que sea una tasa?
+3.  ¿Qué diferencia habría si no existiera actividad estatal
+    individualizada?
+4.  ¿Qué importancia tiene Fallos 332:1503 en el enfoque de Villegas?
+
+------------------------------------------------------------------------
+
+## Caso integrador II
+
+Una empresa es jurídicamente responsable de ingresar un impuesto, pero
+logra incorporar íntegramente su costo al precio.
+
+### Para analizar
+
+1.  ¿Quién es el contribuyente de iure?
+2.  ¿Quién puede terminar siendo el contribuyente de facto?
+3.  ¿Qué fenómeno económico se produjo?
+4.  ¿Por qué esta cuestión puede adquirir relevancia jurídica?
+5.  ¿Cómo se conecta con un eventual planteo de confiscatoriedad?
+
+------------------------------------------------------------------------
+
+## Caso integrador III
+
+Una norma tributaria entra en vigencia durante el desarrollo de un
+período fiscal.
+
+### Para analizar
+
+-   ¿el tributo es instantáneo o periódico?
+-   ¿cuándo se configura el hecho imponible?
+-   ¿qué norma resulta temporalmente aplicable?
+-   ¿existe verdadera retroactividad?
+-   ¿qué garantías constitucionales podrían estar comprometidas?
+
+------------------------------------------------------------------------
+
+## Preguntas de cierre
+
+1.  ¿Cuáles son los elementos esenciales del concepto de tributo?
+2.  ¿Qué distingue impuesto, tasa y contribución especial?
+3.  ¿Por qué Villegas no identifica impuestos directos e indirectos
+    simplemente por la traslación?
+4.  ¿Qué diferencia existe entre percusión, traslación e incidencia?
+5.  ¿Qué significa capacidad contributiva?
+6.  ¿Cuáles son los límites constitucionales de la potestad tributaria?
+7.  ¿Qué papel cumple la jurisprudencia?
+8.  ¿Cómo opera el criterio de realidad económica?
+
+------------------------------------------------------------------------
+
+## Fuente exclusiva
+
+**Héctor B. Villegas**, *Curso de finanzas, derecho financiero y
+tributario*, edición 2021.
+
+La **estructura temática** de la presentación sigue `tributario.2.docx`.
+
+Todo desarrollo adicional fue realizado **exclusivamente a partir del
+Villegas adjunto**.
+
+No se incorporaron otros manuales, doctrina externa ni jurisprudencia no
+citada por Villegas.

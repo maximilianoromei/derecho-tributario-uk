@@ -1,0 +1,1255 @@
+---
+author: Presentación de grado
+format:
+  revealjs:
+    center: false
+    css: styles.css
+    hash: true
+    height: 720
+    margin: 8.0e-2
+    navigation-mode: linear
+    slide-number: true
+    theme: default
+    transition: fade
+    width: 1280
+subtitle: Finanzas públicas · necesidades públicas · gasto · recursos ·
+  presupuesto
+title: Derecho Financiero y Actividad Financiera del Estado
+---
+
+## Punto de partida {#punto-de-partida .section-title}
+
+### ¿Qué estudian las finanzas públicas?
+
+::: idea-central
+En su concepción actual, las finanzas públicas estudian **cómo y por qué
+el Estado obtiene sus ingresos y efectúa sus erogaciones**, considerando
+de manera sintética los aspectos económicos, políticos y jurídicos del
+fenómeno financiero.
+:::
+
+**Eje de la clase**
+
+**Necesidades públicas → servicios y funciones públicas → gastos →
+recursos → presupuesto → regulación jurídica**
+
+::: fuente
+Fuente exclusiva: Héctor B. Villegas, `<em>`{=html}Curso de finanzas,
+derecho financiero y tributario`</em>`{=html}, ed. 2021, Tít. I, cap. I.
+:::
+
+------------------------------------------------------------------------
+
+## Una ciencia de síntesis
+
+Villegas representa a las finanzas públicas como una disciplina que
+integra tres dimensiones:
+
+::: triada
+<div>
+
+`<strong>`{=html}ECONÓMICA`</strong>`{=html}`<br>`{=html}efectos de
+ingresos y gastos
+
+</div>
+
+<div>
+
+`<strong>`{=html}POLÍTICA`</strong>`{=html}`<br>`{=html}elección de
+fines y medios
+
+</div>
+
+<div>
+
+`<strong>`{=html}JURÍDICA`</strong>`{=html}`<br>`{=html}reglas que
+legitiman la actividad
+
+</div>
+:::
+
+No basta preguntar **cuánto** recauda o gasta el Estado.
+
+También importa:
+
+-   **para qué** lo hace;
+-   **por qué** elige determinados medios;
+-   **con qué habilitación jurídica** actúa.
+
+::: fuente
+Villegas, 2021, Tít. I, cap. I.
+:::
+
+------------------------------------------------------------------------
+
+## Finanzas públicas y finanzas privadas
+
+La expresión **finanzas públicas** permite distinguir la actividad
+financiera estatal de las finanzas privadas.
+
+Para Villegas, las expresiones:
+
+-   finanzas;
+-   finanzas públicas;
+-   hacienda;
+-   hacienda pública;
+
+pueden utilizarse, a los fines de su Curso, con significado equivalente.
+
+::: pregunta
+Pregunta guía: ¿qué vuelve "pública" a una actividad financiera?
+:::
+
+------------------------------------------------------------------------
+
+## Necesidades humanas y necesidades públicas {#necesidades-humanas-y-necesidades-públicas .section-title}
+
+### El punto de partida de la actividad financiera
+
+Las necesidades humanas son múltiples y crecen con la evolución de la
+civilización.
+
+Pueden ser:
+
+-   **materiales**: alimentación, vestido, habitación;
+-   **inmateriales**: intelectuales, religiosas, morales.
+
+Pero la vida colectiva genera requerimientos que exceden al individuo
+considerado aisladamente.
+
+::: fuente
+Villegas, 2021, Tít. I, cap. I, § 2.
+:::
+
+------------------------------------------------------------------------
+
+## Necesidades públicas
+
+::: definicion
+Las necesidades públicas nacen de la vida colectiva y explican la
+actuación estatal dirigida a su satisfacción.
+:::
+
+Villegas distingue dos grandes categorías:
+
+  -----------------------------------------------------------------------
+  Necesidades públicas                Rasgo central
+  ----------------------------------- -----------------------------------
+  **Absolutas**                       Son consustanciales a la existencia
+                                      misma del Estado
+
+  **Relativas**                       Se vinculan con el progreso y
+                                      bienestar social y cambian
+                                      históricamente
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## Necesidades públicas absolutas
+
+Son las que justifican primordialmente la existencia del Estado y no
+pueden ser delegadas a los particulares.
+
+::: tres-columnas
+<div>
+
+`<strong>`{=html}Defensa
+exterior`</strong>`{=html}`<br>`{=html}Protección frente a amenazas
+externas.
+
+</div>
+
+<div>
+
+`<strong>`{=html}Orden interno`</strong>`{=html}`<br>`{=html}Condiciones
+de convivencia y seguridad.
+
+</div>
+
+<div>
+
+`<strong>`{=html}Administración de
+justicia`</strong>`{=html}`<br>`{=html}Resolución institucional de
+conflictos.
+
+</div>
+:::
+
+::: idea-central
+Para Villegas, estas tres necesidades son esenciales y de satisfacción
+estatal exclusiva.
+:::
+
+------------------------------------------------------------------------
+
+## Necesidades públicas relativas
+
+Son necesidades que:
+
+-   nacen de la vida en sociedad;
+-   evolucionan con la civilización;
+-   se vinculan con el progreso y el bienestar;
+-   pueden admitir intervención de particulares.
+
+Ejemplos utilizados por Villegas:
+
+**instrucción · salubridad · asistencia social · transportes ·
+comunicaciones**
+
+::: pregunta
+¿La categoría de "necesidad pública" es inmutable?
+:::
+
+------------------------------------------------------------------------
+
+## De la necesidad al servicio público
+
+::: flujo
+<div>
+
+Necesidad pública
+
+</div>
+
+→
+
+<div>
+
+Actuación estatal
+
+</div>
+
+→
+
+<div>
+
+Función / servicio
+
+</div>
+
+→
+
+<div>
+
+Gasto
+
+</div>
+:::
+
+Las funciones y servicios públicos son actividades que el Estado realiza
+para satisfacer necesidades públicas.
+
+La actividad financiera aparece porque esa actuación **requiere medios
+económicos**.
+
+------------------------------------------------------------------------
+
+## Servicios esenciales y no esenciales
+
+### Servicios esenciales
+
+-   satisfacen necesidades públicas absolutas;
+-   son inherentes a la soberanía;
+-   deben ser prestados por el Estado.
+
+### Servicios no esenciales
+
+-   atienden necesidades relativas;
+-   se relacionan con progreso y bienestar;
+-   pueden prestarse indirectamente mediante particulares;
+-   permanecen bajo control estatal.
+
+------------------------------------------------------------------------
+
+## Servicios divisibles e indivisibles
+
+  -----------------------------------------------------------------------
+                          Divisibles              Indivisibles
+  ----------------------- ----------------------- -----------------------
+  **Identificación del    Es posible              Benefician a la
+  destinatario**          individualizar a quien  colectividad sin
+                          recibe la prestación    individualización
+                                                  práctica
+
+  **Ejemplos de           justicia, educación     seguridad exterior e
+  Villegas**              pública, registros      interior
+  -----------------------------------------------------------------------
+
+::: pregunta
+Esta distinción será importante después: ¿qué tipo de recurso puede
+asociarse más fácilmente a un servicio divisible?
+:::
+
+------------------------------------------------------------------------
+
+## Actividad financiera del Estado {#actividad-financiera-del-estado .section-title}
+
+### ¿Por qué aparece?
+
+Para movilizar funciones y servicios públicos el Estado debe realizar
+**gastos**.
+
+Para efectuar esos gastos necesita obtener **recursos**.
+
+::: formula
+NECESIDADES → GASTOS → RECURSOS
+:::
+
+Pero gastos y recursos no son fenómenos aislados: integran una actividad
+estatal unitaria.
+
+------------------------------------------------------------------------
+
+## Tres momentos de la actividad financiera
+
+::: pasos
+<div>
+
+1`<strong>`{=html}Previsión`</strong>`{=html}`<br>`{=html}Estimación de
+gastos e ingresos futuros.
+
+</div>
+
+<div>
+
+2`<strong>`{=html}Obtención`</strong>`{=html}`<br>`{=html}Ingreso de los
+recursos necesarios.
+
+</div>
+
+<div>
+
+3`<strong>`{=html}Aplicación`</strong>`{=html}`<br>`{=html}Destino de
+los ingresos a los gastos previstos.
+
+</div>
+:::
+
+El **presupuesto** conecta y ordena estos momentos.
+
+------------------------------------------------------------------------
+
+## Actividad financiera: medios y fines
+
+La actividad financiera no es un fin en sí misma.
+
+Los recursos son **medios** para hacer posible la actividad estatal.
+
+Los gastos se justifican por los **fines públicos** perseguidos.
+
+::: idea-central
+Villegas insiste en que no deben estudiarse separadamente los ingresos y
+los gastos: son lados interdependientes del fenómeno financiero.
+:::
+
+------------------------------------------------------------------------
+
+## Política, economía y técnica financiera
+
+### Política financiera
+
+Selecciona los gastos y recursos en función de los fines que el gobierno
+procura alcanzar.
+
+### Economía financiera
+
+Examina los efectos de las medidas financieras sobre individuos y
+sociedad.
+
+### Administración o técnica financiera
+
+Procura optimizar las operaciones financieras, su registración, gestión
+y control.
+
+::: fuente
+Villegas, 2021, Tít. I, cap. I, §§ 7 a 9.
+:::
+
+------------------------------------------------------------------------
+
+## Gasto público {#gasto-público .section-title}
+
+### Concepto
+
+Villegas caracteriza el gasto público a partir de cuatro elementos:
+
+::: cuatro
+<div>
+
+`<strong>`{=html}1.`</strong>`{=html} Erogación dineraria
+
+</div>
+
+<div>
+
+`<strong>`{=html}2.`</strong>`{=html} Efectuada por el Estado
+
+</div>
+
+<div>
+
+`<strong>`{=html}3.`</strong>`{=html} En virtud de ley
+
+</div>
+
+<div>
+
+`<strong>`{=html}4.`</strong>`{=html} Orientada a fines públicos
+
+</div>
+:::
+
+::: fuente
+Villegas, 2021, Tít. I, cap. II.
+:::
+
+------------------------------------------------------------------------
+
+## El gasto como momento determinante
+
+El gasto público no es solamente la consecuencia de contar con ingresos.
+
+También permite advertir:
+
+-   qué actividades despliega el Estado;
+-   cuáles son sus prioridades;
+-   qué necesidades decide atender;
+-   qué orientación adopta la política pública.
+
+::: idea-central
+Los gastos muestran de manera especialmente clara la actividad y las
+tendencias de una comunidad política.
+:::
+
+------------------------------------------------------------------------
+
+## Legalidad del gasto
+
+En un Estado de derecho:
+
+::: definicion
+No hay gasto público legítimo sin una ley que lo autorice.
+:::
+
+La exigencia de legalidad conecta el gasto con:
+
+-   la autorización presupuestaria;
+-   la ejecución conforme a derecho;
+-   el control posterior del empleo de los fondos públicos.
+
+------------------------------------------------------------------------
+
+## Necesidad pública y legitimidad
+
+Villegas introduce una precisión importante:
+
+Un egreso realizado por el Estado con caudales públicos puede existir
+como **gasto público**, aun cuando no satisfaga una verdadera necesidad
+pública.
+
+Pero en ese caso será un **gasto ilegítimo**.
+
+::: contraste
+`<strong>`{=html}Necesidad pública`</strong>`{=html} = presupuesto de
+legitimidad del gasto`<br>`{=html} `<strong>`{=html}No
+necesariamente`</strong>`{=html} = presupuesto de existencia material
+del gasto
+:::
+
+------------------------------------------------------------------------
+
+## Dos grandes clases de gasto
+
+Villegas agrupa genéricamente bajo la expresión "gastos públicos":
+
+### Erogaciones públicas
+
+Derivadas, entre otras, de la deuda y de los servicios públicos.
+
+### Inversiones patrimoniales
+
+Relacionadas con adquisición de bienes de uso o producción, obras y
+servicios públicos.
+
+------------------------------------------------------------------------
+
+## Reparto del gasto
+
+Villegas analiza especialmente dos dimensiones:
+
+### En el espacio
+
+El problema de distribuir el gasto entre regiones y procurar el **máximo
+bienestar general**, evitando desequilibrios territoriales.
+
+### En el tiempo
+
+Grandes obras pueden justificar que el costo se distribuya entre varios
+ejercicios, incluso mediante crédito público.
+
+::: pregunta
+¿Quién debe soportar el costo de una obra cuyos beneficios se extienden
+durante décadas?
+:::
+
+------------------------------------------------------------------------
+
+## Recursos públicos {#recursos-públicos .section-title}
+
+### La otra cara de la actividad financiera
+
+Los recursos públicos son los medios con los cuales el Estado afronta
+los gastos necesarios para el cumplimiento de sus fines.
+
+::: formula
+GASTOS PÚBLICOS ↔ RECURSOS PÚBLICOS
+:::
+
+No existe una comprensión completa de uno sin considerar el otro.
+
+------------------------------------------------------------------------
+
+## ¿De dónde obtiene recursos el Estado?
+
+En el esquema básico del material:
+
+::: tres-columnas
+<div>
+
+`<strong>`{=html}Patrimonio
+estatal`</strong>`{=html}`<br>`{=html}bienes, rentas, explotaciones y
+participaciones
+
+</div>
+
+<div>
+
+`<strong>`{=html}Patrimonio de
+particulares`</strong>`{=html}`<br>`{=html}fundamentalmente, tributos
+
+</div>
+
+<div>
+
+`<strong>`{=html}Crédito público`</strong>`{=html}`<br>`{=html}recursos
+obtenidos mediante endeudamiento
+
+</div>
+:::
+
+Villegas desarrolla luego clasificaciones más amplias de los recursos.
+
+------------------------------------------------------------------------
+
+## Evolución histórica de los recursos {#evolución-histórica-de-los-recursos .section-title}
+
+### Antigüedad
+
+Predominaban:
+
+-   prestaciones de súbditos y pueblos vencidos;
+-   rentas patrimoniales;
+-   monopolios estatales.
+
+No existía, en general, una separación clara entre el patrimonio del
+Estado y el patrimonio del soberano.
+
+------------------------------------------------------------------------
+
+## Tributación en la Antigüedad
+
+Villegas recuerda antecedentes rudimentarios:
+
+-   **Egipto ptolemaico:** gravámenes sobre consumos;
+-   **Grecia de Pericles:** formas de imposición progresiva sobre la
+    renta;
+-   **Roma:** diversos tributos, entre ellos la *vicesima hereditatum*.
+
+::: fuente
+Villegas, 2021, Tít. I, cap. III, § 3.
+:::
+
+------------------------------------------------------------------------
+
+## Edad Media
+
+Continúa la confusión entre patrimonio estatal y patrimonio del
+soberano.
+
+Se desarrollan:
+
+### Regalías
+
+Pagos vinculados a concesiones del soberano: acuñar moneda, utilizar
+aguas, etc.
+
+### Tasas feudales
+
+Prestaciones exigidas por determinados servicios o permisos: ejercer
+actividades, transitar rutas, cruzar puentes o usar tierras.
+
+------------------------------------------------------------------------
+
+## Formación de los Estados modernos
+
+El fortalecimiento del poder real transforma el sistema de ingresos.
+
+Las **"ayudas"**:
+
+1.  nacen como recursos excepcionales;
+2.  se vinculan inicialmente con necesidades concretas;
+3.  se vuelven permanentes ante la necesidad de sostener estructuras
+    estables;
+4.  contribuyen al surgimiento de la concepción moderna del impuesto.
+
+------------------------------------------------------------------------
+
+## Del poder absoluto al fundamento del tributo
+
+En los siglos XVI y XVII predomina una concepción autoritaria del
+impuesto, fundada en la soberanía absoluta.
+
+La resistencia frente a la arbitrariedad prepara un cambio profundo.
+
+### Después de la Revolución Francesa
+
+Las ideas liberales buscan:
+
+-   limitar discrecionalidad y autoritarismo;
+-   justificar éticamente el impuesto;
+-   vincular la carga con la potencialidad económica del ciudadano.
+
+------------------------------------------------------------------------
+
+## Siglos XIX y XX
+
+### Siglo XIX
+
+Disminuye el peso de los recursos patrimoniales y los **recursos
+tributarios** pasan a ocupar un lugar central.
+
+### Siglo XX
+
+El intervencionismo impulsa actividades económicas, comerciales e
+industriales del Estado.
+
+Villegas observa críticamente que la empresa pública no siempre produjo
+ingresos y que, en muchos casos, generó pérdidas, lo que reforzó
+nuevamente el peso de la fuente tributaria.
+
+------------------------------------------------------------------------
+
+## Clasificaciones de los recursos
+
+Villegas destaca la utilidad de agrupar los ingresos según
+características comunes para determinar su régimen jurídico.
+
+Entre las clasificaciones tratadas aparecen:
+
+-   ordinarios / extraordinarios;
+-   efectivos / no efectivos;
+-   corrientes / de capital / de financiamiento;
+-   clasificación según la naturaleza y origen del recurso.
+
+::: fuente
+Villegas, 2021, Tít. I, cap. III.
+:::
+
+------------------------------------------------------------------------
+
+## Recursos ordinarios y extraordinarios
+
+### Ordinarios
+
+Ingresos percibidos regularmente y destinados a cubrir gastos
+habituales.
+
+### Extraordinarios
+
+Ingresos excepcionales u ocasionales, como ciertos gravámenes por única
+vez, préstamos u otras fuentes no periódicas.
+
+::: alerta
+Villegas advierte que esta clasificación tradicional fue discutida y
+perdió centralidad en el derecho positivo.
+:::
+
+------------------------------------------------------------------------
+
+## Recursos efectivos y no efectivos
+
+### Efectivos
+
+El ingreso de dinero no se compensa con una salida patrimonial
+equivalente.
+
+Ejemplos: tributos y rentas de bienes estatales.
+
+### No efectivos
+
+La entrada de dinero se corresponde con una disminución patrimonial.
+
+Ejemplo: venta de un bien del dominio privado estatal.
+
+------------------------------------------------------------------------
+
+## Clasificación presupuestaria de recursos
+
+### Recursos corrientes
+
+Tributarios y no tributarios: rentas, utilidades, tarifas, etc.
+
+### Recursos de capital
+
+Venta de activos, reembolso de préstamos, uso del crédito, remanentes.
+
+### Recursos de financiamiento
+
+Fuentes destinadas a financiar distintas erogaciones conforme al sistema
+presupuestario.
+
+------------------------------------------------------------------------
+
+## Derecho financiero {#derecho-financiero .section-title}
+
+### De actividad financiera a actividad jurídica
+
+La actividad financiera se convierte en **actividad jurídica** cuando
+está plasmada y regulada por normas jurídicas.
+
+::: idea-central
+La actividad financiera constituye el objeto del derecho financiero en
+cuanto se encuentra jurídicamente regulada.
+:::
+
+::: fuente
+Villegas, 2021, Tít. II, cap. IV.
+:::
+
+------------------------------------------------------------------------
+
+## Concepto y caracterización
+
+Villegas presenta distintas formulaciones doctrinales y muestra un
+núcleo común:
+
+::: definicion
+El derecho financiero estudia el conjunto de normas jurídicas que
+regulan la actividad financiera estatal: obtención de recursos,
+ordenación de gastos y pagos, órganos, procedimientos y relaciones
+jurídicas que esa actividad genera.
+:::
+
+------------------------------------------------------------------------
+
+## Caracteres del derecho financiero
+
+### Pertenece al derecho público
+
+Regula el poder estatal de mando en el campo financiero y su actuación
+respecto de necesidades colectivas.
+
+### No es un derecho excepcional
+
+La obtención y empleo de medios económicos es una actividad normal e
+imprescindible del Estado.
+
+### Es heterogéneo
+
+Reúne instituciones y normas de diversa naturaleza, unidas por su
+referencia a la actividad financiera.
+
+------------------------------------------------------------------------
+
+## Contenido del derecho financiero
+
+Villegas incluye, con finalidad universitaria:
+
+-   ordenación jurídica de los **recursos económicos**;
+-   normas sobre **gestión financiera**;
+-   ordenación jurídica del **presupuesto**;
+-   actos para obtener ingresos y ordenar gastos y pagos;
+-   **hacienda pública** como ciclo ingresos-gastos;
+-   teoría y regulación del **gasto público**;
+-   organización y **control** de la actividad financiera.
+
+------------------------------------------------------------------------
+
+## Divisiones: una lectura funcional
+
+::: mapa
+<div>
+
+`<strong>`{=html}Derecho
+tributario`</strong>`{=html}`<br>`{=html}recursos provenientes de
+tributos
+
+</div>
+
+<div>
+
+`<strong>`{=html}Derecho
+presupuestario`</strong>`{=html}`<br>`{=html}plan jurídico de ingresos y
+gastos
+
+</div>
+
+<div>
+
+`<strong>`{=html}Crédito público`</strong>`{=html}`<br>`{=html}obtención
+de recursos mediante empréstito
+
+</div>
+
+<div>
+
+`<strong>`{=html}Gasto y
+control`</strong>`{=html}`<br>`{=html}aplicación y fiscalización de
+fondos
+
+</div>
+:::
+
+::: nota
+Villegas subraya que el derecho financiero es heterogéneo: estas
+materias no forman un bloque normativo homogéneo.
+:::
+
+------------------------------------------------------------------------
+
+## Autonomía del derecho financiero {#autonomía-del-derecho-financiero .section-title}
+
+La pregunta por la autonomía debe partir de una premisa:
+
+::: idea-central
+El derecho es una unidad. Ninguna rama puede concebirse como
+absolutamente independiente del resto del orden jurídico.
+:::
+
+Conceptos como sujeto, deuda, crédito, pago, proceso o sanción tienen
+alcance jurídico general.
+
+------------------------------------------------------------------------
+
+## Parcelación y especialización
+
+La división del derecho en ramas responde a:
+
+-   crecimiento de las regulaciones;
+-   complejidad de las relaciones sociales;
+-   necesidades didácticas;
+-   especialización profesional;
+-   organización de competencias y órganos.
+
+Por eso puede hablarse de una **independencia relativa**, nunca
+absoluta.
+
+------------------------------------------------------------------------
+
+## Autonomía didáctica y funcional
+
+### Autonomía didáctica
+
+Se justifica cuando un conjunto de normas adquiere suficiente volumen
+para ser estudiado separadamente.
+
+### Autonomía funcional
+
+Puede predicarse cuando el conjunto normativo presenta homogeneidad y
+funciona como grupo orgánico y singularizado.
+
+::: pregunta
+¿Cumple el derecho financiero esta segunda condición?
+:::
+
+------------------------------------------------------------------------
+
+## La posición de Villegas
+
+Villegas rechaza la idea de una **autonomía científica absoluta** de una
+rama particular del derecho nacional.
+
+Respecto del derecho financiero destaca su **heterogeneidad**:
+
+**presupuesto · tributo · empréstito · multas · empresas públicas ·
+bienes estatales · concesiones · ejecución y control del gasto**
+
+::: contraste
+`<strong>`{=html}Derecho financiero:`</strong>`{=html}
+heterogéneo`<br>`{=html} `<strong>`{=html}Derecho
+tributario:`</strong>`{=html} mayor homogeneidad normativa
+:::
+
+------------------------------------------------------------------------
+
+## Derecho presupuestario {#derecho-presupuestario .section-title}
+
+### El presupuesto como punto de encuentro
+
+::: definicion
+El presupuesto expresa jurídicamente la relación entre los ingresos y
+los gastos del Estado dentro de un plan de actuación.
+:::
+
+Conecta:
+
+**recursos + gastos + autorización + ejecución + control**
+
+::: fuente
+Villegas, 2021, Tít. II, cap. VI.
+:::
+
+------------------------------------------------------------------------
+
+## Origen político del presupuesto
+
+Villegas sitúa sus antecedentes principales en Inglaterra:
+
+-   **1215 -- Carta Magna:** límites a la imposición sin consentimiento;
+-   **1628 -- Petition of Right:** continuidad de esa limitación;
+-   **1689 -- Bill of Rights:** ilegalidad de cobrar impuestos sin
+    consentimiento parlamentario.
+
+También se separan las finanzas de la Corona de las de la Nación y se
+consolida la aprobación parlamentaria periódica de gastos.
+
+------------------------------------------------------------------------
+
+## Presupuesto: evolución de la idea
+
+La concepción tradicional agrupaba en un documento los gastos y recursos
+previstos para el año siguiente y los sometía al Parlamento.
+
+La expansión de la intervención estatal amplía esa noción:
+
+-   planificación;
+-   presupuestos plurianuales;
+-   presupuesto económico;
+-   articulación con programas de gobierno.
+
+------------------------------------------------------------------------
+
+## Naturaleza jurídica
+
+En los Estados modernos el presupuesto adopta **forma de ley**.
+
+Villegas explica la discusión:
+
+### Ley formal
+
+Autoriza gastos y calcula recursos, sin crear normas sustanciales.
+
+### Ley material
+
+Contiene reglas jurídicas sustanciales.
+
+Para la Argentina, Villegas se inclina ---en el plano teórico--- por
+caracterizarlo como **ley formal**, atendiendo al régimen positivo
+analizado en la obra.
+
+------------------------------------------------------------------------
+
+## Qué hace la ley de presupuesto
+
+### Respecto de los recursos
+
+Los **calcula o estima**; su creación depende de las leyes que
+establecen cada recurso.
+
+### Respecto de los gastos
+
+Los **autoriza**; la autorización no implica necesariamente que todos
+deban ejecutarse.
+
+::: formula
+RECURSOS: previsión ≠ creación`<br>`{=html} GASTOS: autorización ≠
+obligación de gastar
+:::
+
+------------------------------------------------------------------------
+
+## Principios presupuestarios I
+
+### Unidad
+
+Todos los gastos y recursos deben reunirse en un único documento.
+
+### Universalidad
+
+Gastos y recursos deben figurar por sus importes brutos, sin
+compensaciones.
+
+### Especialidad
+
+La autorización legislativa debe identificar los créditos y destinos,
+evitando autorizaciones globales incompatibles con el control.
+
+------------------------------------------------------------------------
+
+## Principios presupuestarios II
+
+### No afectación de recursos
+
+Como regla, los ingresos deben integrar un fondo común y no quedar
+ligados a gastos determinados, sin perjuicio de excepciones legales.
+
+### Equilibrio
+
+-   equilibrio: gastos = recursos;
+-   déficit: gastos \> recursos;
+-   superávit: recursos \> gastos.
+
+Villegas analiza críticamente el déficit crónico y sus mecanismos de
+financiación.
+
+------------------------------------------------------------------------
+
+## Principios presupuestarios III
+
+### Procedencia
+
+La aprobación legislativa debe ser **anterior** al inicio del ejercicio.
+
+### Anualidad
+
+El presupuesto rige, conforme al criterio clásico, durante un ejercicio
+anual.
+
+### Transparencia
+
+Exige publicidad y claridad suficientes para que la sociedad pueda
+conocer y evaluar la gestión presupuestaria.
+
+------------------------------------------------------------------------
+
+## ¿Qué ocurre si no hay presupuesto aprobado?
+
+Villegas explica el mecanismo previsto por la ley 24.156:
+
+::: idea-central
+Si al inicio del ejercicio no se encuentra aprobado el presupuesto
+general, rige el presupuesto anterior con los ajustes legalmente
+previstos.
+:::
+
+La solución busca evitar la paralización de funciones y servicios
+públicos.
+
+------------------------------------------------------------------------
+
+## Dinámica del presupuesto {#dinámica-del-presupuesto .section-title}
+
+::: {.pasos .cuatro-pasos}
+<div>
+
+1`<strong>`{=html}Preparación`</strong>`{=html}
+
+</div>
+
+<div>
+
+2`<strong>`{=html}Sanción`</strong>`{=html}
+
+</div>
+
+<div>
+
+3`<strong>`{=html}Promulgación`</strong>`{=html}
+
+</div>
+
+<div>
+
+4`<strong>`{=html}Ejecución y control`</strong>`{=html}
+
+</div>
+:::
+
+El presupuesto no es solo un documento: es un **proceso jurídico y
+financiero**.
+
+------------------------------------------------------------------------
+
+## 1. Preparación
+
+La preparación corresponde al **Poder Ejecutivo**.
+
+Villegas destaca:
+
+-   intervención de oficinas técnicas especializadas;
+-   rol de la Oficina Nacional de Presupuesto;
+-   envío del proyecto al Congreso por el jefe de Gabinete;
+-   estimación de recursos y determinación de autorizaciones para
+    gastar.
+
+------------------------------------------------------------------------
+
+## 2. Sanción
+
+La sanción corresponde al **Poder Legislativo**.
+
+El proyecto ingresa por la **Cámara de Diputados**, conforme a la ley
+24.156.
+
+El Congreso posee atribuciones para considerar y modificar el proyecto
+dentro del marco constitucional y legal.
+
+::: pregunta
+¿Por qué la aprobación parlamentaria es central en la lógica histórica
+del presupuesto?
+:::
+
+------------------------------------------------------------------------
+
+## 3. Promulgación y veto
+
+Una vez sancionado:
+
+-   el presupuesto pasa al Poder Ejecutivo;
+-   se aplica el procedimiento constitucional de promulgación;
+-   existe posibilidad de veto;
+-   el Congreso conserva el mecanismo constitucional de insistencia.
+
+El presupuesto participa, por tanto, del procedimiento legislativo
+general.
+
+------------------------------------------------------------------------
+
+## 4. Ejecución
+
+La ejecución materializa las autorizaciones y previsiones
+presupuestarias.
+
+En el esquema constitucional expuesto por Villegas:
+
+-   el jefe de Gabinete hace recaudar las rentas y ejecuta la ley;
+-   la actividad se encuentra bajo supervisión presidencial;
+-   la ejecución debe respetar las autorizaciones legales.
+
+------------------------------------------------------------------------
+
+## 5. Control
+
+La legalidad financiera no termina cuando se gasta.
+
+Villegas destaca:
+
+### Control interno
+
+**Sindicatura General de la Nación (SIGEN)**
+
+### Control externo
+
+**Auditoría General de la Nación (AGN)**, vinculada al Congreso.
+
+::: idea-central
+Autorización + ejecución + control forman una secuencia necesaria del
+Estado de derecho financiero.
+:::
+
+------------------------------------------------------------------------
+
+## Integración de la clase
+
+::: gran-flujo
+<div>
+
+NECESIDADES PÚBLICAS
+
+</div>
+
+↓
+
+<div>
+
+FUNCIONES Y SERVICIOS
+
+</div>
+
+↓
+
+<div>
+
+GASTOS PÚBLICOS
+
+</div>
+
+↕
+
+<div>
+
+RECURSOS PÚBLICOS
+
+</div>
+
+↓
+
+<div>
+
+PRESUPUESTO
+
+</div>
+
+↓
+
+<div>
+
+DERECHO FINANCIERO + CONTROL
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+## Caso para discutir
+
+El Estado proyecta construir una obra de infraestructura de gran
+magnitud.
+
+Para financiarla evalúa:
+
+1.  incrementar un recurso tributario;
+2.  obtener un empréstito;
+3.  distribuir la ejecución de la obra en varios ejercicios.
+
+### Preguntas
+
+-   ¿Qué necesidad pública pretende satisfacer?
+-   ¿Qué relación existe entre gasto y recurso?
+-   ¿Qué dimensión de política financiera aparece?
+-   ¿Qué papel cumple el presupuesto?
+-   ¿Por qué la legalidad y el control son indispensables?
+
+------------------------------------------------------------------------
+
+## Preguntas de cierre
+
+1.  ¿Por qué Villegas define las finanzas públicas como una **ciencia de
+    síntesis**?
+2.  ¿Qué diferencia a las necesidades públicas absolutas de las
+    relativas?
+3.  ¿Por qué gastos y recursos son inseparables?
+4.  ¿Qué convierte a la actividad financiera en actividad jurídica?
+5.  ¿Por qué Villegas subraya la heterogeneidad del derecho financiero?
+6.  ¿Qué función política y jurídica cumple el presupuesto?
+7.  ¿Cómo se relacionan legalidad, autorización, ejecución y control?
+
+------------------------------------------------------------------------
+
+## Fuente exclusiva
+
+**Héctor B. Villegas**, *Curso de finanzas, derecho financiero y
+tributario*, edición 2021.
+
+Esta presentación fue estructurada a partir del temario del archivo
+**tributario.1.docx** y desarrollada **exclusivamente con el contenido
+del libro de Villegas adjunto**, sin incorporar doctrina, jurisprudencia
+ni materiales externos.
+
+### Secciones utilizadas
+
+-   Título I, cap. I: ciencia de las finanzas y actividad financiera.
+-   Título I, cap. II: gastos públicos.
+-   Título I, cap. III: recursos públicos.
+-   Título II, cap. IV: derecho financiero.
+-   Título II, cap. VI: presupuesto.

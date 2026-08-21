@@ -1,0 +1,334 @@
+
+:root {
+  --azul-profundo: #102A43;
+  --azul: #1F5A7A;
+  --azul-claro: #DCEAF3;
+  --dorado: #C59A3D;
+  --crema: #F7F3E8;
+  --gris: #5B6573;
+  --gris-claro: #EEF1F4;
+  --oscuro: #17202A;
+  --blanco: #FFFFFF;
+}
+
+.reveal {
+  font-family: "Aptos", "Segoe UI", Arial, sans-serif;
+  color: var(--oscuro);
+  font-size: 31px;
+}
+
+.reveal .slides { text-align: left; }
+
+.reveal h1, .reveal h2, .reveal h3 {
+  font-family: "Aptos Display", "Segoe UI", Arial, sans-serif;
+  color: var(--azul-profundo);
+  text-transform: none;
+  letter-spacing: -0.02em;
+}
+
+.reveal h2 {
+  border-bottom: 4px solid var(--dorado);
+  padding-bottom: .18em;
+  margin-bottom: .55em;
+}
+
+.reveal h3 { color: var(--azul); }
+
+.reveal strong { color: var(--azul-profundo); }
+
+.reveal a { color: var(--azul); }
+
+.reveal table {
+  font-size: .78em;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.reveal table th {
+  background: var(--azul-profundo);
+  color: var(--blanco);
+  padding: .45em;
+}
+
+.reveal table td {
+  padding: .42em;
+  vertical-align: top;
+}
+
+.reveal table tr:nth-child(even) td { background: var(--gris-claro); }
+
+.section-title {
+  background: linear-gradient(135deg, var(--azul-profundo), var(--azul));
+  color: var(--blanco) !important;
+  padding: 1.2em !important;
+  border-radius: 18px;
+}
+
+.section-title h2, .section-title h3 {
+  color: var(--blanco) !important;
+  border-color: var(--dorado);
+}
+
+.idea-central, .definicion, .pregunta, .alerta, .nota, .contraste, .formula {
+  margin: .65em 0;
+  padding: .65em .8em;
+  border-radius: 12px;
+}
+
+.idea-central, .definicion {
+  background: var(--azul-claro);
+  border-left: 7px solid var(--azul);
+}
+
+.pregunta {
+  background: var(--crema);
+  border-left: 7px solid var(--dorado);
+  font-weight: 600;
+}
+
+.alerta {
+  background: #F4E7D2;
+  border-left: 7px solid var(--dorado);
+}
+
+.nota {
+  background: var(--gris-claro);
+  border-left: 7px solid var(--gris);
+  font-size: .88em;
+}
+
+.contraste {
+  background: var(--gris-claro);
+  border-top: 4px solid var(--azul);
+  text-align: center;
+}
+
+.formula {
+  background: var(--azul-profundo);
+  color: var(--blanco);
+  text-align: center;
+  font-size: 1.18em;
+  font-weight: 700;
+  letter-spacing: .02em;
+}
+
+.triada, .tres-columnas, .cuatro, .mapa {
+  display: grid;
+  gap: .6em;
+  margin: .7em 0;
+}
+
+.triada, .tres-columnas { grid-template-columns: repeat(3, 1fr); }
+.cuatro, .mapa { grid-template-columns: repeat(2, 1fr); }
+
+.triada > div, .tres-columnas > div, .cuatro > div, .mapa > div {
+  background: var(--gris-claro);
+  border-top: 6px solid var(--dorado);
+  padding: .7em;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.flujo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .45em;
+  margin: 1.2em 0;
+}
+
+.flujo div {
+  background: var(--azul-claro);
+  border: 2px solid var(--azul);
+  padding: .65em;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.flujo span { color: var(--dorado); font-size: 1.4em; font-weight: 800; }
+
+.pasos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: .6em;
+  margin: 1em 0;
+}
+
+.cuatro-pasos { grid-template-columns: repeat(4, 1fr); }
+
+.pasos div {
+  background: var(--azul-claro);
+  padding: .75em;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.pasos span {
+  display: inline-block;
+  background: var(--azul-profundo);
+  color: var(--blanco);
+  width: 1.7em;
+  height: 1.7em;
+  line-height: 1.7em;
+  border-radius: 50%;
+  margin-right: .25em;
+}
+
+.gran-flujo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .12em;
+  margin-top: .4em;
+}
+
+.gran-flujo div {
+  width: 58%;
+  background: var(--azul-claro);
+  border-left: 8px solid var(--dorado);
+  padding: .28em .7em;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.gran-flujo span {
+  color: var(--azul);
+  font-weight: 900;
+  line-height: .8;
+}
+
+.fuente {
+  position: absolute;
+  bottom: 8px;
+  left: 18px;
+  font-size: .42em;
+  color: var(--gris);
+}
+
+.reveal .slide-number {
+  color: var(--azul-profundo);
+  background: transparent;
+}
+
+.reveal ul, .reveal ol { margin-top: .25em; }
+.reveal li { margin-bottom: .22em; }
+
+@media (max-width: 900px) {
+  .triada, .tres-columnas, .cuatro, .mapa, .pasos, .cuatro-pasos {
+    grid-template-columns: 1fr;
+  }
+  .flujo { flex-wrap: wrap; }
+}
+
+/* =========================================================
+   SITIO WEB - DERECHO TRIBUTARIO
+   ========================================================= */
+
+.navbar {
+  background-color: var(--azul-profundo) !important;
+}
+
+.navbar-title,
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+/* PORTADA */
+
+.hero {
+  background: linear-gradient(
+    135deg,
+    var(--azul-profundo),
+    var(--azul)
+  );
+
+  color: white;
+  padding: 4rem 3rem;
+  border-radius: 18px;
+  margin-bottom: 3rem;
+}
+
+.hero h1 {
+  font-size: 3.2rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+}
+
+.hero h2 {
+  font-weight: 400;
+  color: var(--azul-claro);
+}
+
+/* GRILLA DE CLASES */
+
+.class-grid {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(280px, 1fr)
+  );
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.class-card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-top: 5px solid var(--azul);
+  border-radius: 12px;
+  padding: 1.6rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+}
+
+.class-card h3 {
+  color: var(--azul-profundo);
+  margin-top: 0;
+}
+
+.class-card:hover {
+  transform: translateY(-3px);
+  transition: 0.2s;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.10);
+}
+
+/* BOTONES */
+
+.btn-class {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.65rem 1.1rem;
+  background: var(--azul-profundo);
+  color: white !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.btn-class:hover {
+  background: var(--azul);
+}
+
+/* Permitir scroll vertical cuando una diapositiva excede la pantalla */
+.reveal .slides section {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 100%;
+  padding-right: 15px;
+  box-sizing: border-box;
+}
+
+/* Scroll más discreto */
+.reveal .slides section::-webkit-scrollbar {
+  width: 8px;
+}
+
+.reveal .slides section::-webkit-scrollbar-thumb {
+  background: #B5B657;
+  border-radius: 8px;
+}
+
+.reveal .slides section::-webkit-scrollbar-track {
+  background: transparent;
+}

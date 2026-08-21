@@ -1,0 +1,55 @@
+---
+title: "Derecho Tributario"
+---
+
+::: {.hero}
+
+# Derecho Tributario
+
+## Material de clases
+
+**Universidad Kennedy**
+
+Prof. Maximiliano Lucas Romei
+
+:::
+
+## Clases
+
+::: {.class-grid}
+
+::: {.class-card}
+
+### Clase 1
+
+**Derecho Financiero**
+
+Concepto, actividad financiera del Estado, necesidades públicas y gasto público.
+
+[Ingresar a la clase](clases/derecho-financiero-villegas.qmd){.btn-class target="_blank"}
+
+:::
+
+::: {.class-card}
+
+### Clase 2
+
+**Tributos**
+
+Concepto, clasificación y estructura de los recursos tributarios.
+
+[Ingresar a la clase](clases/tributos-villegas.qmd){.btn-class target="_blank"}
+
+:::
+
+::: {.class-card}
+
+### Clase 3
+
+**Próximamente**
+
+El material será incorporado a medida que avance el curso.
+
+:::
+
+:::

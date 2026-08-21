@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Derecho Tributario"
+  navbar:
+    background: "#102A43"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Inicio
+      - text: Clases
+        menu:
+          - href: clases/clase01.qmd
+            text: Clase 1
+          - href: clases/clase02.qmd
+            text: Clase 2
+          - href: clases/clase03.qmd
+            text: Clase 3
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+execute:
+  freeze: auto

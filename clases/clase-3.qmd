@@ -1,0 +1,1590 @@
+---
+author: Derecho Tributario
+format:
+  revealjs:
+    center: false
+    css: styles-tributario2.css
+    hash: true
+    height: 720
+    margin: 7.0e-2
+    navigation-mode: linear
+    slide-number: true
+    theme: default
+    transition: fade
+    scrollable: true
+    width: 1280
+subtitle: Relación jurídica tributaria · sujetos · hecho imponible · extinción · intereses · administración y determinación
+title: Derecho tributario sustantivo y formal
+---
+
+## Unidad 3 {.section-title}
+
+### Derecho tributario sustantivo y formal
+
+<div class="idea-central">
+Del nacimiento de la obligación tributaria a su determinación y percepción.
+</div>
+
+**Recorrido de la clase**
+
+- Relación jurídica tributaria principal.
+- Sujetos y responsables.
+- Hecho imponible y objeto.
+- Extinción e intereses.
+- Derecho tributario formal.
+- Administración tributaria.
+- Determinación de la obligación.
+
+<div class="fuente">Fuente exclusiva: H. B. Villegas, Curso de finanzas, derecho financiero y tributario, ed. 2021, caps. XI y XII.</div>
+
+---
+
+## Dos planos que deben distinguirse
+
+<div class="tres-columnas">
+
+<div>
+### Potestad tributaria
+Poder estatal para **crear tributos mediante normas**.
+</div>
+
+<div>
+### Derecho material
+Regula la **relación sustancial** nacida del tributo.
+</div>
+
+<div>
+### Derecho formal
+Establece **cómo se comprueba y determina** la acreencia fiscal.
+</div>
+
+</div>
+
+<div class="idea-central">
+Para Villegas, el derecho formal es complemento indispensable e inseparable del derecho tributario material.
+</div>
+
+<div class="fuente">Villegas, cap. XI, p. 119; cap. XII, p. 140.</div>
+
+---
+
+## Derecho tributario material {.section-title}
+
+### El “corazón” de la disciplina
+
+---
+
+## Concepto y contenido
+
+El **derecho tributario material** prevé los aspectos sustanciales de la relación jurídica que se establece entre el Estado y los sujetos pasivos con motivo del tributo.
+
+<div class="mapa">
+
+<div>
+<strong>Hecho imponible</strong><br>
+y consecuencias jurídicas
+</div>
+
+<div>
+<strong>Sujetos</strong><br>
+activo y pasivos
+</div>
+
+<div>
+<strong>Cuantificación</strong><br>
+de la pretensión fiscal
+</div>
+
+<div>
+<strong>Extinción</strong><br>
+de la obligación
+</div>
+
+</div>
+
+También comprende exenciones, beneficios, capacidad jurídica tributaria, solidaridad, domicilio y privilegios.
+
+<div class="fuente">Villegas, cap. XI, p. 119.</div>
+
+---
+
+## La relación jurídica tributaria principal
+
+<div class="definicion">
+Es el <strong>vínculo jurídico obligacional</strong> que se entabla entre el Fisco, como sujeto activo que pretende el cobro de un tributo, y un sujeto pasivo obligado a su pago.
+</div>
+
+Tiene identidad estructural con una obligación de derecho privado.
+
+**La diferencia central está en su objeto:** el tributo.
+
+<div class="formula">
+Fisco → pretensión de cobro → sujeto pasivo
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> una persona realiza el hecho imponible de un impuesto. A partir de ese presupuesto legal se concreta el vínculo: el Fisco ocupa la posición acreedora y el sujeto designado por la ley queda obligado al pago.
+</div>
+
+<div class="fuente">Villegas, cap. XI, p. 119.</div>
+
+---
+
+## La estructura lógica de la norma tributaria
+
+<div class="gran-flujo">
+
+<div>Hipótesis legal</div>
+<span>↓</span>
+<div>Realización del hecho imponible</div>
+<span>↓</span>
+<div>Consecuencia jurídica</div>
+<span>↓</span>
+<div>Mandato de pago</div>
+
+</div>
+
+<div class="idea-central">
+La obligación no surge de la voluntad de las partes: su fuente es la ley.
+</div>
+
+<div class="fuente">Villegas, cap. XI, pp. 119-120.</div>
+
+---
+
+## Potestad tributaria ≠ relación jurídica
+
+<div class="contraste">
+<strong>Potestad tributaria:</strong> el Estado actúa en un plano de supremacía al crear normativamente el tributo.
+</div>
+
+<div class="contraste">
+<strong>Relación jurídica:</strong> una vez realizado el hecho imponible, el Fisco aparece como acreedor de una prestación pecuniaria frente al sujeto pasivo.
+</div>
+
+La potestad tributaria se agota, en este sentido, con la emanación de la norma. Luego se concreta una **pretensión de cobro**.
+
+<div class="fuente">Villegas, cap. XI, p. 120.</div>
+
+---
+
+## Fuente de la obligación tributaria
+
+<div class="pregunta">
+¿Puede un contrato privado crear, eliminar o trasladar frente al Fisco la condición de sujeto pasivo?
+</div>
+
+**No.**
+
+Para Villegas, en el derecho tributario material la **única fuente de la obligación tributaria es la ley**.
+
+Los convenios privados pueden producir efectos entre las partes, pero no alteran por sí mismos la posición que la ley atribuye frente al Fisco.
+
+<div class="nota">
+<strong>Ejemplo:</strong> el propietario de un inmueble pacta con el locatario que este abonará el impuesto inmobiliario. Ese convenio puede obligar al inquilino frente al propietario, pero no modifica quién es el sujeto pasivo que la ley tributaria coloca frente al Fisco.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado sobre fuente de la obligación tributaria.</div>
+
+---
+
+## Elementos de la obligación tributaria
+
+<div class="triada">
+
+<div>
+<strong>Sujeto activo</strong><br>
+acreedor
+</div>
+
+<div>
+<strong>Sujeto pasivo</strong><br>
+obligado
+</div>
+
+<div>
+<strong>Objeto</strong><br>
+prestación tributaria
+</div>
+
+</div>
+
+Villegas analiza además la discusión sobre la **causa** como posible elemento jurídico de la relación obligacional.
+
+<div class="fuente">Villegas, cap. XI, apartados 4, 5 y 6.</div>
+
+---
+
+## Sujeto activo
+
+<div class="definicion">
+El Estado, titular inicialmente de la potestad tributaria, se transforma luego en <strong>sujeto activo</strong> de la relación jurídica tributaria principal.
+</div>
+
+<div class="flujo">
+<div>Estado</div><span>→</span>
+<div>crea el tributo</div><span>→</span>
+<div>se realiza el hecho imponible</div><span>→</span>
+<div>Fisco acreedor</div>
+</div>
+
+Villegas distingue así el momento de **creación normativa** del momento de **aplicación y cobro**.
+
+<div class="nota">
+<strong>Ejemplo:</strong> la legislatura crea por ley un impuesto inmobiliario. Una vez configurado el hecho imponible respecto de un inmueble y su titular, el Estado ya no actúa creando el tributo: actúa como acreedor que pretende su cobro.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.1.</div>
+
+---
+
+## Sujetos pasivos
+
+La capacidad jurídica tributaria es más amplia que la capacidad del derecho privado.
+
+Pueden ser sujetos pasivos:
+
+- personas humanas capaces o incapaces;
+- personas jurídicas;
+- sociedades;
+- asociaciones;
+- empresas;
+- otras entidades, aun cuando el derecho privado no les reconozca personalidad jurídica.
+
+<div class="idea-central">
+Lo decisivo es que la legislación tributaria les atribuya aptitud para quedar situados en el polo pasivo de la relación.
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> una entidad puede ser considerada sujeto pasivo por la legislación fiscal aunque su encuadre como sujeto de derecho privado no coincida exactamente con las categorías civiles.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.2.1.</div>
+
+---
+
+## Destinatario legal tributario
+
+<div class="definicion">
+Es la persona cuya capacidad contributiva tuvo en cuenta el legislador al describir el hecho imponible y sobre quien la ley hace recaer la carga patrimonial del tributo.
+</div>
+
+Es quien:
+
+- realiza el acto, o
+- se encuentra en la situación
+
+que la ley eligió como presupuesto del mandato de pago.
+
+<div class="alerta">
+Ser destinatario legal tributario no significa necesariamente ser sujeto pasivo frente al Fisco.
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> una persona residente en el exterior puede ser el destinatario legal cuya capacidad contributiva toma en cuenta el tributo, pero la ley puede colocar a otra persona vinculada con sus bienes como sustituto obligado frente al Fisco.
+</div>
+
+<div class="fuente">Villegas, cap. XI, p. 120.</div>
+
+---
+
+## La clasificación de Villegas
+
+<div class="tres-columnas">
+
+<div>
+### Contribuyente
+Paga una deuda <strong>propia</strong>.
+</div>
+
+<div>
+### Responsable solidario
+Responde junto al contribuyente por deuda <strong>ajena</strong>.
+</div>
+
+<div>
+### Sustituto
+Reemplaza al destinatario legal y paga <strong>en su lugar</strong>.
+</div>
+
+</div>
+
+<div class="idea-central">
+Villegas adopta expresamente esta división tripartita de los sujetos pasivos.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.3.</div>
+
+---
+
+## Contribuyente
+
+<div class="definicion">
+Es el destinatario legal del tributo que no ha sido sustituido y que debe pagarlo por sí mismo.
+</div>
+
+Características:
+
+- es deudor **a título propio**;
+- su capacidad contributiva fue considerada por el legislador;
+- soporta en sus bienes el detrimento económico tributario;
+- ocupa el polo pasivo de la relación principal.
+
+<div class="formula">
+Destinatario legal + obligación propia de pago = contribuyente
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> en el impuesto inmobiliario, el propietario o poseedor a título de dueño contemplado por la legislación realiza la situación gravada y, si la ley le impone directamente el pago, actúa como contribuyente.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.3.1.</div>
+
+---
+
+## Responsable solidario
+
+Hay responsabilidad solidaria cuando:
+
+1. el contribuyente **permanece** como deudor del Fisco; y
+2. la ley coloca a su lado a un tercero obligado por deuda ajena.
+
+<div class="formula">
+Contribuyente + responsable → ambos obligados por la totalidad
+</div>
+
+El Fisco puede exigir la prestación íntegra a cualquiera de los sujetos pasivos solidarios, con las particularidades que establezca la legislación tributaria.
+
+<div class="nota">
+<strong>Ejemplo de solidaridad entre contribuyentes:</strong> Villegas menciona el caso de varios condóminos respecto del impuesto inmobiliario. Si existe solidaridad, el Fisco puede reclamar la totalidad a cualquiera de ellos; quien paga podrá luego procurar el resarcimiento correspondiente frente a los restantes.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.3.2.</div>
+
+---
+
+## Solidaridad: punto clave
+
+<div class="pregunta">
+¿La solidaridad permite convertir libremente a cualquier tercero en responsable tributario?
+</div>
+
+**No.**
+
+<div class="idea-central">
+La designación de un tercero como responsable solidario requiere <strong>ley expresa</strong>.
+</div>
+
+Además, Villegas exige un nexo económico o jurídico con el destinatario legal tributario.
+
+Ejemplos de nexos mencionados por el autor: administración, custodia, tutela, sindicatura.
+
+<div class="nota">
+<strong>Ejemplo:</strong> no basta que un tercero tenga alguna relación comercial con el contribuyente. Para colocarlo como responsable por deuda ajena debe existir una previsión legal expresa y el nexo económico o jurídico que justifique esa responsabilidad.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartados 4.3.2 y 4.3.3.</div>
+
+---
+
+## Efectos de la solidaridad
+
+Entre los principales efectos que desarrolla Villegas:
+
+- el Fisco puede reclamar la totalidad a cualquiera de los solidarios;
+- la extinción de la deuda para uno repercute sobre los demás;
+- existen efectos comunes respecto de la prescripción;
+- quien paga puede tener acción de regreso contra los demás obligados.
+
+<div class="alerta">
+La legislación tributaria puede introducir reglas específicas respecto de la responsabilidad por deuda ajena.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.3.2.</div>
+
+---
+
+## Sustituto
+
+<div class="definicion">
+Es el sujeto pasivo que reemplaza <strong>ab initio</strong> al destinatario legal tributario dentro de la relación jurídica sustancial.
+</div>
+
+<div class="contraste">
+<strong>Responsable solidario:</strong> está obligado <em>junto a</em> otro.
+</div>
+
+<div class="contraste">
+<strong>Sustituto:</strong> está obligado <em>en lugar de</em> otro.
+</div>
+
+El destinatario legal queda fuera del vínculo jurídico principal con el Fisco, aunque pueda soportar económicamente el tributo por el mecanismo legal de resarcimiento.
+
+<div class="nota">
+<strong>Ejemplo utilizado por Villegas:</strong> quien tiene la posesión, custodia o administración de un bien situado en el país puede ser colocado por la ley como sustituto del propietario residente en el extranjero. El propietario continúa siendo el destinatario legal del tributo, pero el sustituto ocupa la posición pasiva frente al Fisco.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.3.3.</div>
+
+---
+
+## Retención y percepción
+
+<div class="cuatro">
+
+<div>
+<strong>Retención</strong><br>
+El agente tiene contacto con una suma que debe recibir el contribuyente y <strong>detrae</strong> la parte correspondiente al Fisco.
+</div>
+
+<div>
+<strong>Percepción</strong><br>
+El agente recibe un pago del contribuyente y puede <strong>adicionar</strong> el importe tributario que luego ingresará al Fisco.
+</div>
+
+</div>
+
+<div class="nota">
+<strong>Ejemplo de retención:</strong> Villegas menciona al escribano que, al intervenir en la venta de un inmueble y tener contacto con el precio que debe recibir el vendedor, detrae la parte correspondiente al tributo para ingresarla al Fisco.
+</div>
+
+<div class="nota">
+<strong>Ejemplo de percepción:</strong> quien cobra al contribuyente una suma por una operación puede adicionar al importe a cobrar la porción correspondiente al tributo y posteriormente ingresarla al Fisco.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.3.4.</div>
+
+---
+
+## Agentes: ¿solidarios o sustitutos?
+
+Para Villegas, no puede afirmarse **a priori** que todo agente de retención o percepción sea siempre sustituto o siempre responsable solidario.
+
+<div class="pasos">
+<div><span>1</span> Mirar la ley</div>
+<div><span>2</span> Ver si subsiste el contribuyente</div>
+<div><span>3</span> Calificar la relación</div>
+</div>
+
+- Si el contribuyente permanece obligado junto al agente → **responsabilidad solidaria**.
+- Si el contribuyente queda desplazado → **sustitución**.
+
+<div class="nota">
+<strong>Ejemplo de retención:</strong> Villegas menciona al escribano que, al intervenir en la venta de un inmueble y tener contacto con el precio que debe recibir el vendedor, detrae la parte correspondiente al tributo para ingresarla al Fisco.
+</div>
+
+<div class="nota">
+<strong>Ejemplo de percepción:</strong> quien cobra al contribuyente una suma por una operación puede adicionar al importe a cobrar la porción correspondiente al tributo y posteriormente ingresarla al Fisco.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 4.3.4.</div>
+
+---
+
+## Sujetos: ejemplos comparados
+
+| Figura | Ejemplo didáctico basado en Villegas | Qué hace |
+|---|---|---|
+| Contribuyente | Propietario alcanzado por impuesto inmobiliario | Paga deuda propia |
+| Responsable solidario | Condómino obligado solidariamente | Puede responder por la totalidad junto con otros |
+| Sustituto | Administrador o custodio colocado por ley en lugar del titular extranjero | Paga en lugar del destinatario |
+| Agente de retención | Escribano que detrae del precio una suma tributaria | Retiene antes de entregar |
+| Agente de percepción | Sujeto que adiciona el tributo al importe que cobra | Percibe junto con el cobro |
+| Agente de información | Tercero obligado a comunicar datos relevantes al Fisco | Informa; no recauda por ese solo carácter |
+
+<div class="pregunta">
+La clave no es memorizar nombres: hay que preguntar <strong>de quién es la deuda, quién permanece obligado y qué función concreta asigna la ley</strong>.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartados 4.3.1 a 4.3.4; cap. XII, deberes formales.</div>
+
+---
+
+## Agentes de información
+
+En el esquema de Villegas, los deberes de información se ubican primordialmente en el **derecho tributario formal**.
+
+El Fisco puede imponer deberes instrumentales:
+
+- a contribuyentes;
+- a responsables;
+- a terceros.
+
+<div class="idea-central">
+Informar no equivale, por sí mismo, a ser deudor de la obligación tributaria principal.
+</div>
+
+Los regímenes de información permiten al organismo fiscal desarrollar sus funciones de determinación, verificación y fiscalización.
+
+<div class="nota">
+<strong>Ejemplo:</strong> un tercero puede quedar obligado a comunicar al organismo fiscal datos sobre operaciones realizadas con contribuyentes. No retiene ni percibe dinero y, por ese solo deber informativo, no se convierte en deudor del tributo: aporta información útil para el control fiscal.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartados sobre deberes formales.</div>
+
+---
+
+## Hecho imponible {.section-title}
+
+### La hipótesis legal que condiciona el nacimiento de la obligación
+
+---
+
+## Concepto
+
+Villegas mantiene la expresión **hecho imponible** para designar la hipótesis legal tributaria condicionante.
+
+Cuando es necesario distinguirla del acontecimiento real, habla de:
+
+<div class="contraste">
+<strong>Hecho imponible</strong> = descripción normativa abstracta
+</div>
+
+<div class="contraste">
+<strong>Hecho imponible realizado</strong> = hecho o situación efectivamente producido
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 8.</div>
+
+---
+
+## Función del hecho imponible
+
+<div class="gran-flujo">
+<div>La ley describe una hipótesis</div>
+<span>↓</span>
+<div>La realidad reproduce esa hipótesis</div>
+<span>↓</span>
+<div>Acaece el hecho imponible</div>
+<span>↓</span>
+<div>Surge potencialmente el mandato de pago</div>
+</div>
+
+<div class="idea-central">
+La descripción debe ser completa para permitir conocer con certeza qué hechos o situaciones generan obligaciones tributarias sustanciales.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 8.2.</div>
+
+---
+
+## Los cuatro aspectos
+
+<div class="cuatro">
+
+<div>
+<strong>Material</strong><br>
+¿Qué hecho o situación?
+</div>
+
+<div>
+<strong>Personal</strong><br>
+¿Respecto de quién?
+</div>
+
+<div>
+<strong>Temporal</strong><br>
+¿Cuándo?
+</div>
+
+<div>
+<strong>Espacial</strong><br>
+¿Dónde?
+</div>
+
+</div>
+
+<div class="formula">
+Material + personal + temporal + espacial = descripción completa del hecho imponible
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartados 8.2 y 8.3.</div>
+
+---
+
+## Aspecto material
+
+Es la **descripción abstracta del hecho** que el destinatario legal tributario realiza o de la situación en que se encuentra.
+
+Es el núcleo del hecho imponible.
+
+<div class="idea-central">
+Siempre presupone un verbo.
+</div>
+
+Ejemplos utilizados por Villegas:
+
+**hacer · dar · transferir · recibir · ser · estar · adquirir · vender · comprar · ganar · importar**
+
+<div class="nota">
+<strong>Ejemplo:</strong> en un impuesto sobre premios, el aspecto material puede consistir en <em>ganar</em> un premio; en un impuesto inmobiliario, en <em>ser</em> propietario o poseedor a título de dueño de un inmueble.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 8.3.1.</div>
+
+---
+
+## Aspecto personal
+
+Permite individualizar a la persona que debe encuadrarse en la situación prevista por la norma.
+
+<div class="pregunta">
+¿A quién atribuye la ley la realización de la hipótesis tributaria?
+</div>
+
+No debe confundirse:
+
+- **aspecto personal del hecho imponible**, con
+- **sujeto pasivo de la obligación**.
+
+El destinatario legal puede ser luego sustituido por otro sujeto pasivo.
+
+<div class="nota">
+<strong>Ejemplo:</strong> en el impuesto sobre premios analizado por Villegas, el ganador es el destinatario legal porque es su capacidad contributiva la alcanzada. La estructura del tributo puede, sin embargo, colocar a otro sujeto en la posición de obligado al ingreso.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartados 8.2 y 8.3.</div>
+
+---
+
+## Aspecto temporal
+
+Indica el momento en que debe configurarse —o tenerse por configurada— la realización del hecho imponible.
+
+Permite determinar, entre otras cuestiones:
+
+- cuándo nace la obligación;
+- qué norma resulta temporalmente aplicable;
+- a qué período corresponde el hecho.
+
+<div class="idea-central">
+El hecho imponible puede ser de verificación instantánea o vincularse a un período.
+</div>
+
+<div class="nota">
+<strong>Ejemplo instantáneo:</strong> Villegas señala que en el impuesto sobre premios el hecho se perfecciona cuando queda consagrado el ganador. <strong>Ejemplo periódico:</strong> en el impuesto inmobiliario, la legislación puede configurar el hecho imponible con referencia anual.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 8.3.</div>
+
+---
+
+## Aspecto espacial
+
+Indica el lugar donde debe acaecer —o tenerse por acaecido— el hecho imponible.
+
+<div class="pregunta">
+¿Qué conexión territorial exige la norma para que opere el tributo?
+</div>
+
+La dimensión espacial permite delimitar el ámbito en el cual la hipótesis legal produce consecuencias tributarias.
+
+<div class="nota">
+<strong>Ejemplo:</strong> un impuesto provincial sobre inmuebles vincula el hecho imponible con los inmuebles situados dentro de la respectiva jurisdicción. En el ejemplo de premios desarrollado por Villegas, la ley atiende a juegos o concursos organizados en el país.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 8.3.</div>
+
+---
+
+## Ejemplo integrador
+
+### Impuesto a la propiedad automotor
+
+| Aspecto | Configuración |
+|---|---|
+| Material | Propiedad o posesión a título de dueño del vehículo |
+| Personal | Titular de dominio o sujeto definido por la legislación |
+| Temporal | En general, configuración anual |
+| Espacial | Radicación dentro de la jurisdicción provincial |
+
+<div class="nota">
+El ejemplo permite observar que los cuatro aspectos forman una unidad: ninguno, aisladamente, describe todo el hecho imponible.
+</div>
+
+<div class="fuente">Villegas, Parte especial, impuesto a la propiedad automotor.</div>
+
+---
+
+## Hecho imponible ≠ base imponible
+
+<div class="contraste">
+<strong>Hecho imponible:</strong> determina si se configura la hipótesis legal que genera la obligación.
+</div>
+
+<div class="contraste">
+<strong>Base imponible:</strong> proporciona la magnitud sobre la cual se cuantifica el tributo cuando la estructura del gravamen así lo exige.
+</div>
+
+<div class="pregunta">
+Primero: ¿hay obligación? Después: ¿cuánto debe pagarse?
+</div>
+
+---
+
+## Objeto de la obligación tributaria
+
+Villegas sigue a Jarach:
+
+<div class="definicion">
+Desde el punto de vista jurídico, el <strong>objeto de la obligación tributaria es la prestación</strong>: el tributo que debe ser pagado por el sujeto pasivo y cuya pretensión corresponde al sujeto activo.
+</div>
+
+<div class="alerta">
+No confundir el objeto de la obligación con el objeto económico o material sobre el que puede recaer un impuesto.
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> en un impuesto inmobiliario, el inmueble integra la realidad económica considerada por el gravamen; pero el <strong>objeto jurídico de la obligación</strong> no es entregar el inmueble al Estado, sino cumplir la prestación tributaria dineraria.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 5.</div>
+
+---
+
+## Extinción de la obligación {.section-title}
+
+### Del nacimiento del crédito fiscal a su cancelación
+
+---
+
+## Modos de extinción
+
+Villegas desarrolla especialmente:
+
+<div class="mapa">
+
+<div><strong>Pago</strong></div>
+<div><strong>Compensación</strong></div>
+<div><strong>Novación</strong></div>
+<div><strong>Confusión</strong></div>
+
+</div>
+
+También estudia la **prescripción** por razones prácticas, aunque aclara que técnicamente lo que se extingue es la facultad de determinar o exigir el pago —o la de repetir— y no la obligación en sentido estricto.
+
+<div class="fuente">Villegas, cap. XI, apartado 13.</div>
+
+---
+
+## Pago
+
+<div class="definicion">
+Por tratarse de una obligación de dar, el <strong>medio normal de extinción</strong> de la obligación tributaria es el pago.
+</div>
+
+El pago consiste en el cumplimiento de la prestación que constituye el objeto de la obligación.
+
+<div class="nota">
+<strong>Ejemplo:</strong> determinado el impuesto en $100.000, el sujeto pasivo ingresa esa suma dentro del plazo correspondiente. La prestación debida queda satisfecha por su modo normal de extinción.
+</div>
+
+<div class="idea-central">
+En materia tributaria, el pago debe ser examinado dentro de una relación cuyo contenido y cuantía están regidos por la ley.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 13.1.</div>
+
+---
+
+## Compensación
+
+Existe compensación cuando dos personas reúnen recíprocamente las calidades de acreedor y deudor.
+
+Requiere, según el esquema general que expone Villegas:
+
+- reciprocidad;
+- fungibilidad;
+- liquidez;
+- exigibilidad.
+
+<div class="idea-central">
+En el régimen tributario nacional analizado por Villegas, la ley 11.683 admite la compensación en las condiciones legalmente previstas.
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> un contribuyente tiene un saldo acreedor reconocido y, al mismo tiempo, una deuda tributaria susceptible de compensación. En lugar de circular dos pagos en sentidos opuestos, ambos créditos se enfrentan en los términos admitidos por el régimen legal.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 13.3.</div>
+
+---
+
+## Novación
+
+La novación supone la extinción de una obligación y el nacimiento de otra nueva.
+
+<div class="pregunta">
+¿Todo cambio en una deuda fiscal produce novación?
+</div>
+
+**No.**
+
+Villegas destaca que debe analizarse si cambian elementos **esenciales** de la obligación —sujeto, objeto o causa— y no meramente aspectos accidentales como modo, tiempo o lugar.
+
+<div class="nota">
+<strong>Ejemplo:</strong> una facilidad que modifica el tiempo o la forma de pago no implica necesariamente que haya desaparecido la obligación tributaria originaria y nacido otra distinta.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 13.4.</div>
+
+---
+
+## Confusión
+
+<div class="definicion">
+Existe cuando las calidades de acreedor y deudor se reúnen en una misma persona y en un mismo patrimonio.
+</div>
+
+En materia fiscal puede ocurrir, excepcionalmente, cuando el Estado adquiere bienes o derechos y queda situado simultáneamente como acreedor y deudor de la obligación tributaria.
+
+<div class="nota">
+<strong>Ejemplo de Villegas:</strong> el Estado recibe una herencia en cuyo pasivo existen deudas tributarias. Acreedor y deudor pueden entonces coincidir en el mismo patrimonio.
+</div>
+
+<div class="contraste">
+<strong>Compensación:</strong> dos obligaciones recíprocas.
+<br>
+<strong>Confusión:</strong> una obligación en la que coinciden acreedor y deudor.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 13.5.</div>
+
+---
+
+## Prescripción
+
+Villegas la estudia entre los modos extintivos por razones prácticas.
+
+<div class="alerta">
+Su precisión conceptual es importante: no se extingue propiamente la obligación fiscal, sino la facultad del Fisco para determinarla o exigir su pago, aplicar sanciones, etc.; o la facultad del contribuyente para reclamar repetición.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 13.2.</div>
+
+---
+
+## Intereses {.section-title}
+
+### Consecuencias del pago fuera de término
+
+---
+
+## Función de los intereses
+
+La ley puede agregar al pago tardío una consecuencia de carácter indemnizatorio destinada a resarcir la mora.
+
+Villegas recuerda que el derecho civil distingue:
+
+- intereses compensatorios;
+- intereses moratorios;
+- intereses punitorios.
+
+En materia tributaria nacional concentra el análisis en las previsiones de la ley 11.683.
+
+<div class="fuente">Villegas, cap. XI, apartado 14.</div>
+
+---
+
+## Interés resarcitorio
+
+<div class="definicion">
+Para Villegas, el interés previsto por el régimen tributario tiene naturaleza <strong>resarcitoria</strong>: indemniza al Fisco por no haber dispuesto oportunamente del capital.
+</div>
+
+No requiere probar un perjuicio concreto derivado del retardo.
+
+<div class="idea-central">
+Su función no es castigar, sino restablecer el equilibrio alterado por el pago tardío.
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> si un impuesto debía ingresarse el día 10 y se paga posteriormente, al capital se adiciona el interés correspondiente al período de mora, con finalidad resarcitoria.
+</div>
+
+Por ello, sostiene que debe ser moderado y razonable.
+
+<div class="fuente">Villegas, cap. XI, apartado 14.2.</div>
+
+---
+
+## Interés punitorio
+
+Villegas distingue el interés resarcitorio del interés que opera cuando la deuda entra en una fase de cobro judicial.
+
+<div class="contraste">
+<strong>Resarcitorio:</strong> ligado a la mora en el pago.
+</div>
+
+<div class="contraste">
+<strong>Punitorio:</strong> vinculado al estadio de cobro judicial previsto por la legislación fiscal.
+</div>
+
+<div class="nota">
+No debe confundirse la denominación “punitorio” con las sanciones por ilícitos tributarios: Villegas trata separadamente el régimen infraccional.
+</div>
+
+<div class="fuente">Villegas, cap. XI, apartado 14; ley 11.683 según la edición utilizada.</div>
+
+---
+
+## Derecho tributario formal {.section-title}
+
+### Hacer operativa la obligación tributaria
+
+---
+
+## Concepto
+
+<div class="definicion">
+El derecho tributario formal contiene las normas que el Fisco utiliza para comprobar si corresponde que cierta persona pague un determinado tributo y, en su caso, cuál es su importe.
+</div>
+
+<div class="formula">
+Tributo creado por ley → aplicación al caso → determinación → percepción
+</div>
+
+<div class="fuente">Villegas, cap. XII, p. 140.</div>
+
+---
+
+## Material y formal: una relación inseparable
+
+<div class="cuatro">
+
+<div>
+<strong>Material</strong><br>
+Explica cómo nace la pretensión fiscal.
+</div>
+
+<div>
+<strong>Formal</strong><br>
+Da las reglas para hacerla efectiva.
+</div>
+
+</div>
+
+<div class="idea-central">
+Las normas sustantivas son “actuables”; las normas formales proporcionan el mecanismo para su actuación concreta.
+</div>
+
+<div class="fuente">Villegas, cap. XII, p. 140.</div>
+
+---
+
+## Deberes formales
+
+El derecho formal regula deberes instrumentales a cargo de:
+
+- contribuyentes;
+- responsables;
+- terceros.
+
+Ejemplos desarrollados por Villegas:
+
+- inscripción o empadronamiento;
+- registración de operaciones;
+- respaldo mediante comprobantes;
+- conservación de documentación;
+- suministro de información;
+- presentación de declaraciones.
+
+<div class="nota">
+<strong>Ejemplo:</strong> emitir y conservar comprobantes no constituye el pago del tributo, pero permite al Fisco reconstruir las operaciones y comprobar si la obligación sustancial fue correctamente determinada.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 2.</div>
+
+---
+
+## Facultades del Fisco
+
+Los deberes formales se corresponden con facultades administrativas destinadas a:
+
+<div class="triada">
+<div><strong>Investigar</strong></div>
+<div><strong>Verificar</strong></div>
+<div><strong>Fiscalizar</strong></div>
+</div>
+
+<div class="idea-central">
+Para Villegas, la justicia tributaria no depende únicamente de la formulación de la ley sustantiva, sino también de la regulación de la actividad administrativa que la aplica.
+</div>
+
+<div class="fuente">Villegas, cap. XII, p. 140.</div>
+
+---
+
+## Administración tributaria nacional
+
+<div class="alerta">
+<strong>Dos planos:</strong> primero veremos la organización que describe Villegas en la edición 2021 y, a continuación, su actualización normativa.
+</div>
+
+### En Villegas (ed. 2021)
+
+La obra estudia la organización fiscal nacional bajo la **Administración Federal de Ingresos Públicos (AFIP)**.
+
+<div class="fuente">Fuente doctrinaria: Villegas, cap. XII, apartado 3, p. 141.</div>
+
+---
+
+## AFIP: origen normativo
+
+La AFIP fue constituida por el **Decreto 1156/1996**, mediante la fusión de:
+
+<div class="flujo">
+<div>Dirección General Impositiva</div>
+<span>+</span>
+<div>Administración Nacional de Aduanas</div>
+<span>→</span>
+<div>AFIP</div>
+</div>
+
+El **Decreto 618/1997** reunió y ordenó las normas relativas a la **organización y funcionamiento** del organismo.
+
+<div class="idea-central">
+Por lo tanto: <strong>Decreto 1156/96 = constitución de AFIP</strong>; <strong>Decreto 618/97 = organización y funcionamiento</strong>.
+</div>
+
+<div class="fuente">Actualización normativa: Decretos 1156/1996 y 953/2024.</div>
+
+---
+
+## La estructura explicada por Villegas
+
+En la organización estudiada por Villegas, la AFIP comprendía:
+
+<div class="tres-columnas">
+
+<div>
+### DGI
+Dirección General Impositiva
+</div>
+
+<div>
+### DGA
+Dirección General de Aduanas
+</div>
+
+<div>
+### DGRSS
+Dirección General de los Recursos de la Seguridad Social
+</div>
+
+</div>
+
+La **DGRSS** había sido incorporada a la estructura de AFIP por el **Decreto 1231/2001**, recibiendo las competencias relativas a los recursos de la seguridad social que hasta entonces correspondían a la DGI.
+
+<div class="fuente">Villegas, cap. XII, apartado 3.1; actualización normativa: Decreto 953/2024, considerandos.</div>
+
+---
+
+## De AFIP a ARCA {.section-title}
+
+### Actualización normativa posterior a Villegas
+
+---
+
+## Decreto 953/2024
+
+El **Decreto 953/2024** produjo una modificación institucional central:
+
+<div class="gran-flujo">
+<div>AFIP</div>
+<span>↓</span>
+<div>DISOLUCIÓN</div>
+<span>↓</span>
+<div>ARCA</div>
+</div>
+
+Se creó la **Agencia de Recaudación y Control Aduanero (ARCA)** como ente autárquico en el ámbito del Ministerio de Economía.
+
+<div class="fuente">Actualización normativa: Decreto 953/2024, arts. 1 y 2.</div>
+
+---
+
+## ARCA como continuadora jurídica
+
+<div class="idea-central">
+ARCA es la <strong>continuadora jurídica</strong> de la AFIP.
+</div>
+
+El Decreto 953/2024 le transfirió:
+
+- recursos;
+- personal;
+- bienes y patrimonio;
+- presupuesto;
+- compromisos;
+- derechos y obligaciones.
+
+Asimismo, ARCA ejerce las funciones atribuidas al organismo disuelto por la legislación tributaria, aduanera y de seguridad social, con las modificaciones derivadas del nuevo régimen.
+
+<div class="fuente">Actualización normativa: Decreto 953/2024, arts. 5, 6 y 7.</div>
+
+---
+
+## Estructura actual: ARCA
+
+El Decreto 953/2024 prevé que el Director Ejecutivo de ARCA sea secundado por:
+
+<div class="cuatro">
+
+<div>
+<strong>DGI</strong><br>
+Dirección General Impositiva
+</div>
+
+<div>
+<strong>DGA</strong><br>
+Dirección General de Aduanas
+</div>
+
+</div>
+
+<div class="alerta">
+La <strong>DGRSS ya no aparece como una tercera Dirección General</strong> paralela a DGI y DGA en la estructura prevista por el Decreto 953/2024.
+</div>
+
+<div class="fuente">Actualización normativa: Decreto 953/2024, art. 4.</div>
+
+---
+
+## ¿Qué ocurrió con la Seguridad Social?
+
+Las competencias no desaparecieron.
+
+<div class="formula">
+Recursos de la Seguridad Social → DGI
+</div>
+
+El artículo 10 del Decreto 953/2024 dispone que las facultades, atribuciones y competencias en materia de recursos de la seguridad social sean ejercidas por la **Dirección General Impositiva de ARCA**.
+
+<div class="contraste">
+<strong>Villegas / AFIP:</strong> DGI + DGA + DGRSS
+<br><br>
+<strong>Régimen actual / ARCA:</strong> DGI + DGA
+</div>
+
+<div class="fuente">Actualización normativa: Decreto 953/2024, arts. 4 y 10.</div>
+
+---
+
+## Evolución institucional
+
+<div class="gran-flujo">
+<div>DGI + Administración Nacional de Aduanas</div>
+<span>↓</span>
+<div>AFIP — Decreto 1156/1996</div>
+<span>↓</span>
+<div>Organización — Decreto 618/1997</div>
+<span>↓</span>
+<div>DGRSS — Decreto 1231/2001</div>
+<span>↓</span>
+<div>ARCA — Decreto 953/2024</div>
+</div>
+
+<div class="idea-central">
+La actualización institucional no altera los conceptos de derecho tributario material y formal desarrollados por Villegas; modifica el <strong>organismo administrativo encargado de aplicarlos</strong>.
+</div>
+
+<div class="fuente">Villegas, cap. XII; actualización normativa: Decretos 1156/1996 y 953/2024.</div>
+
+---
+
+## Determinación tributaria {.section-title}
+
+### De la hipótesis legal al importe exigible
+
+---
+
+## Concepto de determinación
+
+<div class="definicion">
+La determinación tributaria es el acto o conjunto de actos dirigidos a precisar, en cada caso:
+</div>
+
+<div class="cuatro">
+
+<div><strong>an debeatur</strong><br>si existe deuda</div>
+<div><strong>sujeto pasivo</strong><br>quién debe pagar</div>
+<div><strong>quantum debeatur</strong><br>cuánto debe</div>
+<div><strong>plazo</strong><br>cuándo debe cancelar</div>
+
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.1.</div>
+
+---
+
+## Función de la determinación
+
+<div class="idea-central">
+La determinación transforma la relación jurídica tributaria sustancial en una expresión pecuniaria concreta.
+</div>
+
+Para Villegas es una fase necesaria para establecer:
+
+1. la existencia de la obligación;
+2. el obligado;
+3. su cuantía;
+4. el plazo de cumplimiento.
+
+<div class="fuente">Villegas, cap. XII, apartado 5.</div>
+
+---
+
+## Modalidades de determinación
+
+<div class="tres-columnas">
+
+<div>
+### Por el sujeto pasivo
+Declaración jurada.
+</div>
+
+<div>
+### Mixta
+Administración + colaboración del sujeto.
+</div>
+
+<div>
+### De oficio
+La practica el Fisco.
+</div>
+
+</div>
+
+<div class="idea-central">
+Las modalidades difieren en la forma, pero comparten una finalidad: establecer en el caso concreto la existencia y cuantía de la obligación.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.4.</div>
+
+---
+
+## Declaración jurada
+
+Es la modalidad general en el sistema tributario que describe Villegas.
+
+<div class="gran-flujo">
+<div>El sujeto conoce los datos</div>
+<span>↓</span>
+<div>Aplica las reglas del tributo</div>
+<span>↓</span>
+<div>Declara la obligación</div>
+<span>↓</span>
+<div>Ingresa el importe correspondiente</div>
+</div>
+
+La determinación de oficio opera habitualmente de manera **subsidiaria**.
+
+<div class="nota">
+<strong>Ejemplo:</strong> el contribuyente reúne los datos de sus operaciones, aplica las reglas legales, confecciona su declaración jurada y determina el importe que debe ingresar. El Fisco conserva sus facultades de verificación.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.4.1.</div>
+
+---
+
+## Determinación mixta
+
+<div class="definicion">
+La Administración determina el importe con la cooperación del sujeto pasivo.
+</div>
+
+El sujeto aporta los datos requeridos, pero es el Fisco quien fija el monto.
+
+Villegas señala que en Argentina esta modalidad ha tenido un alcance limitado y menciona especialmente su utilización en materia aduanera.
+
+<div class="nota">
+<strong>Ejemplo:</strong> el administrado suministra los datos y antecedentes requeridos, pero la cuantificación final es practicada por la Administración con intervención de ambos polos de la relación.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.4.3.</div>
+
+---
+
+## Determinación de oficio: procedencia
+
+Villegas identifica tres supuestos centrales:
+
+<div class="pasos">
+
+<div><span>1</span> La ley dispone expresamente esta modalidad.</div>
+
+<div><span>2</span> Falta declaración jurada o datos necesarios.</div>
+
+<div><span>3</span> La declaración o los datos son impugnados por inexactitud.</div>
+
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> un contribuyente omite presentar la declaración jurada. También puede ocurrir que la presente, pero que la fiscalización encuentre inconsistencias o falta de respaldo suficiente. En esos supuestos puede abrirse el camino a la determinación de oficio.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.4.4.</div>
+
+---
+
+## Declaración jurada inexacta
+
+La determinación de oficio puede activarse cuando la declaración presentada es impugnada por:
+
+- errores;
+- omisiones;
+- defectos de los elementos aportados;
+- carencia de sustento documental.
+
+<div class="pregunta">
+La declaración jurada del contribuyente, ¿impide al Fisco verificar la obligación?
+</div>
+
+**No.** Precisamente, el derecho formal regula la actividad de comprobación y fiscalización.
+
+<div class="nota">
+<strong>Ejemplo:</strong> un contribuyente omite presentar la declaración jurada. También puede ocurrir que la presente, pero que la fiscalización encuentre inconsistencias o falta de respaldo suficiente. En esos supuestos puede abrirse el camino a la determinación de oficio.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.4.4.</div>
+
+---
+
+## Etapa instructoria
+
+Ante la falta de declaración o sospechas de inexactitud, la Administración desarrolla una fase preparatoria.
+
+Según Villegas, procura:
+
+- conocer los hechos como realmente sucedieron;
+- obtener datos e información;
+- atribuir con precisión la deuda;
+- preservar elementos probatorios.
+
+<div class="idea-central">
+La determinación de oficio no es una mera estimación libre: debe apoyarse en actividad administrativa dirigida a reconstruir la situación tributaria.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.5.1.</div>
+
+---
+
+## Base cierta
+
+<div class="definicion">
+La determinación es sobre <strong>base cierta</strong> cuando el Fisco dispone de elementos que permiten conocer directamente y con certeza la existencia de la obligación y su dimensión pecuniaria.
+</div>
+
+No importa que esos elementos provengan:
+
+- del sujeto pasivo; o
+- de otros medios de información.
+
+<div class="nota">
+<strong>Ejemplo:</strong> libros, comprobantes, registraciones y datos de terceros permiten reconstruir directamente ventas, compras y demás elementos necesarios para cuantificar la obligación. Si esos elementos son suficientes, la determinación puede hacerse sobre base cierta.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.6.</div>
+
+---
+
+## Base presunta
+
+Solo cuando no resulta posible determinar sobre base cierta puede acudirse a estimaciones.
+
+Villegas menciona como indicios posibles, entre otros:
+
+- capital invertido;
+- compras y ventas;
+- existencias;
+- rendimientos de negocios similares;
+- gastos generales;
+- salarios y alquileres;
+- nivel de vida;
+- fluctuaciones patrimoniales.
+
+<div class="alerta">
+La presunción no equivale a arbitrariedad: los indicios deben ser aplicados de manera razonable.
+</div>
+
+<div class="nota">
+<strong>Ejemplo:</strong> si no existen registraciones confiables, el Fisco puede acudir —en los supuestos legalmente admitidos— a compras, existencias, salarios, alquileres, nivel de vida o rendimientos de negocios similares para inferir la materia imponible.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.6.</div>
+
+---
+
+## Naturaleza de la determinación de oficio
+
+Existe discusión doctrinal.
+
+<div class="contraste">
+<strong>Jarach:</strong> destaca su carácter jurisdiccional.
+</div>
+
+<div class="contraste">
+<strong>Giuliani Fonrouge y Martínez:</strong> la consideran actividad administrativa.
+</div>
+
+<div class="idea-central">
+<strong>Villegas adopta la segunda posición:</strong> la determinación tributaria, tomada en su conjunto, es un acto administrativo; el procedimiento de determinación de oficio no tiene carácter jurisdiccional.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartado 5.7.</div>
+
+---
+
+## Garantías en la determinación
+
+Que el procedimiento sea administrativo no significa ausencia de garantías.
+
+Villegas destaca:
+
+- posibilidad de ser oído;
+- posibilidad de ofrecer y producir prueba;
+- necesidad de motivación de las decisiones;
+- vías de impugnación.
+
+<div class="idea-central">
+Las garantías frente a la arbitrariedad no convierten al órgano administrativo en órgano jurisdiccional.
+</div>
+
+<div class="fuente">Villegas, cap. XII, apartados 5.5 y 5.7.</div>
+
+---
+
+## El mapa completo
+
+<div class="gran-flujo">
+<div>LEY TRIBUTARIA</div>
+<span>↓</span>
+<div>HECHO IMPONIBLE</div>
+<span>↓</span>
+<div>RELACIÓN JURÍDICA TRIBUTARIA</div>
+<span>↓</span>
+<div>DETERMINACIÓN</div>
+<span>↓</span>
+<div>PAGO / EXTINCIÓN</div>
+</div>
+
+<div class="nota">
+En paralelo, el derecho formal establece deberes y facultades de información, verificación y fiscalización para hacer operativa la obligación sustancial.
+</div>
+
+---
+
+## Caso integrador
+
+Una empresa presenta su declaración jurada. El Fisco detecta inconsistencias entre las ventas declaradas, las compras informadas por terceros y sus registraciones.
+
+<div class="pregunta">
+1. ¿Qué plano del derecho tributario define el hecho imponible y el sujeto obligado?
+</div>
+
+<div class="pregunta">
+2. ¿Qué plano regula las facultades de fiscalización y los deberes de información?
+</div>
+
+<div class="pregunta">
+3. ¿Cuándo podría corresponder una determinación de oficio?
+</div>
+
+<div class="pregunta">
+4. ¿Debería intentarse primero una determinación sobre base cierta?
+</div>
+
+---
+
+## Caso integrador: guía
+
+1. **Derecho tributario material:** define la relación sustancial, hecho imponible, sujetos y objeto.
+2. **Derecho tributario formal:** regula deberes instrumentales y actuación fiscalizadora.
+3. Puede proceder **determinación de oficio** si la declaración es impugnada por inexactitud.
+4. La regla es la **base cierta** cuando existen elementos suficientes; la base presunta es subsidiaria.
+
+<div class="fuente">Villegas, caps. XI y XII.</div>
+
+---
+
+## Tres distinciones para no confundir
+
+<div class="tres-columnas">
+
+<div>
+<strong>Potestad tributaria</strong><br>
+≠<br>
+<strong>relación jurídica</strong>
+</div>
+
+<div>
+<strong>Destinatario legal</strong><br>
+≠ necesariamente<br>
+<strong>sujeto pasivo</strong>
+</div>
+
+<div>
+<strong>Hecho imponible</strong><br>
+≠<br>
+<strong>base imponible</strong>
+</div>
+
+</div>
+
+---
+
+## Otras tres distinciones
+
+<div class="tres-columnas">
+
+<div>
+<strong>Contribuyente</strong><br>
+deuda propia
+</div>
+
+<div>
+<strong>Responsable solidario</strong><br>
+junto al contribuyente
+</div>
+
+<div>
+<strong>Sustituto</strong><br>
+en lugar del destinatario
+</div>
+
+</div>
+
+<div class="contraste">
+Y en el plano operativo: <strong>derecho material ≠ derecho formal</strong>, aunque ambos son inseparables para la aplicación efectiva del tributo.
+</div>
+
+---
+
+## Cierre
+
+<div class="idea-central">
+El eje de la unidad puede leerse como un recorrido desde la <strong>hipótesis legal</strong> hasta la <strong>percepción efectiva del tributo</strong>.
+</div>
+
+<div class="flujo">
+<div>Ley</div><span>→</span>
+<div>hecho imponible</div><span>→</span>
+<div>obligación</div><span>→</span>
+<div>determinación</div><span>→</span>
+<div>pago</div>
+</div>
+
+**Idea final:** el derecho tributario material explica **por qué y quién debe**; el derecho tributario formal explica **cómo se comprueba, cuantifica y hace efectiva** esa obligación.
+
+---
+
+## Bibliografía
+
+**VILLEGAS, Héctor B.**  
+*Curso de finanzas, derecho financiero y tributario*.  
+Edición 2021. Thomson Reuters - La Ley.
+
+<div class="nota">
+Presentación elaborada exclusivamente sobre la obra indicada. Las referencias a la organización administrativa nacional reproducen el estado institucional descripto por Villegas en la edición 2021.
+</div>

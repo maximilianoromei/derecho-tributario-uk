@@ -1,0 +1,1031 @@
+---
+title: "Fiscalización y determinación de oficio"
+subtitle: "Derecho Tributario · Universidad Kennedy"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: default
+    css: styles-tributario2.css
+    slide-number: true
+    scrollable: true
+    center: false
+    transition: fade
+    navigation-mode: linear
+    controls: true
+    progress: true
+    hash: true
+    width: 1600
+    height: 900
+    margin: 0.06
+    auto-stretch: false
+---
+
+## Fiscalización y determinación de oficio
+
+::: {.idea-central}
+La determinación de oficio **no comienza con la inspección**. Antes existe una etapa de verificación y fiscalización destinada a conocer los hechos. Si el Fisco concluye que la declaración jurada falta o es impugnable, recién entonces se abre el procedimiento determinativo de los arts. 16 y 17 de la Ley 11.683.
+:::
+
+**Secuencia de la clase**
+
+::: {.gran-flujo}
+Declaración jurada → Orden de intervención → Fiscalización → Ajuste de inspección → Vista → Descargo y prueba → Resolución determinativa → Reconsideración o TFN
+:::
+
+::: {.fuente}
+Base doctrinaria: Héctor B. Villegas, *Curso de finanzas, derecho financiero y tributario*, 2021, cap. sobre determinación tributaria.  
+Normativa: [Ley 11.683 — texto oficial](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Punto de partida: ¿quién determina el tributo?
+
+::: {.definicion}
+**Determinar** significa establecer, para un caso concreto, la existencia del hecho imponible, identificar al sujeto obligado y cuantificar la obligación tributaria.
+:::
+
+Villegas presenta la determinación como una fase destinada a transformar la relación jurídica tributaria sustancial en una suma concreta.
+
+En el sistema argentino, la regla práctica es la **autodeterminación mediante declaración jurada**. La determinación de oficio aparece, en principio, de manera **subsidiaria**.
+
+::: {.fuente}
+[Ley 11.683, arts. 11 y 16](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Los modos de determinación
+
+:::: {.triada}
+::: {.definicion}
+### Por el sujeto pasivo
+El contribuyente presenta la **declaración jurada** y determina el impuesto.
+:::
+
+::: {.definicion}
+### Administrativa / mixta
+La Administración cuantifica con datos aportados por el contribuyente o disponibles en sus sistemas, según el régimen aplicable.
+:::
+
+::: {.definicion}
+### De oficio
+El Fisco determina cuando se configuran los supuestos previstos legalmente.
+:::
+::::
+
+::: {.fuente}
+Villegas, 2021, apartados 5.4 y ss.; [Ley 11.683, arts. 11 y 16](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## La declaración jurada
+
+La declaración jurada constituye el mecanismo normal de determinación en numerosos tributos nacionales.
+
+- El contribuyente exterioriza los hechos relevantes.
+- Aplica las normas tributarias.
+- Determina la base imponible.
+- Calcula el gravamen.
+- Queda responsable por la exactitud de los datos declarados.
+
+::: {.alerta}
+La declaración jurada **no queda fuera del control fiscal**: está sujeta a verificación y eventual impugnación por la Administración.
+:::
+
+::: {.fuente}
+[Ley 11.683, arts. 11 y 13](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Autodeterminación no significa autodefinitividad
+
+::: {.contraste}
+**Contribuyente**  
+Determina inicialmente mediante DDJJ.
+
+**Administración**  
+Conserva facultades de verificación, fiscalización e impugnación mientras no opere la prescripción.
+:::
+
+La declaración jurada es, por tanto, el punto de partida de una relación que puede permanecer inalterada o ser revisada por el organismo fiscal.
+
+## Tres conceptos que no deben confundirse
+
+| Concepto | Función |
+|---|---|
+| **Fiscalización** | Investigar y verificar hechos y documentación |
+| **Ajuste de inspección** | Exteriorizar la pretensión técnica del área fiscalizadora |
+| **Determinación de oficio** | Acto del juez administrativo que determina jurídicamente la obligación |
+
+::: {.idea-central}
+**Inspector ≠ juez administrativo.**  
+**Ajuste de inspección ≠ determinación de oficio.**
+:::
+
+::: {.fuente}
+[Ley 11.683, art. 16](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## La etapa de fiscalización
+
+Villegas la caracteriza como una **etapa instructoria o preparatoria**.
+
+Su finalidad es:
+
+1. conocer los hechos tal como ocurrieron;
+2. obtener información y documentación;
+3. comprobar la exactitud de las declaraciones;
+4. preservar elementos relevantes;
+5. formar la convicción administrativa acerca de la existencia —o inexistencia— de diferencias tributarias.
+
+::: {.nota}
+Los elementos reunidos en esta fase servirán de fundamento a una eventual pretensión fiscal, pero todavía no existe una resolución determinativa.
+:::
+
+## Orden de intervención
+
+La Ley 11.683 exige, como regla del procedimiento de fiscalización, el libramiento de una **orden de intervención**.
+
+Debe indicar:
+
+- fecha de la medida;
+- funcionarios encargados;
+- identificación del fiscalizado;
+- CUIT y domicilio fiscal;
+- **impuestos comprendidos**;
+- **períodos comprendidos**.
+
+Debe ser suscripta por funcionario competente **antes del inicio** y notificarse fehacientemente.
+
+::: {.fuente}
+[Ley 11.683, artículo incorporado a continuación del art. 36 — Biblioteca ARCA](https://biblioteca.arca.gob.ar/dcp/TOR_C_011683_1998_07_13)
+:::
+
+## ¿Para qué sirve la orden de intervención?
+
+::: {.idea-central}
+La orden **delimita el objeto de la fiscalización** y permite al contribuyente conocer quién lo fiscaliza, por qué tributos y por qué períodos.
+:::
+
+No es una mera formalidad interna.
+
+Permite identificar:
+
+- el **ámbito subjetivo** de la inspección;
+- el **ámbito objetivo**: impuestos;
+- el **ámbito temporal**: períodos;
+- los agentes autorizados para actuar.
+
+## Ampliación de la orden
+
+Si durante la inspección el organismo necesita extender la fiscalización a otros impuestos o períodos, la **ampliación** debe cumplir los mismos requisitos legales.
+
+::: {.alerta}
+La inspección no debería transformarse informalmente en una fiscalización ilimitada. La ampliación del objeto debe exteriorizarse mediante el mecanismo previsto por la ley.
+:::
+
+También debe notificarse fehacientemente la **finalización de la fiscalización**.
+
+::: {.fuente}
+[Ley 11.683 — orden de intervención](https://biblioteca.arca.gob.ar/dcp/TOR_C_011683_1998_07_13)
+:::
+
+## ARCA y la denominación legal
+
+Actualmente el organismo recaudador es **ARCA**. Sin embargo, el texto ordenado de la Ley 11.683 y numerosos antecedentes continúan utilizando la denominación **AFIP**.
+
+::: {.nota}
+En esta clase utilizaremos “Fisco”, “organismo recaudador” o “ARCA” para la realidad institucional actual, y “AFIP” cuando reproduzcamos o expliquemos textos legales y jurisprudenciales que emplean esa denominación.
+:::
+
+## Información disponible para el fiscalizado
+
+ARCA informa que el contribuyente puede consultar electrónicamente, entre otros datos:
+
+- número de Orden de Intervención;
+- fecha de inicio;
+- días transcurridos;
+- inspectores, supervisores y jefaturas intervinientes;
+- estado de la fiscalización.
+
+::: {.fuente}
+[ARCA — Consulta de estados de fiscalizaciones](https://arca.gob.ar/incumplimientos/inspecciones/consultar-fiscalizaciones.asp)
+:::
+
+## Derechos frente a la inspección
+
+ARCA reconoce expresamente el derecho del contribuyente a conocer al iniciarse la inspección:
+
+- período fiscalizado;
+- impuesto fiscalizado;
+- número de orden de intervención;
+- supervisor;
+- inspector interviniente.
+
+También puede constatar la identidad de los inspectores.
+
+::: {.fuente}
+[ARCA — Derechos y obligaciones](https://www.arca.gob.ar/genericos/derechosObligaciones/tus-derechos.asp)
+:::
+
+## Facultades de verificación: art. 35
+
+::: {.section-title}
+La fiscalización tiene poderes intensos, pero legalmente delimitados
+:::
+
+El art. 35 otorga amplias facultades para verificar el cumplimiento de las normas tributarias, incluso respecto de períodos fiscales en curso.
+
+::: {.fuente}
+[Ley 11.683, art. 35](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Art. 35: citar y requerir información
+
+El organismo puede:
+
+- citar al firmante de una declaración jurada;
+- citar al presunto contribuyente o responsable;
+- citar a terceros que conozcan operaciones relevantes;
+- formular preguntas;
+- requerir información verbal o escrita sobre ingresos, egresos y demás circunstancias vinculadas con el hecho imponible.
+
+::: {.idea-central}
+El deber de colaboración alcanza también, dentro de los límites legales, a **terceros**.
+:::
+
+## Art. 35: documentación
+
+El Fisco puede exigir a responsables y terceros la presentación de:
+
+- comprobantes;
+- justificativos;
+- libros;
+- anotaciones;
+- papeles;
+- documentación vinculada con las operaciones fiscalizadas.
+
+::: {.fuente}
+[Ley 11.683, art. 35 incs. a, b y c](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Inspección de libros y documentos
+
+La Administración puede inspeccionar libros, papeles y documentos que permitan comprobar operaciones relacionadas con las declaraciones juradas.
+
+La inspección puede efectuarse incluso **concomitantemente con la realización de las operaciones**.
+
+::: {.alerta}
+La facultad es amplia, pero la información requerida debe guardar vinculación con la materia fiscalizable.
+:::
+
+## Las actas de inspección
+
+Cuando se responden verbalmente requerimientos o se examinan libros y documentos, los funcionarios deben dejar constancia en **actas**.
+
+Las actas individualizan:
+
+- elementos exhibidos;
+- manifestaciones efectuadas;
+- circunstancias verificadas.
+
+La ley establece que sirven de **prueba en los juicios respectivos**, aun cuando no hayan sido firmadas por el interesado.
+
+::: {.fuente}
+[Ley 11.683, art. 35 inc. c](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Auxilio de la fuerza pública
+
+En los supuestos legalmente previstos, funcionarios autorizados pueden requerir el **auxilio inmediato de la fuerza pública** cuando existan obstáculos para el ejercicio de sus funciones o resulte necesario para ejecutar una orden de allanamiento.
+
+::: {.fuente}
+[Ley 11.683, art. 35 inc. d](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Allanamiento: no decide el inspector
+
+::: {.alerta}
+La facultad fiscalizadora **no autoriza por sí sola a ingresar compulsivamente a un domicilio**.
+:::
+
+Para el allanamiento debe requerirse una **orden judicial**, especificando lugar y oportunidad.
+
+Aquí aparece con claridad un límite constitucional a las potestades inquisitivas de la Administración.
+
+::: {.fuente}
+[Ley 11.683, art. 35 inc. e](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Los límites según Villegas
+
+Villegas subraya que los derechos individuales limitan la etapa instructoria y evita identificar facultad inquisitiva con arbitrariedad.
+
+Entre los límites destaca:
+
+- facultades expresamente previstas por la ley;
+- actuación no librada a mera conveniencia;
+- documentación de determinadas actuaciones mediante actas;
+- autorización judicial para medidas especialmente invasivas;
+- protección del secreto profesional.
+
+## Información y sistemas informáticos
+
+El art. 36 permite requerir, dentro de su ámbito de aplicación:
+
+- soportes y archivos vinculados con registraciones;
+- información sobre sistemas utilizados;
+- documentación del hardware y software;
+- determinados datos necesarios para auditoría fiscal.
+
+::: {.fuente}
+[Ley 11.683, art. 36](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Durante la fiscalización: rectificación
+
+La ley contempla que, durante la verificación y a instancia de la inspección, el contribuyente pueda **rectificar declaraciones juradas** de acuerdo con cargos y créditos surgidos de la fiscalización.
+
+::: {.alerta}
+La rectificación **no inhibe** las facultades del organismo para determinar posteriormente la materia imponible que corresponda.
+:::
+
+::: {.fuente}
+[Ley 11.683 — artículo incorporado después del art. 36](https://biblioteca.arca.gob.ar/dcp/TOR_C_011683_1998_07_13)
+:::
+
+## ¿Cómo puede terminar la inspección?
+
+:::: {.triada}
+::: {.definicion}
+### Sin ajuste
+La fiscalización no detecta diferencias relevantes. No se inicia determinación de oficio.
+:::
+
+::: {.definicion}
+### Conformidad
+El contribuyente acepta el ajuste y regulariza según corresponda.
+:::
+
+::: {.definicion}
+### Sin conformidad
+Persiste la pretensión fiscal y puede iniciarse el procedimiento determinativo.
+:::
+::::
+
+## El ajuste del inspector no determina la deuda
+
+::: {.idea-central}
+Este es uno de los conceptos centrales de la clase.
+:::
+
+El art. 16 dispone expresamente que las liquidaciones y actuaciones de inspectores y empleados intervinientes **no constituyen determinación administrativa del tributo**.
+
+La determinación compete al funcionario que ejerce atribuciones de **juez administrativo**.
+
+::: {.fuente}
+[Ley 11.683, art. 16](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Ejemplo: ajuste ≠ determinación
+
+Un inspector concluye que una sociedad omitió ventas y calcula una diferencia de IVA de $X.
+
+::: {.contraste}
+**Lo que existe:** una conclusión de la fiscalización y una pretensión de ajuste.
+
+**Lo que todavía no existe:** una determinación de oficio susceptible de los recursos del art. 76.
+:::
+
+Si el contribuyente no conforma, debe abrirse el procedimiento correspondiente y garantizarse su defensa.
+
+## ¿Cuándo procede la determinación de oficio?
+
+El art. 16 contempla dos supuestos básicos:
+
+:::: {.dos}
+::: {.definicion}
+### 1. Falta de DDJJ
+El obligado no presentó la declaración jurada correspondiente.
+:::
+
+::: {.definicion}
+### 2. DDJJ impugnable
+La declaración fue presentada, pero el Fisco considera que no refleja correctamente la obligación.
+:::
+::::
+
+::: {.fuente}
+[Ley 11.683, art. 16](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## De la fiscalización al procedimiento determinativo
+
+::: {.gran-flujo}
+Inspección → Diferencia detectada → No conformidad → Remisión de actuaciones → Juez administrativo → Vista del art. 17
+:::
+
+::: {.idea-central}
+**La vista es el acto que inicia formalmente el procedimiento de determinación de oficio.**
+:::
+
+## El juez administrativo
+
+No debe confundirse la denominación con un juez integrante del Poder Judicial.
+
+Es un funcionario administrativo al que la normativa atribuye competencia para dictar determinados actos jurisdiccionales administrativos, entre ellos la resolución determinativa.
+
+::: {.alerta}
+La resolución de determinación no la dicta el inspector que realizó la fiscalización.
+:::
+
+::: {.fuente}
+[Ley 11.683, arts. 16 y 17](https://www.argentina.gob.ar/normativa/nacional/18771/texto); [Decreto 618/97](https://www.argentina.gob.ar/normativa/nacional/decreto-618-1997-44432)
+:::
+
+## La vista del art. 17
+
+El juez administrativo debe correr vista al contribuyente o responsable de:
+
+- las actuaciones administrativas;
+- las impugnaciones formuladas;
+- los cargos efectuados;
+- el **fundamento detallado** de la pretensión fiscal.
+
+::: {.idea-central}
+La vista no es una formalidad: materializa el **derecho de defensa antes del dictado del acto determinativo**.
+:::
+
+::: {.fuente}
+[Ley 11.683, art. 17](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Plazo para contestar la vista
+
+::: {.formula}
+**15 días + posible prórroga por otros 15 días, por única vez**
+:::
+
+Dentro del plazo, el contribuyente puede:
+
+- formular descargo;
+- controvertir los hechos;
+- discutir la interpretación jurídica;
+- ofrecer o presentar prueba.
+
+::: {.fuente}
+[Ley 11.683, art. 17](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## La prueba: momento decisivo
+
+Villegas destaca la importancia de la actividad probatoria en esta instancia.
+
+Pueden resultar pertinentes, según el caso:
+
+- documental;
+- informativa;
+- pericial;
+- testimonial;
+- otros medios compatibles con el procedimiento.
+
+::: {.alerta}
+La estrategia defensiva no debe reservar toda la prueba para una etapa posterior. El procedimiento determinativo es el momento natural para controvertir la base fáctica de la pretensión fiscal.
+:::
+
+## El derecho a ser oído
+
+La estructura del art. 17 responde a una garantía elemental:
+
+::: {.gran-flujo}
+Pretensión fiscal provisoria → conocimiento por el contribuyente → defensa → prueba → valoración → decisión fundada
+:::
+
+La Administración no puede convertir directamente el resultado de una inspección en una deuda determinada sin respetar este procedimiento cuando la ley exige determinación de oficio.
+
+## ¿Qué pasa si el contribuyente conforma?
+
+Si antes de la resolución determinativa el responsable presta conformidad con las impugnaciones o cargos, la ley permite prescindir del dictado de la determinación de oficio.
+
+La conformidad produce:
+
+- para el responsable, efectos equivalentes a una **declaración jurada**;
+- para el Fisco, efectos equivalentes a una **determinación de oficio**.
+
+::: {.fuente}
+[Ley 11.683, art. 17](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Acuerdo conclusivo voluntario
+
+La reforma de la Ley 27.430 incorporó un mecanismo de **acuerdo conclusivo voluntario** para determinados casos complejos.
+
+Puede resultar pertinente cuando existen:
+
+- apreciaciones de hechos;
+- estimaciones;
+- valoraciones;
+- cuestiones novedosas;
+- situaciones de especial trascendencia.
+
+::: {.nota}
+Villegas destaca que su habilitación es una potestad del Fisco y no un derecho unilateral del contribuyente.
+:::
+
+::: {.fuente}
+[Ley 11.683 — procedimiento de determinación](https://www.argentina.gob.ar/normativa/nacional/18771/texto); [Ley 27.430](https://www.argentina.gob.ar/normativa/nacional/305262)
+:::
+
+## Resolución determinativa
+
+Evacuada la vista —o vencido el plazo— corresponde al juez administrativo dictar una **resolución fundada**.
+
+Debe determinar:
+
+- tributo adeudado;
+- accesorios correspondientes;
+- multa, cuando corresponda dentro del régimen aplicable;
+- intimación de pago.
+
+::: {.fuente}
+[Ley 11.683, art. 17](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Motivación del acto
+
+::: {.definicion}
+**Motivar** no significa simplemente afirmar que el Fisco tiene razón. Significa exteriorizar las razones fácticas y jurídicas que conducen a la decisión.
+:::
+
+La resolución debe permitir conocer:
+
+- qué hechos se consideran acreditados;
+- qué prueba se valora;
+- qué defensas se admiten o rechazan;
+- qué normas se aplican;
+- cómo se arriba al monto determinado.
+
+## Fiscalizador y juez administrativo
+
+| Fiscalizador | Juez administrativo |
+|---|---|
+| Investiga | Decide |
+| Requiere información | Corre la vista |
+| Examina documentación | Valora descargo y prueba |
+| Formula ajustes | Dicta resolución fundada |
+| No determina el tributo | **Determina de oficio** |
+
+::: {.idea-central}
+La separación funcional ayuda a comprender por qué el informe de inspección no es todavía el acto recurrible del art. 76.
+:::
+
+## Base cierta y base presunta
+
+El art. 16 admite dos formas de determinación:
+
+:::: {.dos}
+::: {.definicion}
+### Base cierta
+La Administración conoce directamente los elementos necesarios para establecer la existencia y cuantía de la obligación.
+:::
+
+::: {.definicion}
+### Base presunta
+La información disponible no permite conocimiento directo suficiente y la ley habilita una estimación fundada en indicios y presunciones.
+:::
+::::
+
+::: {.fuente}
+[Ley 11.683, arts. 16 y 18](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Regla: preferencia por la base cierta
+
+Villegas sostiene una idea central:
+
+::: {.idea-central}
+La elección entre base cierta y presunta **no queda librada al arbitrio del Fisco**. La base presunta es subsidiaria: se utiliza cuando no resulta posible determinar adecuadamente sobre base cierta.
+:::
+
+Por eso, la Administración debe justificar las circunstancias que la llevan a abandonar el conocimiento directo y recurrir a la estimación.
+
+## Base cierta: ejemplo
+
+Una sociedad declaró correctamente sus operaciones, pero aplicó una interpretación jurídica que el Fisco considera equivocada.
+
+La documentación permite conocer:
+
+- ventas;
+- compras;
+- fechas;
+- importes;
+- sujetos intervinientes.
+
+::: {.definicion}
+El conflicto puede conducir a una determinación **sobre base cierta**, porque no existe incertidumbre relevante sobre la dimensión fáctica de la obligación.
+:::
+
+## ¿Cuándo aparece la base presunta?
+
+Puede resultar necesaria cuando existen irregularidades que impiden conocer con certeza las operaciones, por ejemplo:
+
+- obstaculización de la fiscalización;
+- falta de libros o registros requeridos;
+- documentación insuficiente;
+- omisión o alteración de operaciones;
+- inconsistencias que impiden reconstruir directamente la materia imponible.
+
+::: {.fuente}
+[Ley 11.683, arts. 16 y 18](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## ¿Cómo funciona una presunción?
+
+::: {.gran-flujo}
+Hecho conocido → regla de experiencia o conexión razonable → inferencia → hecho desconocido
+:::
+
+Ejemplo conceptual:
+
+**Compras comprobadas + margen razonable del negocio → estimación de ventas**
+
+::: {.alerta}
+La presunción no autoriza una cifra arbitraria. Debe existir una conexión razonable entre los hechos conocidos y la conclusión inferida.
+:::
+
+## Indicios del art. 18
+
+La ley menciona, entre otros:
+
+- capital invertido;
+- fluctuaciones patrimoniales;
+- volumen de transacciones;
+- utilidades de otros períodos;
+- compras y ventas;
+- existencias de mercaderías;
+- rendimiento normal del negocio o de empresas similares;
+- gastos generales;
+- salarios;
+- alquileres;
+- nivel de vida.
+
+::: {.fuente}
+[Ley 11.683, art. 18](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Falta de contabilidad o comprobantes
+
+La ley asigna consecuencias específicas a la ausencia de contabilidad o de comprobantes fehacientes.
+
+En esos casos puede operar la presunción de legitimidad de la determinación efectuada con índices legal o técnicamente admisibles, **sin perjuicio del derecho del contribuyente a probar lo contrario**.
+
+::: {.alerta}
+La prueba en contrario debe ser concreta y fehaciente; no alcanza una mera negación general de la estimación.
+:::
+
+::: {.fuente}
+[Ley 11.683, art. 18](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Base presunta no equivale a sanción automática
+
+Una cosa es utilizar presunciones para **determinar la obligación tributaria** y otra distinta acreditar los presupuestos de una **infracción sancionatoria**.
+
+::: {.idea-central}
+Las presunciones determinativas no deben trasladarse mecánicamente al ámbito punitivo.
+:::
+
+Esta distinción será retomada al estudiar ilícitos y sanciones tributarias.
+
+## Jurisprudencia: determinación presunta
+
+En jurisprudencia de la Corte se ha reconocido que la estimación indiciaria constituye un método previsto para situaciones en las que falta información directa suficiente para establecer el hecho imponible o su magnitud.
+
+También se ha remarcado que la utilización de presunciones en materia determinativa no permite, sin más, tener acreditados los elementos de una sanción.
+
+::: {.fuente}
+[Corte Suprema — colección Fallos, doctrina sobre estimación indiciaria](https://sjservicios.csjn.gov.ar/sj/verTomo?tomoId=381)
+:::
+
+## Caso: base cierta o presunta
+
+**Hechos:** una empresa exhibe libros, facturas y extractos bancarios completos. El Fisco discrepa únicamente sobre si determinado ingreso está gravado.
+
+::: {.definicion}
+**Solución:** el problema es jurídico y los hechos relevantes pueden conocerse directamente. En principio corresponde **base cierta**, no una estimación presuntiva.
+:::
+
+## Caso: documentación imposible de reconstruir
+
+**Hechos:** el contribuyente no presenta libros, existen depósitos bancarios no explicados y la documentación disponible no permite reconstruir directamente las ventas.
+
+::: {.definicion}
+**Solución:** pueden configurarse las condiciones para una **determinación sobre base presunta**, siempre que el Fisco funde los indicios utilizados y la inferencia efectuada.
+:::
+
+## Responsabilidad solidaria y determinación
+
+El art. 17 exige que el procedimiento determinativo se cumpla también respecto de aquellos sujetos a quienes el Fisco pretende atribuir **responsabilidad solidaria por deuda ajena**.
+
+::: {.idea-central}
+No basta con determinar la deuda al contribuyente y luego trasladarla automáticamente al responsable solidario: debe respetarse su propio derecho de defensa.
+:::
+
+::: {.fuente}
+[Ley 11.683, art. 17](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## CSJN: “Bozzano”
+
+En **“Bozzano, Raúl José (TF 33.056-I) c/ DGI”**, 11/2/2014, la Corte destacó que el régimen de la Ley 11.683 resguarda la defensa del sujeto al que se pretende atribuir responsabilidad por deuda de un tercero mediante el procedimiento del art. 17 y la posibilidad posterior de recurrir.
+
+::: {.fuente}
+[CSJN, Fallos 337 — “Bozzano”](https://sjservicios.csjn.gov.ar/sj/verTomo?tomoId=422)
+:::
+
+## La resolución debe tratar la prueba
+
+La motivación exige que las defensas y pruebas relevantes sean **consideradas**.
+
+No significa que el juez administrativo deba aceptar la postura del contribuyente, sino que debe:
+
+1. identificar el planteo;
+2. valorar la prueba pertinente;
+3. explicar por qué la admite o descarta;
+4. conectar esa valoración con la conclusión tributaria.
+
+::: {.idea-central}
+Decisión fundada ≠ decisión favorable al contribuyente.  
+Decisión fundada = decisión explicada y jurídicamente controlable.
+:::
+
+## Caducidad del procedimiento determinativo
+
+El art. 17 contempla un mecanismo específico cuando no se dicta resolución.
+
+::: {.gran-flujo}
+90 días desde evacuación de la vista o vencimiento → contribuyente pide pronto despacho → 30 días sin resolución → caducidad del procedimiento
+:::
+
+::: {.fuente}
+[Ley 11.683, art. 17](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## ¿Qué caduca?
+
+::: {.alerta}
+La caducidad **no borra la fiscalización realizada**.
+:::
+
+La ley preserva la validez de las actuaciones administrativas cumplidas y permite al Fisco iniciar **por una única vez** un nuevo procedimiento determinativo, sujeto a los recaudos legales correspondientes.
+
+Por eso hay que distinguir:
+
+**caducidad del procedimiento determinativo ≠ nulidad de toda la investigación previa.**
+
+## Efectos de la determinación firme
+
+El art. 19 regula la estabilidad de la determinación para la Administración.
+
+Una vez firme, sólo puede modificarse contra el contribuyente en los supuestos legalmente previstos, entre ellos:
+
+- determinación expresamente parcial respecto de aspectos no fiscalizados;
+- nuevos elementos de juicio;
+- error, omisión o dolo en la exhibición o consideración de los elementos que sirvieron de base.
+
+::: {.fuente}
+[Ley 11.683, art. 19](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## La “cosa determinada” en Villegas
+
+Villegas utiliza la expresión **cosa determinada** para describir la estabilidad del acto frente al propio Fisco.
+
+::: {.contraste}
+**Para la Administración:** la determinación firme produce efectos preclusivos, con las excepciones legales.
+
+**Para el contribuyente:** la resolución puede ser impugnada mediante las vías que establece el ordenamiento.
+:::
+
+No es cosa juzgada judicial, porque estamos ante un acto administrativo.
+
+## ¿Puede el Fisco cambiar simplemente de criterio?
+
+La estabilidad del art. 19 impide identificar “nuevos elementos” con una mera **reinterpretación posterior de los mismos antecedentes ya conocidos**.
+
+::: {.idea-central}
+La finalidad de la regla es impedir que una determinación firme deje al contribuyente permanentemente expuesto a sucesivos cambios administrativos sobre el mismo material ya examinado.
+:::
+
+Villegas destaca una interpretación restrictiva de las excepciones a la estabilidad de la determinación.
+
+## Naturaleza de la determinación de oficio
+
+Existe una discusión doctrinaria clásica:
+
+:::: {.dos}
+::: {.definicion}
+### Tesis jurisdiccional
+Autores como Jarach han destacado semejanzas entre la determinación y una decisión jurisdiccional: aplicación reglada de la ley a hechos determinados.
+:::
+
+::: {.definicion}
+### Tesis administrativa
+Otros autores —y Villegas— consideran que la determinación es un **acto administrativo**, aunque sujeto a garantías procedimentales intensas.
+:::
+::::
+
+## Posición de Villegas
+
+Para Villegas, el procedimiento determinativo **carece de carácter jurisdiccional**.
+
+Que existan:
+
+- derecho a ser oído;
+- posibilidad de ofrecer prueba;
+- deber de motivación;
+- recursos posteriores;
+
+no transforma al órgano administrativo en un tribunal judicial independiente.
+
+::: {.idea-central}
+La verdadera revisión jurisdiccional requiere control por órganos con independencia respecto de la Administración activa.
+:::
+
+## CSJN: “Fernández Arias”
+
+**“Fernández Arias c/ Poggio” (Fallos 247:646)** es un antecedente estructural sobre ejercicio de funciones jurisdiccionales por órganos administrativos.
+
+La doctrina constitucional exige la existencia de **control judicial suficiente** sobre esas decisiones.
+
+Esto permite comprender por qué la determinación administrativa no puede constituir la última palabra estatal sobre los derechos del contribuyente.
+
+::: {.fuente}
+[CSJN — consulta de jurisprudencia](https://sj.csjn.gov.ar/homeSJ/)
+:::
+
+## Control posterior: conexión con la clase siguiente
+
+Una vez notificada la resolución determinativa, se abre el régimen de impugnación.
+
+::: {.gran-flujo}
+Resolución determinativa → 15 días → art. 76 → Reconsideración **o** Tribunal Fiscal de la Nación, cuando resulte procedente
+:::
+
+::: {.alerta}
+Las dos vías son **alternativas**, no sucesivas.
+:::
+
+::: {.fuente}
+[Ley 11.683, art. 76](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Si no se recurre
+
+Si el contribuyente deja transcurrir el plazo legal sin utilizar una vía impugnativa procedente, la determinación adquiere firmeza administrativa y puede habilitarse su cobro por las vías correspondientes.
+
+::: {.idea-central}
+La fiscalización prepara.  
+La determinación decide.  
+El recurso impugna.  
+La ejecución cobra una deuda exigible.
+:::
+
+## Jurisprudencia: “Feretti”
+
+En **“Feretti, Félix Eduardo c/ DGI”**, 10/3/2015, la Corte trató una determinación de oficio de IVA vinculada con créditos fiscales y proveedores impugnados, y recordó el alcance limitado —aunque no absoluto— de la revisión judicial de las conclusiones fácticas del TFN.
+
+El caso sirve para mostrar el recorrido completo:
+
+**determinación de oficio → TFN → Cámara → Corte.**
+
+::: {.fuente}
+[CSJN, Fallos 338 — “Feretti”](https://sjservicios.csjn.gov.ar/sj/verTomo?tomoId=424)
+:::
+
+## Mapa integral del procedimiento
+
+::: {.gran-flujo}
+DDJJ → O.I. → requerimientos → documentación → actas → ajuste → conformidad / disconformidad → vista art. 17 → descargo + prueba → resolución → art. 76
+:::
+
+Este mapa permite ubicar cada actuación en su función jurídica propia.
+
+## Caso integrador
+
+**ARCA inicia una fiscalización de IVA 2025 y Ganancias 2025.** Notifica la O.I., requiere libros y extractos. Detecta ventas presuntamente omitidas. El inspector calcula una diferencia. La sociedad rechaza el ajuste.
+
+**Solución:**
+
+1. El cálculo del inspector **no es todavía determinación de oficio**.
+2. Si ARCA mantiene la pretensión, corresponde el procedimiento de los arts. 16 y 17.
+3. El juez administrativo debe correr vista fundada.
+4. La sociedad dispone de 15 días —prorrogables una vez por igual plazo— para defenderse y ofrecer prueba.
+5. Recién la resolución fundada determina administrativamente la obligación.
+6. Notificada ésta, se abre la impugnación del art. 76.
+
+## Caso integrador: ampliación
+
+Durante la fiscalización anterior, el inspector decide además revisar **IVA 2024**, período no comprendido en la orden original.
+
+::: {.definicion}
+**Solución:** la ampliación del alcance de la fiscalización debe cumplir los requisitos de la orden de intervención y ser notificada en los términos legales.
+:::
+
+::: {.fuente}
+[Ley 11.683 — Orden de intervención](https://biblioteca.arca.gob.ar/dcp/TOR_C_011683_1998_07_13)
+:::
+
+## Caso integrador: allanamiento
+
+El inspector considera que en un depósito existen documentos relevantes y el contribuyente niega el acceso.
+
+::: {.definicion}
+**Solución:** el inspector no puede ingresar compulsivamente por su sola autoridad. El art. 35 prevé la solicitud de **orden de allanamiento al juez competente**.
+:::
+
+::: {.fuente}
+[Ley 11.683, art. 35 inc. e](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+:::
+
+## Caso integrador: prueba
+
+El contribuyente recibe la vista y posee documentación que acredita que parte de los depósitos bancarios considerados ventas corresponden a préstamos.
+
+::: {.definicion}
+**Solución:** debe acompañar u ofrecer esa prueba en el descargo. La documentación puede incidir directamente sobre la base fáctica de la determinación y debe ser valorada por el juez administrativo al resolver.
+:::
+
+## Caso integrador: presunciones
+
+El Fisco posee documentación completa que permite reconstruir directamente todas las operaciones, pero decide utilizar un coeficiente promedio del sector porque arroja una deuda mayor.
+
+::: {.definicion}
+**Solución:** el criterio es objetable. Según el esquema legal explicado por Villegas, la **base presunta es subsidiaria** y no debe sustituir arbitrariamente a la base cierta cuando ésta resulta posible.
+:::
+
+## Errores frecuentes
+
+:::: {.cuatro}
+::: {.alerta}
+**Error 1**  
+Confundir inspección con determinación.
+:::
+
+::: {.alerta}
+**Error 2**  
+Creer que el ajuste del inspector ya es recurrible ante el TFN.
+:::
+
+::: {.alerta}
+**Error 3**  
+Pensar que base presunta significa libertad de estimación.
+:::
+
+::: {.alerta}
+**Error 4**  
+Olvidar que el art. 17 garantiza vista, defensa y prueba antes de la resolución.
+:::
+::::
+
+## Cinco artículos para llevarse de la clase
+
+| Norma | Contenido central |
+|---|---|
+| **Art. 16** | Procedencia y modalidades de la determinación de oficio |
+| **Art. 17** | Vista, defensa, prueba y resolución determinativa |
+| **Art. 18** | Presunciones e indicios |
+| **Art. 19** | Efectos y estabilidad de la determinación |
+| **Art. 35** | Facultades de verificación y fiscalización |
+
+Y, además, el **artículo incorporado a continuación del art. 36** sobre **Orden de Intervención**.
+
+::: {.fuente}
+[Ley 11.683 — texto oficial](https://www.argentina.gob.ar/normativa/nacional/18771/texto) · [Texto ARCA con Orden de Intervención](https://biblioteca.arca.gob.ar/dcp/TOR_C_011683_1998_07_13)
+:::
+
+## Para llevarse de la clase
+
+::: {.idea-central}
+**1.** La declaración jurada es la regla; la determinación de oficio opera subsidiariamente en los casos legales.  
+**2.** La orden de intervención delimita la fiscalización.  
+**3.** ARCA tiene amplias facultades de verificación, pero sometidas a límites legales y constitucionales.  
+**4.** El ajuste del inspector no es la determinación de oficio.  
+**5.** El procedimiento determinativo comienza formalmente con la vista del art. 17.  
+**6.** El contribuyente tiene derecho a descargo y prueba.  
+**7.** La base cierta es la regla y la base presunta es subsidiaria.  
+**8.** La resolución debe ser fundada y la dicta el juez administrativo.  
+**9.** La determinación firme limita al propio Fisco en los términos del art. 19.  
+**10.** Notificada la resolución, comienza el problema de la clase siguiente: **reconsideración o TFN**.
+:::
+
+## Fuentes
+
+**Doctrina principal**  
+Héctor B. Villegas, *Curso de finanzas, derecho financiero y tributario*, edición 2021, Thomson Reuters La Ley, especialmente apartados sobre modos de determinación, etapa instructoria, procedimiento determinativo y base cierta/presunta.
+
+**Normativa**  
+[Ley 11.683 — texto oficial](https://www.argentina.gob.ar/normativa/nacional/18771/texto)  
+[Ley 11.683 — Biblioteca ARCA, Orden de Intervención](https://biblioteca.arca.gob.ar/dcp/TOR_C_011683_1998_07_13)  
+[Ley 27.430](https://www.argentina.gob.ar/normativa/nacional/305262)  
+[Decreto 618/97](https://www.argentina.gob.ar/normativa/nacional/decreto-618-1997-44432)
+
+**Jurisprudencia utilizada**  
+[CSJN — Fallos 337, “Bozzano”](https://sjservicios.csjn.gov.ar/sj/verTomo?tomoId=422)  
+[CSJN — Fallos 338, “Feretti”](https://sjservicios.csjn.gov.ar/sj/verTomo?tomoId=424)  
+[CSJN — consulta jurisprudencial](https://sj.csjn.gov.ar/homeSJ/)

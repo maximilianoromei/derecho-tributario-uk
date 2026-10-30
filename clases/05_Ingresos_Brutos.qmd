@@ -1,0 +1,131 @@
+---
+title: "Impuesto sobre los Ingresos Brutos"
+subtitle: "Derecho Tributario · Desarrollo conceptual y casos"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    center: false
+    smaller: true
+    footer: "Derecho Tributario · Material de clase"
+lang: es
+---
+
+# Impuesto sobre los Ingresos Brutos
+
+**Clase audiovisual · desarrollo normativo, ejemplos y aplicación**
+
+::: {.callout-note}
+Los ejemplos numéricos indicados como hipotéticos no representan alícuotas vigentes. Verificar normativa y período antes de liquidar.
+:::
+
+
+---
+
+## 1. Naturaleza y potestad local
+
+Impuesto provincial y de CABA sobre el ejercicio habitual y a título oneroso de actividades alcanzadas, según la normativa local. No grava, como regla, la ganancia neta sino ingresos vinculados a la actividad.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Un negocio puede tener pérdida contable y, sin embargo, registrar ingresos gravados.
+:::
+
+
+---
+
+## 2. Hecho imponible
+
+Identificar actividad, habitualidad, onerosidad y nexo territorial. Las legislaciones locales definen supuestos, presunciones, exclusiones y exenciones; no alcanza con mirar el domicilio fiscal.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Un diseñador presta servicios recurrentes desde CABA a clientes de otras provincias.
+:::
+
+
+---
+
+## 3. Base imponible
+
+Por regla general se parte de ingresos brutos devengados o percibidos según el régimen aplicable, con exclusiones y tratamientos especiales. No se deducen libremente todos los gastos de explotación.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Facturación gravada $2.000.000 y gastos $1.700.000: una tasa didáctica del 3% sobre ingresos daría $60.000, no sobre la utilidad.
+:::
+
+
+---
+
+## 4. Alícuotas y exenciones
+
+Las alícuotas cambian por jurisdicción, actividad, tamaño del contribuyente y ejercicio. La ley tarifaria y el código fiscal son imprescindibles para liquidar.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Dos actividades del mismo contribuyente pueden estar sujetas a alícuotas diferentes.
+:::
+
+
+---
+
+## 5. Convenio Multilateral
+
+Coordina la atribución de base imponible cuando la actividad se ejerce en dos o más jurisdicciones bajo sus condiciones. No crea un impuesto nacional nuevo ni reemplaza los códigos fiscales.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Empresa con ventas y gastos en CABA y PBA: analizar distribución interjurisdiccional.
+:::
+
+
+---
+
+## 6. Régimen general y regímenes especiales
+
+El Convenio prevé reglas de distribución general y especiales para ciertas actividades. No corresponde aplicar automáticamente coeficientes generales sin identificar el régimen.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Empresa constructora: verificar si corresponde un régimen especial antes de repartir ingresos.
+:::
+
+
+---
+
+## 7. Retenciones, percepciones y saldos
+
+Las jurisdicciones pueden establecer pagos a cuenta mediante agentes de recaudación. Los saldos a favor pueden producir tensiones financieras y planteos administrativos.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Una empresa sufre retenciones por $90.000 frente a impuesto del período de $60.000: analizar saldo y vías de recupero.
+:::
+
+
+---
+
+## 8. Caso integrador
+
+Una empresa vende en CABA, tiene depósito en PBA y personal que presta servicios en ambas jurisdicciones. Identificar sustento territorial, régimen del Convenio, ingresos y gastos relevantes.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** No atribuir toda la facturación a la provincia donde se emite la factura.
+:::
+
+
+---
+
+## 9. Fuentes
+
+Código Fiscal y Ley Tarifaria de cada jurisdicción; Convenio Multilateral y resoluciones de Comisión Arbitral/Plenaria. Verificar año y jurisdicción de cada ejemplo.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Pregunta: ¿por qué Ingresos Brutos puede gravar aun sin rentabilidad?
+:::
+
+
+---
+
+## Para discutir en clase
+
+1. ¿Cuál es el hecho imponible o presupuesto jurídico relevante?
+2. ¿Qué norma y qué jurisdicción deben consultarse?
+3. ¿Qué cambia si varían los hechos del ejemplo?
+
+**Recordatorio:** distinguir explicación conceptual de liquidación tributaria vigente.

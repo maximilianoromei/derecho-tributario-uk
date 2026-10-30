@@ -1,0 +1,131 @@
+---
+title: "Impuestos Internos"
+subtitle: "Derecho Tributario · Desarrollo conceptual y casos"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    center: false
+    smaller: true
+    footer: "Derecho Tributario · Material de clase"
+lang: es
+---
+
+# Impuestos Internos
+
+**Clase audiovisual · desarrollo normativo, ejemplos y aplicación**
+
+::: {.callout-note}
+Los ejemplos numéricos indicados como hipotéticos no representan alícuotas vigentes. Verificar normativa y período antes de liquidar.
+:::
+
+
+---
+
+## 1. Qué gravan y por qué
+
+Son tributos nacionales selectivos al consumo, que recaen sobre bienes y servicios expresamente previstos por la ley. A diferencia del IVA, no se aplican de manera general a todas las operaciones.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** No toda venta de un producto está alcanzada por Impuestos Internos: primero hay que identificar el rubro legal.
+:::
+
+
+---
+
+## 2. Marco legal
+
+Ley de Impuestos Internos (texto ordenado 1979 y modificatorias) y reglamentación. El encuadre requiere revisar la versión vigente, porque productos, mínimos, alícuotas y tratamientos pueden modificarse.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Un producto que tributaba en un año puede tener distinto tratamiento en el siguiente.
+:::
+
+
+---
+
+## 3. Hecho imponible y selectividad
+
+El legislador delimita hechos gravados por categoría de bienes o servicios; el impuesto puede concentrarse en etapas específicas de producción, importación o comercialización, según el rubro.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Comparar la venta de un bien de consumo común con la de un producto incluido en un capítulo especial.
+:::
+
+
+---
+
+## 4. Sujetos responsables
+
+Según el capítulo, pueden resultar responsables fabricantes, importadores u otros sujetos expresamente designados. No debe confundirse el consumidor que soporta el costo con quien ingresa el impuesto.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Un importador nacionaliza mercadería alcanzada: verificar su obligación en la etapa de importación.
+:::
+
+
+---
+
+## 5. Base imponible
+
+La base se determina con reglas legales específicas por rubro; no corresponde aplicar automáticamente una misma fórmula a todos los productos. Pueden existir reglas especiales de precio, mínimos o exclusiones.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Base legal hipotética $100.000 y tasa didáctica del 10%: impuesto $10.000, sujeto a las reglas particulares del producto.
+:::
+
+
+---
+
+## 6. Relación con el IVA
+
+Un mismo producto puede estar sometido a IVA e Impuestos Internos. Son hechos y técnicas tributarias distintos; para liquidar, debe verificarse cómo se integra cada base conforme a la normativa.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** La factura de un producto gravado exige identificar por separado ambos regímenes.
+:::
+
+
+---
+
+## 7. Finalidad extrafiscal
+
+La selectividad puede perseguir objetivos recaudatorios y de política pública (por ejemplo, incidir sobre ciertos consumos). Esa finalidad no sustituye la exigencia de ley y de determinación precisa del hecho imponible.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Debatir si un tributo al consumo puede orientar conductas sin dejar de ser impuesto.
+:::
+
+
+---
+
+## 8. Caso integrador
+
+Una sociedad importa y comercializa un producto incluido en una categoría legal gravada. Identificar: rubro, sujeto, momento de imposición, base, tasa vigente y coexistencia con IVA.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** No liquidar usando una tasa genérica: el ejercicio obliga a buscar el capítulo correspondiente.
+:::
+
+
+---
+
+## 9. Fuentes
+
+Ley de Impuestos Internos y sus modificaciones; reglamentación y normativa ARCA. Las tasas de los ejemplos son hipotéticas y exclusivamente pedagógicas.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Consigna: localizar en la ley un producto gravado y explicar quién es el responsable.
+:::
+
+
+---
+
+## Para discutir en clase
+
+1. ¿Cuál es el hecho imponible o presupuesto jurídico relevante?
+2. ¿Qué norma y qué jurisdicción deben consultarse?
+3. ¿Qué cambia si varían los hechos del ejemplo?
+
+**Recordatorio:** distinguir explicación conceptual de liquidación tributaria vigente.

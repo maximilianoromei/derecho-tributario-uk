@@ -1,0 +1,142 @@
+---
+title: "Impuesto a las Ganancias"
+subtitle: "Derecho Tributario · Desarrollo conceptual y casos"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    center: false
+    smaller: true
+    footer: "Derecho Tributario · Material de clase"
+lang: es
+---
+
+# Impuesto a las Ganancias
+
+**Clase audiovisual · desarrollo normativo, ejemplos y aplicación**
+
+::: {.callout-note}
+Los ejemplos numéricos indicados como hipotéticos no representan alícuotas vigentes. Verificar normativa y período antes de liquidar.
+:::
+
+
+---
+
+## 1. Naturaleza y estructura
+
+Tributo nacional directo sobre ganancias definidas por la ley. El tratamiento depende del tipo de sujeto, fuente, residencia y reglas de determinación de la renta.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Una persona humana que cobra honorarios y una sociedad comercial no determinan el impuesto del mismo modo.
+:::
+
+
+---
+
+## 2. Personas humanas y sociedades
+
+La ley contiene reglas para personas humanas y sucesiones indivisas, y un régimen propio para sujetos empresa. Distinguir escalas progresivas personales de imposición societaria según la normativa aplicable.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Un profesional independiente y una SA obtienen el mismo ingreso bruto: la base y la tasa efectiva pueden diferir.
+:::
+
+
+---
+
+## 3. Residencia y fuente
+
+La residencia fiscal es decisiva para definir el alcance de la imposición. La ley diferencia rentas de fuente argentina y del exterior y prevé mecanismos para evitar doble imposición en supuestos determinados.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Residente argentino percibe alquiler de inmueble extranjero: examinar alcance y crédito por impuestos análogos.
+:::
+
+
+---
+
+## 4. Ganancia bruta, deducciones y ganancia neta
+
+No se grava automáticamente la facturación total. La determinación considera ingresos computables, costos y gastos admitidos, deducciones, quebrantos y demás ajustes legales.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Ingresos $10.000.000 menos gastos deducibles $6.000.000 = resultado preliminar $4.000.000, antes de otros ajustes.
+:::
+
+
+---
+
+## 5. Categorías y tipos de rentas
+
+La ley distingue categorías de ganancias y tratamientos especiales. Clasificar correctamente importa porque pueden variar criterios de imputación, deducciones y retenciones.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Comparar renta de alquiler, sueldo y honorarios profesionales.
+:::
+
+
+---
+
+## 6. Imputación temporal
+
+La atribución al período fiscal puede responder a criterio de percibido o devengado, según sujeto y renta. Cobrar en un ejercicio distinto al de la operación puede modificar la imputación.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Honorario facturado en diciembre y cobrado en febrero: determinar la regla legal aplicable.
+:::
+
+
+---
+
+## 7. Deducciones y prueba
+
+La deducibilidad exige cumplir requisitos legales y demostrar vinculación con la actividad o renta gravada, además de los límites previstos. Un gasto personal no se vuelve deducible por tener factura.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Una notebook utilizada en el estudio profesional: analizar afectación, comprobante y tratamiento fiscal.
+:::
+
+
+---
+
+## 8. Retenciones, anticipos y declaración
+
+El impuesto puede ingresarse mediante retenciones, anticipos y saldo de declaración jurada. No debe confundirse impuesto determinado con saldo final a pagar.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Impuesto determinado $800.000, retenciones $500.000 y anticipos $200.000: saldo simplificado $100.000.
+:::
+
+
+---
+
+## 9. Caso integrador
+
+Un abogado ejerce por cuenta propia, cobra honorarios, alquila una oficina y compra equipamiento. Identificar sujeto, rentas, gastos potencialmente deducibles, imputación y documentación.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** No calcular el impuesto final sin período fiscal, deducciones personales y escala vigente.
+:::
+
+
+---
+
+## 10. Fuentes
+
+Ley de Impuesto a las Ganancias (t.o. 2019 y modificatorias), decreto reglamentario y normas ARCA. Escalas y deducciones requieren actualización al período fiscal.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Pregunta: ¿por qué «ingresos» y «ganancia imponible» no son sinónimos?
+:::
+
+
+---
+
+## Para discutir en clase
+
+1. ¿Cuál es el hecho imponible o presupuesto jurídico relevante?
+2. ¿Qué norma y qué jurisdicción deben consultarse?
+3. ¿Qué cambia si varían los hechos del ejemplo?
+
+**Recordatorio:** distinguir explicación conceptual de liquidación tributaria vigente.

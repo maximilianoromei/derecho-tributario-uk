@@ -40,15 +40,75 @@ Concepto, clasificación y estructura de los recursos tributarios.
 
 [Ingresar a la clase](clases/tributos-villegas.qmd){.btn-class target="_blank"}
 
+[Jurisprudencia](clases/jurisprudencia-tributos.qmd){.btn-class target="_blank"}
+
+
+::: {.class-card}
+
+### Clase 3 - Relación jurídico-tributaria
+
+**Relación Jurídico-Tributaria**
+
+[Ingresar a la clase](clases/clase-3.qmd){.btn-class target="_blank"}
+
+:::
+
+
 :::
 
 ::: {.class-card}
 
-### Clase 3
+### Clase 4 - Fiscalización y determinación de tributos
 
-**Próximamente**
+**Fiscalización**
 
-El material será incorporado a medida que avance el curso.
+[Ingresar a la clase](clases/fiscalizacion.qmd){.btn-class target="_blank"}
+
+**Determinación de Oficio**
+
+[Jurisprudencia](clases/fiscalizacion-determinacion-oficio-URGENTE.qmd){.btn-class target="_blank"}
+
+:::
+
+::: {.class-card}
+
+### Clase 5 - Ilicitos tributarios
+
+**Ilicitos Tributarios**
+
+[Ingresar a la clase](clases/licitos-tributarios.qmd){.btn-class target="_blank"}
+
+:::
+
+::: {.class-card}
+
+### Clase 6 - Tributos en particular
+
+**Impuesto a las ganancias**
+
+[Ingresar a la clase](clases/04_Ganancias.qmd){.btn-class target="_blank"}
+
+**IVA**
+
+[Ingresar a la clase](clases/03_IVA.qmd){.btn-class target="_blank"}
+
+**Sellos**
+
+[Ingresar a la clase](clases/01_Impuesto_de_Sellos.qmd){.btn-class target="_blank"}
+
+**Ingresos Brutos**
+
+[Ingresar a la clase](clases/05_Ingresos_Brutos.qmd){.btn-class target="_blank"}
+
+:::
+
+::: {.class-card}
+
+### Clase Repaso
+
+**Repaso - casos**
+
+[Ingresar a la clase](clases/Casos_final_Derecho_Tributario_sencillos.qmd){.btn-class target="_blank"}
 
 :::
 

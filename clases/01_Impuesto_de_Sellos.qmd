@@ -1,0 +1,131 @@
+---
+title: "Impuesto de Sellos"
+subtitle: "Derecho Tributario · Desarrollo conceptual y casos"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    center: false
+    smaller: true
+    footer: "Derecho Tributario · Material de clase"
+lang: es
+---
+
+# Impuesto de Sellos
+
+**Clase audiovisual · desarrollo normativo, ejemplos y aplicación**
+
+::: {.callout-note}
+Los ejemplos numéricos indicados como hipotéticos no representan alícuotas vigentes. Verificar normativa y período antes de liquidar.
+:::
+
+
+---
+
+## 1. Naturaleza y competencia tributaria
+
+Tributo local: lo establecen las provincias y la Ciudad Autónoma de Buenos Aires mediante sus códigos fiscales y leyes tarifarias. Grava determinados actos, contratos u operaciones instrumentados; no es un impuesto general sobre todos los ingresos.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Una compraventa documentada puede generar Sellos aunque ninguna de las partes obtenga una ganancia.
+:::
+
+
+---
+
+## 2. Hecho imponible: instrumentación
+
+El análisis comienza por verificar si existe un instrumento alcanzado por la ley local. El principio de instrumentalidad exige examinar si el documento reúne los elementos que permiten exigir el cumplimiento de las obligaciones sin acudir a otro documento. La mera negociación no equivale necesariamente a instrumentación gravada.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Las partes conversan sobre un alquiler: el intercambio preliminar no se equipara automáticamente a un contrato instrumentado.
+:::
+
+
+---
+
+## 3. Elementos del tributo
+
+Identificar: jurisdicción competente; acto alcanzado; instrumento; sujetos obligados; base imponible; alícuota; exenciones y plazo. La regulación concreta depende de la jurisdicción y del período fiscal.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Contrato de $20.000.000: con una alícuota **hipotética** del 1%, el tributo sería $200.000; no es una tasa vigente.
+:::
+
+
+---
+
+## 4. Territorialidad y vínculos interjurisdiccionales
+
+La aplicación del impuesto requiere verificar los puntos de conexión previstos por cada legislación: lugar de otorgamiento, efectos o ejecución del acto y reglas especiales. No debe presumirse que firmar fuera de una jurisdicción elimina el gravamen.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Contrato firmado en Córdoba con ejecución en CABA: revisar los criterios de ambas jurisdicciones antes de liquidar.
+:::
+
+
+---
+
+## 5. Sujetos y responsabilidad
+
+Las normas locales determinan quiénes son contribuyentes y, en su caso, responsables solidarios. El pacto privado sobre quién paga no siempre modifica la responsabilidad frente al fisco.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** El contrato dice «Sellos a cargo del locatario»; verificar si el organismo fiscal también puede reclamar al locador.
+:::
+
+
+---
+
+## 6. Exenciones y beneficios
+
+Distinguir no sujeción (el acto no integra el hecho imponible) de exención (el acto estaría alcanzado, pero una norma dispensa el pago). Las exenciones deben comprobarse en la legislación aplicable.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Dos contratos semejantes pueden recibir tratamientos distintos por su objeto o por la calidad de los sujetos.
+:::
+
+
+---
+
+## 7. Prueba y controversias
+
+El debate puede girar sobre existencia de instrumento, fecha, base imponible, territorialidad y exenciones. El contribuyente debe conservar el contrato y la documentación que respalda el encuadre.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** La autoridad calcula el impuesto sobre un valor superior al declarado: identificar norma de valuación y vías de impugnación.
+:::
+
+
+---
+
+## 8. Caso integrador
+
+Una empresa firma un contrato de prestación de servicios por $12.000.000, pagadero en doce cuotas. Preguntas: ¿hay instrumento gravado?, ¿qué jurisdicción tiene competencia?, ¿cuál es la base?, ¿existe exención?, ¿quién paga?
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** No se puede responder la alícuota sin indicar provincia, año y norma tarifaria.
+:::
+
+
+---
+
+## 9. Fuentes para verificar
+
+Código Fiscal y Ley Tarifaria de la jurisdicción correspondiente; normas de procedimiento tributario locales. Para el video, explicitar si los ejemplos se sitúan en CABA o PBA.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Actividad: comparar un mismo contrato bajo dos legislaciones locales.
+:::
+
+
+---
+
+## Para discutir en clase
+
+1. ¿Cuál es el hecho imponible o presupuesto jurídico relevante?
+2. ¿Qué norma y qué jurisdicción deben consultarse?
+3. ¿Qué cambia si varían los hechos del ejemplo?
+
+**Recordatorio:** distinguir explicación conceptual de liquidación tributaria vigente.

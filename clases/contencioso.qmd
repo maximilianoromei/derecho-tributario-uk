@@ -1,0 +1,908 @@
+---
+title: "Procedimiento contencioso y Derecho Penal Tributario"
+subtitle: "Derecho Tributario · Universidad Kennedy"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: default
+    css: styles-tributario2.css
+    slide-number: true
+    scrollable: true
+    center: false
+    transition: fade
+    navigation-mode: linear
+    controls: true
+    progress: true
+    hash: true
+    width: 1600
+    height: 900
+    margin: 0.06
+    auto-stretch: false
+---
+
+## Eje de la unidad
+
+<div class="idea-central">
+El proceso tributario organiza **cómo se determina, impugna, revisa, repite y ejecuta** una obligación fiscal y cómo se sancionan los ilícitos tributarios.
+</div>
+
+<div class="formula">
+DETERMINACIÓN → IMPUGNACIÓN → REVISIÓN → COBRO / REPETICIÓN
+</div>
+
+- La vía elegida condiciona las etapas posteriores.
+- En especial, **reconsideración y Tribunal Fiscal no producen las mismas consecuencias**.
+- El acceso al control judicial debe estudiarse junto con el *solve et repete*.
+
+<div class="fuente">Villegas, Curso de Finanzas, Derecho Financiero y Tributario, 2021, Tít. III, cap. XIII.</div>
+
+## Mapa institucional
+
+<div class="triada">
+<div><strong>ARCA</strong><br>Fiscaliza, determina, sanciona y recauda.</div>
+<div><strong>Tribunal Fiscal de la Nación</strong><br>Órgano administrativo con función jurisdiccional e independencia funcional.</div>
+<div><strong>Poder Judicial</strong><br>Ejerce el control judicial de las decisiones tributarias.</div>
+</div>
+
+<div class="fuente">Ley 11.683, arts. 144 y ss.</div>
+
+## Órgano administrativo y órgano jurisdiccional
+
+<div class="contraste">
+<strong>ARCA</strong>: integra la Administración activa y es parte de la relación controvertida.<br><br>
+<strong>TFN</strong>: no integra el Poder Judicial, pero resuelve controversias mediante función jurisdiccional.
+</div>
+
+<div class="idea-central">
+La constitucionalidad de la jurisdicción administrativa exige que exista **control judicial suficiente** posterior.
+</div>
+
+<div class="fuente">CSJN, “Fernández Arias c/ Poggio”, Fallos 247:646; “Ángel Estrada”, Fallos 328:651.</div>
+
+## Control judicial suficiente
+
+- Los órganos administrativos pueden ejercer funciones materialmente jurisdiccionales dentro de los límites legales.
+- Sus decisiones no pueden quedar sustraídas de un control judicial adecuado.
+- En materia tributaria, el TFN se inserta en ese modelo: decide primero y su sentencia puede llegar a la Cámara Nacional competente.
+
+<div class="nota">
+El TFN es un tribunal **administrativo**, no un tribunal del art. 108 de la Constitución Nacional.
+</div>
+
+## Punto de partida: determinación de oficio
+
+<div class="gran-flujo">
+<div>Fiscalización</div><span>↓</span>
+<div>Vista al contribuyente</div><span>↓</span>
+<div>Descargo y prueba</div><span>↓</span>
+<div>Resolución determinativa</div><span>↓</span>
+<div>Impugnación</div>
+</div>
+
+<div class="fuente">Ley 11.683, arts. 16 y 17.</div>
+
+## Determinación de oficio: art. 17
+
+- Vista de las actuaciones y cargos al responsable.
+- Plazo legal para contestar y ofrecer o presentar prueba.
+- Posibilidad de prórroga en las condiciones de la ley.
+- Resolución fundada del juez administrativo.
+- Determinación del tributo e intimación de pago.
+
+<div class="idea-central">
+La resolución determinativa es el acto que abre las **vías normales de impugnación del art. 76**.
+</div>
+
+## Art. 76: la decisión procesal central
+
+<div class="dos">
+<div><strong>Art. 76 inc. a</strong><br>Recurso de reconsideración para ante el superior.</div>
+<div><strong>Art. 76 inc. b</strong><br>Recurso de apelación ante el Tribunal Fiscal, cuando sea viable.</div>
+</div>
+
+- Plazo: **15 días** desde la notificación.
+- Son vías **alternativas y excluyentes**.
+- La elección condiciona el modo de acceso posterior a la justicia.
+
+<div class="fuente">Ley 11.683, art. 76; Villegas, cap. XIII.</div>
+
+## Lo que comparten ambas vías
+
+<div class="triada">
+<div><strong>Plazo</strong><br>15 días.</div>
+<div><strong>Suspensión</strong><br>La deuda discutida no puede ejecutarse durante la tramitación en los términos legales.</div>
+<div><strong>Elección</strong><br>Elegida una vía, no se pasa luego a la otra.</div>
+</div>
+
+<div class="nota">
+Villegas destaca expresamente estos caracteres comunes y, a la vez, las consecuencias posteriores diferentes de cada opción.
+</div>
+
+## Reconsideración: concepto
+
+<div class="definicion">
+Medio impugnativo por el cual la **propia Administración** revisa la resolución que dictó.
+</div>
+
+- Se interpone ante la autoridad que emitió el acto.
+- La resuelve un superior jerárquico que actúa como juez administrativo.
+- No existe intervención de un tercero independiente de la Administración activa.
+
+<div class="fuente">Ley 11.683, arts. 76 inc. a y 80; Villegas, cap. XIII, § 2.</div>
+
+## Reconsideración: procedencia
+
+- Es una de las vías normales contra determinaciones y sanciones comprendidas en el art. 76.
+- Cuando no se alcanza el monto mínimo de competencia del TFN, la reconsideración puede quedar como vía administrativa disponible.
+- Si determinación y sanción se resuelven conjuntamente, la procedencia del TFN debe analizarse según las reglas legales de competencia.
+
+<div class="alerta">
+La competencia del TFN es **legal**: no basta con que exista disconformidad con ARCA.
+</div>
+
+## Reconsideración: trámite
+
+<div class="gran-flujo">
+<div>Resolución determinativa</div><span>↓</span>
+<div>Reconsideración — art. 76 inc. a</div><span>↓</span>
+<div>Revisión por superior jerárquico</div><span>↓</span>
+<div>Resolución — art. 80</div>
+</div>
+
+- Art. 80: plazo legal de **20 días** para resolver.
+- La resolución debe ser notificada con sus fundamentos.
+
+<div class="fuente">Ley 11.683, arts. 76 y 80.</div>
+
+## Reconsideración y prueba
+
+- La etapa probatoria principal se desarrolla en el procedimiento determinativo.
+- Villegas señala que, como regla, la prueba debió ofrecerse con el descargo de la vista del art. 17.
+- En reconsideración adquieren relevancia los hechos posteriores o desconocidos, la imposibilidad fundada de acompañar prueba anteriormente y la insistencia respecto de prueba rechazada.
+
+<div class="fuente">Villegas, cap. XIII, § 2.</div>
+
+## Reconsideración: efecto sobre el cobro
+
+<div class="formula">
+RECONSIDERACIÓN PENDIENTE → NO HAY TODAVÍA SOLVE ET REPETE
+</div>
+
+<div class="idea-central">
+Mientras tramita el recurso, la Administración no puede ejecutar el importe controvertido en los términos del régimen legal.
+</div>
+
+<div class="fuente">Villegas, cap. XIII, § 2.g.</div>
+
+## El problema aparece cuando se rechaza
+
+<div class="gran-flujo">
+<div>Determinación tributaria</div><span>↓</span>
+<div>Reconsideración</div><span>↓</span>
+<div>Rechazo</div><span>↓</span>
+<div>Pago del tributo y accesorios</div><span>↓</span>
+<div>Demanda de repetición</div>
+</div>
+
+<div class="alerta">
+Para una **determinación tributaria**, la ley no habilita simplemente una demanda contenciosa directa contra el rechazo de la reconsideración.
+</div>
+
+## “Compañía de Circuitos Cerrados”
+
+**CSJN, 9/3/2010, Fallos 333:161.**
+
+- La empresa había elegido reconsideración contra determinaciones de IVA.
+- Rechazada esa vía, promovió demanda contencioso-administrativa sin pagar.
+- La Corte sostuvo que el sistema ofrecía inicialmente la alternativa del TFN, que permitía discutir la determinación sin pago previo.
+- Elegida la reconsideración, el cuestionamiento posterior de la determinación debía canalizarse mediante **repetición**, con el pago que ésta presupone.
+
+[Texto del fallo / referencia verificable](https://ar.vlex.com/vid/250931262)
+
+## Consecuencia práctica del precedente
+
+<div class="contraste">
+<strong>Elegir reconsideración no es equivalente a elegir TFN.</strong>
+</div>
+
+Para la determinación de tributos:
+
+1. se opta por reconsideración;
+2. ARCA la rechaza;
+3. no se transforma automáticamente en una apelación al TFN;
+4. para discutir judicialmente la deuda determinada aparece la vía de repetición;
+5. la repetición exige haber pagado aquello cuya devolución se pretende.
+
+<div class="fuente">CSJN, “Compañía de Circuitos Cerrados”, Fallos 333:161; Ley 11.683, arts. 81 y 82.</div>
+
+## Apelación al Tribunal Fiscal
+
+<div class="definicion">
+Es la alternativa del art. 76 inc. b que lleva la controversia ante un **tercero con función jurisdiccional**, fuera de la línea jerárquica de ARCA.
+</div>
+
+- Plazo: 15 días.
+- Procede sólo cuando el TFN es competente.
+- La parte apelada de la determinación queda sometida al procedimiento jurisdiccional ante el Tribunal.
+
+<div class="fuente">Ley 11.683, arts. 76, 159 y ss.</div>
+
+## TFN: estructura básica
+
+- Creado por la Ley 15.265 e incorporado a la Ley 11.683.
+- Dependencia orgánica del Poder Ejecutivo con **independencia funcional**.
+- Salas con competencia impositiva y aduanera.
+- Vocales con formación jurídica y contable según la integración legal.
+- Sus decisiones son susceptibles de revisión judicial.
+
+<div class="fuente">Ley 11.683, arts. 144 y ss.; Villegas, cap. XIII, § 3.1.</div>
+
+## Competencia del TFN
+
+El TFN interviene, dentro de los límites cuantitativos y materiales de la ley, en recursos y demandas vinculados con:
+
+- determinaciones de tributos y accesorios;
+- multas;
+- reclamos y demandas de repetición;
+- otras materias expresamente atribuidas.
+
+<div class="alerta">
+No existe una competencia general para revisar cualquier actuación de ARCA.
+</div>
+
+<div class="fuente">Ley 11.683, arts. 159 y ss.</div>
+
+## Límites expresos del art. 76
+
+La apelación al TFN no procede, entre otros casos, respecto de:
+
+- liquidaciones de **anticipos y otros pagos a cuenta**;
+- sus actualizaciones e intereses;
+- liquidaciones de actualizaciones e intereses cuando no se discute simultáneamente la procedencia del gravamen.
+
+<div class="fuente">Ley 11.683, art. 76, último párrafo.</div>
+
+## Interposición ante el TFN
+
+- El recurso se presenta ante el Tribunal Fiscal conforme al procedimiento legal y reglamentario.
+- Debe contener una impugnación concreta del acto recurrido.
+- Se articulan defensas, agravios y prueba conforme al régimen del TFN.
+- La Administración contesta y se sustancia la controversia ante un órgano distinto de quien dictó la determinación.
+
+<div class="fuente">Ley 11.683, arts. 165 y ss.; Reglamento de Procedimiento del TFN.</div>
+
+## Efecto suspensivo: ventaja decisiva
+
+<div class="formula">
+APELACIÓN AL TFN → DISCUSIÓN PREVIA AL PAGO DE LA PARTE APELADA
+</div>
+
+<div class="idea-central">
+La creación del TFN procuró permitir una discusión completa de la determinación **antes del pago**. La Corte resaltó este aspecto en “Compañía de Circuitos Cerrados”.
+</div>
+
+## Sentencia del TFN
+
+El Tribunal puede:
+
+- confirmar la pretensión fiscal;
+- revocarla total o parcialmente;
+- resolver cuestiones sancionatorias dentro de su competencia;
+- decidir las cuestiones de hecho y derecho planteadas por las partes, con las facultades que le reconoce la ley.
+
+<div class="nota">
+La sentencia del TFN no es la última palabra: existe revisión judicial.
+</div>
+
+## Recurso contra la sentencia del TFN
+
+<div class="idea-central">
+Contra la sentencia definitiva procede el **recurso de revisión y apelación limitada** ante la Cámara Nacional competente.
+</div>
+
+- Plazo: **30 días** desde la notificación.
+- Art. 192 de la Ley 11.683.
+- La Cámara ejerce el control previsto por el art. 86.
+
+<div class="fuente">Ley 11.683, arts. 86 y 192.</div>
+
+## Alcance de la revisión judicial
+
+Según el art. 86, la Cámara puede:
+
+- declarar nulidad por violación manifiesta de formas legales;
+- resolver el fondo;
+- tomar como válidas, en principio, las conclusiones del TFN sobre hechos probados;
+- apartarse de ellas y disponer prueba cuando las constancias permitan suponer error en la apreciación de los hechos.
+
+<div class="fuente">Ley 11.683, art. 86.</div>
+
+## Efectos de la apelación contra el TFN
+
+<div class="contraste">
+<strong>Regla:</strong> apelación en ambos efectos.<br><br>
+<strong>Excepción:</strong> si la sentencia condena al pago de tributos e intereses, la apelación se concede **al solo efecto devolutivo**.
+</div>
+
+<div class="fuente">Ley 11.683, art. 194.</div>
+
+## Art. 194: qué significa en la práctica
+
+Si el TFN confirma una deuda tributaria:
+
+- el contribuyente puede apelar a la Cámara;
+- la apelación **no suspende por sí misma** la ejecutoriedad de tributos e intereses;
+- si no se acredita el pago dentro del plazo legal, ARCA puede emitir boleta de deuda e iniciar ejecución fiscal.
+
+<div class="alerta">
+Esto es **ejecutoriedad durante la revisión judicial**, no un requisito de admisibilidad del recurso ante la Cámara.
+</div>
+
+## Reconsideración vs. TFN
+
+| Aspecto | Reconsideración | TFN |
+|---|---|---|
+| Norma | art. 76 inc. a | art. 76 inc. b |
+| Quién revisa | superior administrativo | tribunal administrativo jurisdiccional |
+| Plazo inicial | 15 días | 15 días |
+| Discusión previa al cobro | sí, durante el recurso | sí, durante la instancia ante TFN |
+| Si se rechaza / confirma tributo | repetición después del pago | apelación a Cámara |
+| Pago para acceder a revisión judicial | aparece por la repetición | no es requisito de admisibilidad de la apelación |
+| Ejecutabilidad posterior | acto firme tras rechazo | art. 194: sentencia del TFN puede ejecutarse pese a apelación |
+
+## Solve et repete: concepto
+
+<div class="definicion">
+El <em>solve et repete</em> impone al contribuyente **pagar una suma tributaria líquida y exigible como condición para poder cuestionarla por la vía correspondiente**.
+</div>
+
+Villegas identifica dos fundamentos tradicionalmente invocados:
+
+- presunción de legitimidad y ejecutoriedad del acto administrativo;
+- necesidad práctica de no demorar el ingreso de recursos públicos.
+
+<div class="fuente">Villegas, cap. XIII, § VII.1.</div>
+
+## Solve et repete: la tensión constitucional
+
+<div class="dos">
+<div><strong>Interés fiscal</strong><br>Recaudación oportuna y eficacia del acto administrativo.</div>
+<div><strong>Tutela judicial</strong><br>Defensa en juicio y acceso real a un tribunal independiente.</div>
+</div>
+
+- Art. 18 CN: defensa en juicio.
+- Art. 8.1 CADH: derecho a ser oído para la determinación de derechos y obligaciones, incluso de orden fiscal.
+- Art. 75 inc. 22 CN: jerarquía constitucional de la CADH.
+
+## Villegas y el solve et repete
+
+<div class="idea-central">
+Villegas cuestiona doctrinariamente la regla, pero distingue esa crítica de su **vigencia positiva y jurisprudencial**.
+</div>
+
+Su análisis separa:
+
+1. fundamento histórico y jurídico;
+2. derecho comparado;
+3. CADH y acceso a la justicia;
+4. jurisprudencia de la Corte;
+5. funcionamiento concreto dentro de la Ley 11.683.
+
+<div class="fuente">Villegas, cap. XIII, § VII.</div>
+
+## La Corte: regla y excepción
+
+La jurisprudencia tradicional de la CSJN ha considerado que el pago previo **no es por sí solo inconstitucional**.
+
+La exigencia debe ceder cuando el contribuyente demuestra que, por su situación patrimonial concreta y la magnitud del importe, el pago constituye un **impedimento real y efectivo de acceso a la justicia**.
+
+<div class="fuente">CSJN, “Microómnibus Barrancas de Belgrano”, Fallos 312:2490; doctrina reiterada en Fallos 333:161.</div>
+
+## “Microómnibus Barrancas de Belgrano”
+
+**CSJN, 21/12/1989, Fallos 312:2490.**
+
+- La Corte reconoció operatividad al art. 8.1 CADH.
+- No consideró que el depósito previo fuese automáticamente incompatible con la Convención.
+- La excepción exige acreditar que el monto produce una imposibilidad real y efectiva de recurrir.
+
+[Referencia jurisprudencial verificable](https://fallos.jusrionegro.gov.ar/protocoloweb/protocolo/protocolo?id_protocolo=0f597629-ae27-4ab5-8d0f-8597be227e9c&stj=1)
+
+## La excepción no se presume
+
+<div class="alerta">
+No basta afirmar que el pago es elevado o inconveniente.
+</div>
+
+Para desplazar el pago previo, la jurisprudencia exige acreditar concretamente:
+
+- capacidad económica;
+- situación patrimonial;
+- magnitud relativa de la deuda;
+- efecto real del pago sobre la posibilidad de acceder a la revisión judicial.
+
+<div class="fuente">Doctrina CSJN reseñada por Villegas, cap. XIII, § VII.3.2.</div>
+
+## Solve et repete en la Ley 11.683
+
+<div class="idea-central">
+Villegas sostiene que la Ley 11.683 **no formula una cláusula general expresa** de solve et repete.
+</div>
+
+La regla se reconstruye a partir del supuesto en que:
+
+<div class="gran-flujo">
+<div>Determinación</div><span>↓</span>
+<div>Reconsideración</div><span>↓</span>
+<div>Rechazo</div><span>↓</span>
+<div>Pago</div><span>↓</span>
+<div>Repetición</div>
+</div>
+
+<div class="fuente">Villegas, cap. XIII, § VII.3.3; Ley 11.683, arts. 76, 81 y 82.</div>
+
+## Lo que NO es solve et repete
+
+<div class="contraste">
+<strong>TFN confirma deuda → apelación a Cámara con efecto devolutivo → Fisco puede ejecutar</strong>
+</div>
+
+Eso no significa que el pago sea condición para que la Cámara admita el recurso.
+
+<div class="formula">
+EJECUTORIEDAD ≠ SOLVE ET REPETE
+</div>
+
+<div class="fuente">Ley 11.683, arts. 192 y 194; CSJN, Fallos 333:161.</div>
+
+## Las sanciones y el pago previo
+
+<div class="idea-central">
+El esquema del solve et repete respecto del tributo **no se traslada sin más a las sanciones**.
+</div>
+
+- La sanción posee vías específicas de revisión.
+- La Ley 11.683 contempla demanda contenciosa respecto de resoluciones recaídas en reconsideración en materia de multas.
+- Villegas destaca que el pago previo del art. 81 concierne al tributo y accesorios, no a la sanción como condición general de revisión.
+
+<div class="fuente">Ley 11.683, arts. 51, 82 inc. a y 194; Villegas, cap. XIII, § VII.3.3.</div>
+
+## Repetición: función
+
+<div class="definicion">
+La repetición persigue la **devolución de tributos y accesorios pagados de más o indebidamente**.
+</div>
+
+El art. 81 distingue según el pago haya sido:
+
+<div class="dos">
+<div><strong>Espontáneo</strong><br>Sin determinación fiscal previa que imponga el pago.</div>
+<div><strong>A requerimiento</strong><br>En cumplimiento de una determinación cierta o presuntiva.</div>
+</div>
+
+## Pago espontáneo
+
+<div class="gran-flujo">
+<div>Pago espontáneo</div><span>↓</span>
+<div>Reclamo administrativo de repetición ante ARCA</div><span>↓</span>
+<div>Denegatoria o silencio por 3 meses</div><span>↓</span>
+<div>Opciones legales</div>
+</div>
+
+<div class="fuente">Ley 11.683, art. 81.</div>
+
+## Repetición: opciones tras el reclamo
+
+Ante denegatoria del reclamo —dentro de **15 días**— el contribuyente puede:
+
+<div class="triada">
+<div><strong>Reconsideración</strong><br>Art. 76.</div>
+<div><strong>TFN</strong><br>Apelación dentro de su competencia.</div>
+<div><strong>Justicia Nacional</strong><br>Demanda contenciosa.</div>
+</div>
+
+La misma opción se habilita si ARCA no resuelve el reclamo dentro de **3 meses**.
+
+<div class="fuente">Ley 11.683, art. 81.</div>
+
+## Pago a requerimiento
+
+<div class="idea-central">
+Si el tributo fue pagado en cumplimiento de una **determinación cierta o presuntiva**, no se exige el reclamo administrativo previo de repetición.
+</div>
+
+La demanda de repetición puede interponerse, a opción del contribuyente:
+
+- ante el **Tribunal Fiscal de la Nación**, o
+- ante la **Justicia Nacional**.
+
+<div class="fuente">Ley 11.683, art. 81.</div>
+
+## Demanda contenciosa: art. 82
+
+La Ley 11.683 habilita demanda contra el Fisco Nacional, entre otros supuestos:
+
+- resoluciones recaídas en reconsideración **en materia de multas**;
+- resoluciones en materia de repetición y sus reconsideraciones;
+- silencio administrativo en los casos previstos por la norma.
+
+<div class="alerta">
+El art. 82 no contiene una habilitación general para demandar directamente contra toda determinación tributaria rechazada en reconsideración.
+</div>
+
+## Demanda de repetición: carga del actor
+
+Según el art. 83:
+
+- no pueden fundarse las pretensiones en hechos no alegados en la instancia administrativa cuando ésta existió;
+- el actor debe demostrar en qué medida el impuesto pagado fue excesivo;
+- no basta atacar abstractamente los fundamentos de la determinación;
+- la repetición se vincula con períodos respecto de los cuales se haya satisfecho el impuesto exigido por la ley.
+
+<div class="fuente">Ley 11.683, art. 83.</div>
+
+## Procedimiento judicial
+
+- El juez requiere los antecedentes administrativos a ARCA.
+- La ley fija plazo para su remisión.
+- Admitida la instancia, se corre traslado al representante fiscal.
+- Rigen las normas específicas de la Ley 11.683 y, supletoriamente, las reglas procesales correspondientes.
+
+<div class="fuente">Ley 11.683, arts. 84, 85 y 91.</div>
+
+## Cámara Nacional competente
+
+El art. 86 atribuye competencia a la Cámara Nacional correspondiente para:
+
+- apelaciones contra sentencias de primera instancia en repetición y sanciones;
+- revisión y apelación limitada contra sentencias del TFN;
+- apelaciones en amparos del TFN;
+- retardo de justicia del TFN.
+
+<div class="fuente">Ley 11.683, art. 86.</div>
+
+## Ejecución fiscal: finalidad
+
+<div class="definicion">
+Proceso judicial especial destinado al **cobro forzado** de créditos fiscales que cuentan con título ejecutivo.
+</div>
+
+<div class="formula">
+BOLETA DE DEUDA → EJECUCIÓN FISCAL
+</div>
+
+<div class="fuente">Ley 11.683, art. 92.</div>
+
+## Créditos ejecutables
+
+El art. 92 comprende el cobro judicial de:
+
+- tributos;
+- pagos a cuenta;
+- anticipos;
+- accesorios y actualizaciones;
+- multas ejecutoriadas.
+
+La **boleta de deuda** expedida por el organismo recaudador constituye título suficiente en los términos legales.
+
+## Excepciones en la ejecución fiscal
+
+El art. 92 limita las defensas a:
+
+<div class="cuatro">
+<div><strong>Pago total documentado</strong></div>
+<div><strong>Espera documentada</strong></div>
+<div><strong>Prescripción</strong></div>
+<div><strong>Inhabilidad de título</strong><br>Por vicios extrínsecos.</div>
+</div>
+
+<div class="alerta">
+La ejecución fiscal no reproduce el debate amplio propio de un proceso de conocimiento.
+</div>
+
+## Inhabilidad de título
+
+- La ley la circunscribe a **vicios relativos a la forma extrínseca** de la boleta de deuda.
+- No constituye, como regla, una vía para reeditar íntegramente la determinación del tributo.
+- El carácter limitado de las excepciones responde a la estructura ejecutiva del proceso.
+
+<div class="fuente">Ley 11.683, art. 92.</div>
+
+## Sentencia en la ejecución
+
+<div class="idea-central">
+La Ley 11.683 establece un régimen especialmente restrictivo de recursos en ejecución fiscal.
+</div>
+
+El art. 92 dispone la inapelabilidad de la sentencia de ejecución o de la revocación del auto de intimación de pago y embargo, sin perjuicio de:
+
+- la posibilidad fiscal de librar nuevo título cuando corresponda;
+- el derecho del ejecutado a repetir por el art. 81.
+
+## Repetición después de la ejecución
+
+<div class="formula">
+EJECUCIÓN FISCAL → PAGO → EVENTUAL REPETICIÓN
+</div>
+
+El art. 93 establece que, tratándose de sentencias dictadas en ejecuciones fiscales por impuestos, la acción de repetición sólo puede deducirse una vez satisfechos:
+
+- impuesto adeudado;
+- accesorios;
+- costas.
+
+<div class="fuente">Ley 11.683, art. 93.</div>
+
+## Ley 25.239 y ejecución fiscal
+
+La Ley 25.239 introdujo una reforma relevante del procedimiento de ejecución fiscal, fortaleciendo mecanismos de cobro y atribuciones vinculadas con medidas ejecutivas.
+
+<div class="nota">
+Para comprender su alcance actual debe leerse el art. 92 en su texto vigente y no aislar la reforma histórica de las modificaciones posteriores.
+</div>
+
+[Texto oficial de la Ley 11.683](https://www.argentina.gob.ar/normativa/nacional/18771/texto)
+
+## Deuda, infracción y delito
+
+<div class="triada">
+<div><strong>Deuda tributaria</strong><br>Obligación de ingresar el tributo.</div>
+<div><strong>Infracción tributaria</strong><br>Conducta sancionada administrativamente.</div>
+<div><strong>Delito tributario</strong><br>Conducta típica sometida al régimen penal.</div>
+</div>
+
+<div class="formula">
+DEUDA ≠ INFRACCIÓN ≠ DELITO
+</div>
+
+## Derecho tributario penal
+
+<div class="idea-central">
+El poder sancionador tributario está sometido a garantías propias del derecho punitivo.
+</div>
+
+- legalidad;
+- tipicidad;
+- culpabilidad;
+- debido proceso;
+- defensa;
+- personalidad de la sanción;
+- prohibición de doble persecución en los términos aplicables.
+
+<div class="fuente">Villegas, cap. XIV.</div>
+
+## Diferencia con el derecho penal común
+
+<div class="contraste">
+<strong>Unidad de garantías punitivas</strong> no significa identidad absoluta de regímenes.
+</div>
+
+El sistema tributario distingue:
+
+- infracciones administrativas reguladas por la Ley 11.683;
+- delitos del Régimen Penal Tributario;
+- procedimientos y órganos competentes diferentes.
+
+## Ilícitos formales y materiales
+
+<div class="dos">
+<div><strong>Formales</strong><br>Protegen deberes de colaboración, registración, información y fiscalización.</div>
+<div><strong>Materiales</strong><br>Se vinculan con la omisión o defraudación respecto del ingreso del tributo.</div>
+</div>
+
+<div class="fuente">Ley 11.683, arts. 38 y ss.; Villegas, cap. XIV.</div>
+
+## Infracciones formales
+
+Entre las figuras nacionales aparecen incumplimientos vinculados con:
+
+- declaraciones juradas;
+- deberes de información;
+- registración y documentación;
+- facturación;
+- deberes de colaboración con la fiscalización.
+
+<div class="nota">
+La conducta concreta debe subsumirse en el tipo legal correspondiente: no existe sanción tributaria válida sin base normativa.
+</div>
+
+## Omisión de impuestos
+
+<div class="definicion">
+La omisión sanciona supuestos de falta de ingreso del tributo en las condiciones previstas legalmente, sin requerir necesariamente el ardid propio de la defraudación.
+</div>
+
+- Debe distinguirse de un mero saldo deudor.
+- Requiere analizar la conducta y los elementos previstos por la ley.
+- La culpabilidad conserva relevancia dentro del derecho sancionador tributario.
+
+<div class="fuente">Ley 11.683, art. 45; Villegas, cap. XIV.</div>
+
+## Defraudación tributaria administrativa
+
+<div class="definicion">
+La defraudación supone un grado cualificado de ilicitud y debe distinguirse de la simple omisión.
+</div>
+
+El análisis exige atender a:
+
+- conducta engañosa o defraudatoria prevista legalmente;
+- elemento subjetivo;
+- presunciones legales aplicables;
+- prueba producida en el procedimiento sancionador.
+
+<div class="fuente">Ley 11.683, arts. 46 y ss.</div>
+
+## Clausura
+
+- Es una sanción administrativa de especial intensidad.
+- Se vincula con determinados incumplimientos formales tipificados legalmente.
+- Posee un procedimiento y un régimen recursivo específicos.
+- Por su naturaleza punitiva, exige respeto estricto de legalidad, defensa y debido proceso.
+
+<div class="fuente">Ley 11.683, arts. 40, 77 y 78.</div>
+
+## Recursos contra clausura y sanciones específicas
+
+- Art. 77: apelación administrativa dentro del plazo legal.
+- La autoridad superior debe resolver en el plazo previsto.
+- Art. 78: recurso judicial ante los juzgados competentes.
+- El recurso judicial se interpone y funda en sede administrativa según la regulación especial.
+
+<div class="fuente">Ley 11.683, arts. 77 y 78.</div>
+
+## Régimen Penal Tributario
+
+<div class="alerta">
+La vieja Ley 24.769 fue derogada. El régimen penal tributario vigente fue aprobado por la **Ley 27.430** y posteriormente modificado.
+</div>
+
+- Evasión tributaria.
+- Evasión agravada.
+- Aprovechamiento indebido de beneficios fiscales.
+- Apropiación indebida de tributos y recursos de la seguridad social.
+- Otros delitos previstos por el régimen.
+
+[Texto oficial Ley 27.430](https://www.argentina.gob.ar/normativa/nacional/305262/texto)
+
+## Actualización legislativa 2026
+
+<div class="idea-central">
+Los montos del Régimen Penal Tributario fueron modificados por la **Ley 27.799** en 2026.
+</div>
+
+Por eso, para enseñar los tipos penales:
+
+- Villegas aporta la estructura conceptual;
+- los montos y condiciones objetivas deben tomarse de la **legislación vigente**.
+
+[Texto oficial Ley 27.799](https://www.argentina.gob.ar/normativa/nacional/422008/texto)
+
+## Procedimiento tributario y proceso penal
+
+<div class="idea-central">
+La existencia de una investigación penal no convierte automáticamente todo procedimiento tributario en proceso penal ni elimina las potestades determinativas del Fisco.
+</div>
+
+Debe distinguirse:
+
+- determinación de la deuda;
+- aplicación de sanciones administrativas;
+- persecución de delitos tributarios.
+
+## Art. 20 del Régimen Penal Tributario
+
+La regulación coordina la actuación administrativa con el proceso penal:
+
+- la denuncia penal no elimina la determinación y ejecución de la deuda;
+- la imposición de sanciones administrativas debe respetar las reglas de coordinación con la causa penal;
+- debe evitarse la contradicción incompatible entre decisiones punitivas sobre los mismos hechos.
+
+<div class="fuente">Régimen Penal Tributario, Ley 27.430, Tít. IX, art. 20.</div>
+
+## Caso integrador: elección de vía
+
+ARCA determina IVA e intereses. El contribuyente pretende discutir íntegramente la determinación y el acto es apelable ante el TFN.
+
+<div class="dos">
+<div><strong>Si elige reconsideración</strong><br>Discute en sede administrativa. Si se rechaza la determinación, la revisión posterior conduce a la repetición y aparece el pago previo.</div>
+<div><strong>Si elige TFN</strong><br>Obtiene discusión jurisdiccional previa al pago. Si el TFN confirma, puede apelar a Cámara; el art. 194 permite ejecución, pero el pago no es requisito de admisibilidad del recurso.</div>
+</div>
+
+## Caso integrador: solución normativa
+
+<div class="gran-flujo">
+<div>Determinación apelable</div><span>↓</span>
+<div>Art. 76: opción excluyente</div><span>↓</span>
+<div>Reconsideración → rechazo → pago → repetición</div><span>↓</span>
+<div>o</div><span>↓</span>
+<div>TFN → sentencia → revisión judicial art. 192</div>
+</div>
+
+<div class="fuente">Ley 11.683, arts. 76, 81, 86, 192 y 194; CSJN, Fallos 333:161.</div>
+
+## Caso integrador: ejecución
+
+Existe boleta de deuda válida y se inicia ejecución fiscal. El contribuyente pretende volver a discutir toda la determinación.
+
+<div class="idea-central">
+La defensa no es ilimitada: el art. 92 establece excepciones taxativas y restringe la inhabilidad de título a vicios extrínsecos.
+</div>
+
+Si el crédito es satisfecho y concurren los presupuestos legales, permanece la vía de **repetición**.
+
+## Jurisprudencia imprescindible de la unidad
+
+| Fallo | Regla útil para la clase |
+|---|---|
+| **Fernández Arias c/ Poggio** — Fallos 247:646 | Jurisdicción administrativa y necesidad de control judicial suficiente. |
+| **Ángel Estrada** — Fallos 328:651 | Límites constitucionales de la función jurisdiccional administrativa. |
+| **Microómnibus Barrancas de Belgrano** — Fallos 312:2490 | Pago previo, art. 8.1 CADH y excepción ante impedimento real de acceso a justicia. |
+| **Compañía de Circuitos Cerrados** — Fallos 333:161 | Elección reconsideración/TFN y funcionamiento del solve et repete en Ley 11.683. |
+
+## “Ángel Estrada”: enlace
+
+**CSJN, 5/4/2005, Fallos 328:651.**
+
+El precedente no es específicamente tributario, pero resulta útil para explicar los límites constitucionales de la jurisdicción administrativa y el control judicial.
+
+[Texto / referencia verificable del fallo](https://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-angel-estrada-cia-sa-resol-71-96-sec-ener-puertos-expte-750-002119-96-recurso-extraordinario-fa05000211-2005-04-05/123456789-112-0005-0ots-eupmocsollaf)
+
+## “Compañía de Circuitos Cerrados”: regla final
+
+<div class="formula">
+LA ELECCIÓN DEL ART. 76 TIENE CONSECUENCIAS PROCESALES REALES
+</div>
+
+- La vía del TFN permite una discusión jurisdiccional previa al pago.
+- La reconsideración mantiene inicialmente la suspensión, pero su rechazo en materia de determinación conduce a la repetición.
+- La Corte consideró relevante que el contribuyente había tenido disponible una vía que no exigía pago previo y optó por otra.
+
+[Texto / referencia verificable](https://ar.vlex.com/vid/250931262)
+
+## Síntesis normativa
+
+| Tema | Norma central |
+|---|---|
+| Determinación de oficio | arts. 16–17 |
+| Reconsideración / TFN | art. 76 |
+| Resolución reconsideración | art. 80 |
+| Repetición | art. 81 |
+| Demanda contenciosa | arts. 82–85 |
+| Cámara / revisión | art. 86 |
+| Ejecución fiscal | arts. 92–95 |
+| Competencia TFN | arts. 159 y ss. |
+| Revisión sentencia TFN | arts. 192–195 |
+
+## Síntesis conceptual
+
+<div class="formula">
+NO EXISTE UNA ÚNICA “VÍA TRIBUTARIA”
+</div>
+
+<div class="triada">
+<div><strong>Discutir antes de pagar</strong><br>TFN, cuando procede.</div>
+<div><strong>Revisar dentro de ARCA</strong><br>Reconsideración.</div>
+<div><strong>Recuperar lo pagado</strong><br>Repetición.</div>
+</div>
+
+## Cinco reglas para retener
+
+1. **Reconsideración y TFN son alternativas, no etapas sucesivas.**
+2. **La elección de reconsideración puede llevar al pago previo para repetir.**
+3. **Apelar una sentencia del TFN no exige pagar para que el recurso sea admisible, aunque el art. 194 permite ejecución.**
+4. **La ejecución fiscal tiene defensas limitadas por el art. 92.**
+5. **Deuda, infracción administrativa y delito tributario son categorías distintas.**
+
+## Fuentes de la clase
+
+- Héctor B. **Villegas**, *Curso de Finanzas, Derecho Financiero y Tributario*, edición 2021, especialmente caps. XIII y XIV.
+- **Ley 11.683**, texto vigente.
+- **Ley 27.430**, Régimen Penal Tributario.
+- **Ley 27.799**, reforma 2026 del Régimen Penal Tributario.
+- CSJN, **“Microómnibus Barrancas de Belgrano”**, Fallos 312:2490.
+- CSJN, **“Compañía de Circuitos Cerrados c/ AFIP-DGI”**, Fallos 333:161.
+- CSJN, **“Fernández Arias c/ Poggio”**, Fallos 247:646.
+- CSJN, **“Ángel Estrada”**, Fallos 328:651.
+
+[Texto oficial de la Ley 11.683](https://www.argentina.gob.ar/normativa/nacional/18771/texto)

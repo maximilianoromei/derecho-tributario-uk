@@ -1,0 +1,736 @@
+---
+title: "Ilícitos tributarios, sanciones y evasión fiscal"
+subtitle: "Derecho Tributario · Grado · Actualización normativa 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    scrollable: true
+    navigation-mode: linear
+    transition: none
+    incremental: false
+    center: false
+    width: 1280
+    height: 720
+    margin: 0.06
+    css: estilos_tributarios.css
+execute:
+  echo: false
+---
+
+## El ilícito tributario
+
+Conducta **típica, antijurídica y reprochable** que infringe deberes tributarios y a la que el ordenamiento asigna una consecuencia sancionatoria.
+
+No todo incumplimiento es delito: la falta de pago puede generar deuda e intereses sin constituir, por sí sola, evasión penal.
+
+**Ejemplo:** presentar una declaración tardía, declarar incorrectamente por negligencia y ocultar ventas deliberadamente no son conductas equivalentes.
+
+<div class="fuente">Villegas, *Curso de finanzas, derecho financiero y tributario* (2021), sección de ilícitos tributarios.</div>
+
+## Tres conductas básicas según Villegas
+
+- **Incumplimiento formal:** no aportar una declaración o información exigible.
+- **Incumplimiento sustancial omisivo:** dejar de ingresar el impuesto debido.
+- **Incumplimiento sustancial fraudulento:** utilizar engaño u ocultación para reducir ilegítimamente la carga.
+
+La clasificación permite separar la obligación principal de los deberes de colaboración.
+
+<div class="fuente">Villegas (2021), «Caracterización primaria de las infracciones fiscales».</div>
+
+## Delito y contravención: diferencia
+
+**Delito:** figura definida en ley penal especial, sometida a persecución penal y susceptible de prisión.
+
+**Infracción administrativa:** ilícito previsto en el procedimiento fiscal, sancionado por autoridad administrativa bajo control judicial.
+
+**Cuidado:** ambos integran el derecho sancionador y deben respetar legalidad, defensa y culpabilidad; la diferencia no es una licencia para responsabilidad objetiva.
+
+<div class="fuente">Villegas, *Curso de finanzas, derecho financiero y tributario* (2021), sección de ilícitos tributarios.</div>
+
+## Bien jurídico y función del sistema
+
+En las infracciones formales se tutela la posibilidad de **determinar, verificar y fiscalizar** correctamente.
+
+En las materiales se protege la integridad de los recursos fiscales y el cumplimiento del deber tributario.
+
+**Ejemplo:** no exhibir un libro perjudica la fiscalización aun cuando finalmente el impuesto resulte pagado.
+
+<div class="fuente">Ley 11.683, arts. 38–40; Villegas, *Curso de finanzas, derecho financiero y tributario* (2021), sección de ilícitos tributarios.</div>
+
+## Dolo, culpa y error
+
+- **Dolo:** conocimiento y voluntad de realizar el hecho ilícito; en defraudación importa el engaño u ocultación maliciosa.
+- **Culpa:** infracción del deber de cuidado; puede fundar omisión material sin fraude.
+- **Error excusable:** puede excluir la sanción por omisión en los supuestos legales.
+
+**Ejemplo:** equivocarse razonablemente en una norma ambigua no equivale a inventar comprobantes.
+
+<div class="fuente">Ley 11.683, arts. 45–47.</div>
+
+## Principios constitucionales
+
+**Legalidad y tipicidad:** sanción prevista por ley anterior.
+
+**Defensa y debido proceso:** posibilidad real de conocer y controvertir la imputación.
+
+**Culpabilidad y proporcionalidad:** reproche individualizado y sanción adecuada.
+
+**Ne bis in idem:** examinar identidad de sujeto, hecho y fundamento al concurrir vías sancionatorias.
+
+<div class="fuente">Constitución Nacional, arts. 18 y 19; tratados con jerarquía constitucional.</div>
+
+## ¿Multa, interés o impuesto?
+
+**Impuesto:** obligación sustancial nacida del hecho imponible.
+
+**Interés resarcitorio:** consecuencia financiera de la mora, de función principalmente compensatoria.
+
+**Multa:** reacción punitiva frente a infracción tipificada.
+
+**Ejemplo:** una deuda de $5 millones puede exigir capital e intereses y, solo si se configuran los requisitos legales, una multa.
+
+<div class="fuente">Ley 11.683, arts. 37, 38, 45 y 46.</div>
+
+## Clasificación de sanciones
+
+**Patrimoniales:** multas; comiso cuando está legalmente previsto.
+
+**Impeditivas:** clausura, inhabilitación y otras restricciones previstas expresamente.
+
+**Privativas de libertad:** prisión por delito, impuesta judicialmente.
+
+La categoría doctrinaria no reemplaza la comprobación de la **habilitación legal concreta**.
+
+<div class="fuente">Villegas, *Curso de finanzas, derecho financiero y tributario* (2021), sección de ilícitos tributarios.</div>
+
+## La multa: función punitiva
+
+No se limita a indemnizar al Estado: procura reprochar y prevenir incumplimientos.
+
+Debe existir un hecho subsumible en un tipo sancionador y respetarse el procedimiento aplicable.
+
+**Ejemplo:** si se pagó el impuesto tarde, los intereses responden a la mora; la multa por omisión requiere los presupuestos del art. 45.
+
+<div class="fuente">Ley 11.683, arts. 37 y 45.</div>
+
+## Personas humanas y jurídicas
+
+La legislación contempla infracciones cometidas por personas humanas y entidades.
+
+No debe trasladarse automáticamente la responsabilidad de la sociedad a cada administrador: hay que identificar intervención, deber y título de imputación.
+
+**Ejemplo:** una DDJJ societaria falsa no convierte por sí sola a todos los directores en autores penales.
+
+<div class="fuente">Ley 11.683, régimen de responsables; Régimen Penal Tributario, disposiciones generales.</div>
+
+## La multa y el fallecimiento
+
+Distinguir la deuda tributaria del causante de la responsabilidad punitiva personal.
+
+La **transmisibilidad de multas** y la extinción por muerte requieren análisis de la regla específica y de las garantías penales; no debe enseñarse como regla general que una multa «sobrevive» automáticamente.
+
+**Caso:** fallece un contribuyente mientras se discute una sanción: ¿qué es deuda hereditaria y qué es pena?
+
+<div class="fuente">Principio de personalidad de las sanciones; análisis del régimen aplicable.</div>
+
+## Ley 11.683: cuadro general
+
+| Conducta | Norma | Respuesta |
+|---|---|---|
+| DDJJ omitida | Art. 38 | Multa formal |
+| Otros deberes formales | Art. 39 | Multa |
+| Supuestos de clausura | Art. 40 | Clausura |
+| Omisión material | Art. 45 | Multa proporcional |
+| Defraudación | Art. 46 | Multa agravada |
+
+**Regla didáctica:** identificar primero el hecho, luego la norma.
+
+<div class="fuente">[Ley 11.683](https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion)</div>
+
+## Artículo 38: declaración jurada omitida
+
+**Contenido y alcance de la norma.** La norma sanciona la falta de presentación en término de declaraciones juradas determinativas, aun cuando no exista impuesto a ingresar. La infracción es formal: el deber incumplido consiste en declarar, no necesariamente en pagar.
+
+**Requisitos, consecuencias y límites.** Multa de $220.000 para personas humanas y $440.000 para sociedades, asociaciones o entidades constituidas en el país, conforme reforma de la Ley 27.799. Examinar la intimación, la presentación posterior y el régimen de reducción aplicable.
+
+**Ejemplo.** Una sociedad comercial cerró su ejercicio y debía presentar la declaración jurada anual del impuesto a las ganancias. Aunque los anticipos ingresados cubrían la totalidad del impuesto determinado, dejó vencer el plazo sin presentar la declaración. La infracción consiste en incumplir el deber autónomo de declarar: no se exige que exista un saldo impago. Corresponde examinar la multa formal del artículo 38 y las reglas legales de notificación y reducción.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Art. 38: declaración tardía con saldo a favor
+
+**Contenido y alcance de la norma.** La obligación de presentar la declaración jurada es autónoma respecto de la obligación material de ingresar el tributo. La presentación tardía puede tener consecuencias aun sin perjuicio fiscal.
+
+**Requisitos, consecuencias y límites.** Distinguir: vencimiento; sujeto obligado; presentación o falta de ella; intimación; eventual regularización; reducción legal de multa.
+
+**Ejemplo.** Una persona humana presentó su declaración jurada de Ganancias tres meses después del vencimiento. El formulario arrojó un saldo a favor porque las retenciones sufridas superaban el impuesto. El saldo a favor no elimina la obligación de presentar en término; la conducta debe analizarse como infracción formal y no como omisión de pago del artículo 45.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Art. 39: deberes formales generales
+
+**Contenido y alcance de la norma.** Sanciona incumplimientos a disposiciones legales y reglamentarias que imponen deberes destinados a facilitar la determinación, verificación y fiscalización de tributos, cuando no exista sanción específica.
+
+**Requisitos, consecuencias y límites.** La Ley 27.799 elevó la escala general a $150.000–$2.500.000. Los supuestos especiales y agravados del artículo tienen tratamientos propios; no confundirlos con la multa automática del art. 38.
+
+**Ejemplo.** Una empresa recibe un requerimiento válido para identificar a sus principales proveedores y acompañar documentación respaldatoria de compras. El plazo vence y no entrega la información ni justifica su incumplimiento. La sanción se vincula con la falta de colaboración con la fiscalización, aunque todavía no se haya determinado una diferencia de impuesto.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Resistencia a la fiscalización
+
+**Contenido y alcance de la norma.** Los deberes de colaboración permiten a la administración examinar libros, solicitar comprobantes y requerir información relevante dentro de sus atribuciones. La sanción presupone un deber válido, exigible y un incumplimiento imputable.
+
+**Requisitos, consecuencias y límites.** La resistencia no debe confundirse con el ejercicio del derecho de defensa. Deben examinarse alcance del requerimiento, notificación, plazo y posibilidad real de cumplimiento.
+
+**Ejemplo.** El inspector requiere el libro IVA digital; el contribuyente recibe la intimación y se niega a suministrarlo sin causa. Discutir tipicidad y prueba.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Deberes de información
+
+La Administración puede exigir información propia o de terceros mediante normas aplicables.
+
+El incumplimiento de requerimientos relativos a regímenes informativos tiene previsiones sancionatorias específicas.
+
+**Ejemplo:** una entidad obligada no informa operaciones sujetas a un régimen de terceros; aunque pague su propio impuesto, puede infringir un deber autónomo.
+
+<div class="fuente">Ley 11.683, artículos agregados después de los arts. 38 y 39.</div>
+
+## Concurrencia de infracciones formales
+
+**Contenido y alcance de la norma.** Los arts. 38 y 39 protegen deberes formales distintos. Puede haber pluralidad de incumplimientos, pero la acumulación no es automática: se requiere analizar hechos, identidad de fundamento y reglas aplicables.
+
+**Requisitos, consecuencias y límites.** El principio non bis in idem impide sancionar dos veces el mismo hecho bajo el mismo fundamento. La pluralidad de conductas autónomas puede justificar respuestas distintas.
+
+**Ejemplo.** Una empresa no presenta DDJJ y tampoco responde una intimación posterior de aportar documentación. Separar conductas y momentos.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Art. 40: clausura
+
+**Contenido y alcance de la norma.** Contempla infracciones graves vinculadas con documentación de operaciones, registración, transporte y otras obligaciones específicamente enumeradas. La clausura afecta temporalmente el establecimiento y se articula con la multa prevista en la norma.
+
+**Requisitos, consecuencias y límites.** No cualquier error en una factura autoriza clausurar. Hay que verificar el inciso aplicable, los presupuestos de procedencia, las exclusiones legales y el procedimiento de constatación y defensa.
+
+**Ejemplo.** Un comercio realiza ventas sin emitir comprobantes. Identificar el inciso aplicable y explicar por qué la sanción es impeditiva además de pecuniaria.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Clausura: proporcionalidad y defensa
+
+**Contenido y alcance de la norma.** Por su intensidad, la clausura exige especial atención a legalidad, tipicidad, constatación, imputación, audiencia y revisión judicial. La decisión debe fundarse en hechos concretos.
+
+**Requisitos, consecuencias y límites.** El órgano no puede sustituir el análisis de la infracción por una presunción genérica de evasión: no emitir factura y defraudar al fisco son tipos diferentes.
+
+**Ejemplo.** Se detecta una única operación sin comprobante: discutir relevancia del hecho, condiciones normativas y garantías antes de decidir sanción.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Interdicción y secuestro
+
+**Contenido y alcance de la norma.** Las disposiciones agregadas a continuación del art. 40 prevén medidas sobre mercaderías en determinadas infracciones de transporte y documentación. Deben distinguirse medidas preventivas y sanciones definitivas.
+
+**Requisitos, consecuencias y límites.** Interdicción limita disponibilidad; secuestro implica aprehensión material; comiso importa pérdida definitiva cuando el régimen lo autoriza. No son sinónimos.
+
+**Ejemplo.** Camión transporta mercadería sin respaldo documental exigido: determinar qué medida procede y qué garantías deben observarse.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Art. 45: omisión de impuestos
+
+**Contenido y alcance de la norma.** Reprime la omisión de ingreso de tributos mediante falta de declaración o declaración inexacta, así como determinadas omisiones de agentes de retención o percepción, siempre que no corresponda defraudación y sin perjuicio del error excusable.
+
+**Requisitos, consecuencias y límites.** La escala general prevista es del 100% del gravamen omitido y del 200% en supuestos de reincidencia; existen hipótesis agravadas vinculadas con sujetos del exterior. Deben identificarse los presupuestos específicos de cada escala.
+
+**Ejemplo.** Una firma computa por negligencia un crédito fiscal improcedente y paga $4 millones menos de IVA. ¿Hay error excusable, omisión culposa o engaño deliberado. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Art. 45: reincidencia y exterior
+
+**Contenido y alcance de la norma.** El artículo distingue la omisión ordinaria de los supuestos vinculados con transacciones con sujetos del exterior y contempla agravamiento por reincidencia. La sanción se calcula sobre el tributo omitido, no sobre la facturación.
+
+**Requisitos, consecuencias y límites.** Esquema del material: omisión ordinaria 100%; reincidencia 200%; operación con sujeto del exterior 200%; reincidencia en ese supuesto 300%. Verificar condiciones normativas antes de aplicar cada porcentaje.
+
+**Ejemplo.** La empresa omite ingresar $8 millones por una operación con una vinculada extranjera. Determinar primero la conducta y luego la escala pertinente.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Error excusable: qué analizar
+
+**Contenido y alcance de la norma.** La exclusión de sanción por error excusable exige una equivocación razonable en el contexto del caso. No equivale a desconocimiento voluntario de la ley ni se presume por el solo hecho de rectificar.
+
+**Requisitos, consecuencias y límites.** Factores relevantes: ambigüedad normativa, cambios interpretativos, complejidad técnica, conducta diligente, documentación y criterio administrativo previo.
+
+**Ejemplo.** Dos contribuyentes aplican una norma dudosa; uno documentó una interpretación fundada y el otro omitió toda verificación. ¿Mismo reproche. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Art. 45: mini caso
+
+Una sociedad omitió por error de registración $8 millones de IVA. No existen facturas falsas ni maniobras de ocultación.
+
+**Análisis:** (a) impuesto omitido; (b) eventual culpa; (c) error excusable; (d) regularización y reducción de sanciones.
+
+**No corresponde** afirmar evasión penal únicamente porque el monto sea importante.
+
+<div class="fuente">Ley 11.683, arts. 45 y 49.</div>
+
+## Art. 46: defraudación fiscal
+
+**Contenido y alcance de la norma.** Reprime al sujeto que mediante declaraciones engañosas u ocultaciones maliciosas perjudica al fisco. El núcleo no es simplemente deber impuesto: requiere conducta fraudulenta y elemento subjetivo doloso.
+
+**Requisitos, consecuencias y límites.** Multa de dos a diez veces el importe del tributo evadido. La administración debe acreditar los presupuestos de la figura, sin sustituir la prueba del dolo por la sola diferencia determinada.
+
+**Ejemplo.** Una distribuidora cobra ventas en efectivo que no registra en su sistema oficial. Paralelamente lleva una planilla reservada con las operaciones omitidas y presenta declaraciones juradas de IVA que sólo incluyen las ventas registradas. La contabilidad paralela y la exclusión deliberada de operaciones permiten examinar una ocultación maliciosa destinada a disminuir el tributo, diferente de un simple error de liquidación.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Omisión vs. defraudación
+
+**Contenido y alcance de la norma.** El art. 45 contempla una omisión reprochable sin fraude probado; el art. 46 requiere maniobras engañosas u ocultación maliciosa. La magnitud del ajuste no convierte por sí sola la omisión en defraudación.
+
+**Requisitos, consecuencias y límites.** Pregunta guía: ¿qué hizo el sujeto para que el organismo recaudador no conociera la verdadera obligación? Una mera diferencia de criterio no demuestra ardid.
+
+**Ejemplo.** Factura deducida por error de imputación frente a facturas deliberadamente apócrifas: explicar las distintas calificaciones posibles.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Beneficios fiscales indebidamente obtenidos
+
+**Contenido y alcance de la norma.** La Ley 11.683 sanciona específicamente el aprovechamiento fraudulento de reintegros, recuperos, devoluciones, subsidios u otros beneficios tributarios. Debe analizarse el artículo sin número posterior al 46.
+
+**Requisitos, consecuencias y límites.** La escala del régimen infraccional es de dos a seis veces el beneficio indebidamente aprovechado. No confundir con el delito del art. 3 del Régimen Penal Tributario, que exige condiciones adicionales.
+
+**Ejemplo.** Una exportadora inventa operaciones para cobrar reintegros. Distinguir beneficio solicitado, percibido, dolo y eventual relevancia penal.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Simulación de cancelación
+
+Es distinto **no pagar** de **simular haber pagado**.
+
+**Ejemplo:** presentar comprobantes bancarios adulterados para aparentar la cancelación de una deuda.
+
+La ley contempla respuesta infraccional y el régimen penal incluye una figura específica sujeta a requisitos y montos.
+
+<div class="fuente">Ley 11.683, art. agregado después del 46; RPT, art. 10.</div>
+
+## Art. 47: presunciones de dolo
+
+**Contenido y alcance de la norma.** Establece supuestos de los cuales puede inferirse, salvo prueba en contrario, voluntad de producir declaraciones engañosas u ocultaciones maliciosas. No configura una presunción absoluta de responsabilidad.
+
+**Requisitos, consecuencias y límites.** Incluye, entre otros, graves contradicciones entre libros y declaraciones, datos inexactos con incidencia grave, manifiesta disconformidad con normas y falta de libros o registros relevantes según sus condiciones legales.
+
+**Ejemplo.** El libro de ventas consigna $80 millones y la DDJJ sólo $30 millones. El indicio exige explicación y prueba; no elimina el derecho de defensa.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Art. 47: contradicción contable
+
+**Contenido y alcance de la norma.** La discordancia entre registraciones y declaraciones puede ser un indicio legal de intención defraudatoria si concurren los presupuestos del art. 47. La inferencia es refutable.
+
+**Requisitos, consecuencias y límites.** Separar tres preguntas: ¿existe diferencia material? ¿es grave y relevante? ¿qué explicación o prueba aporta el contribuyente?
+
+**Ejemplo.** La diferencia proviene de un error de migración informática documentado. ¿Puede destruir la presunción. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Realidad económica y abuso de formas
+
+El derecho tributario atiende a la realidad económica de los actos, dentro de los límites legales.
+
+**Ejemplo:** presentar una venta como un préstamo ficticio para encubrir ingresos gravados.
+
+La recalificación tributaria y la imposición de una sanción dolosa son problemas relacionados, pero **no idénticos**: el dolo requiere fundamentación.
+
+<div class="fuente">Ley 11.683, arts. 1, 2 y 47; Villegas, *Curso de finanzas, derecho financiero y tributario* (2021), sección de ilícitos tributarios.</div>
+
+## Regularización y reducción de sanciones
+
+El art. 49 contempla efectos relevantes de regularizar DDJJ antes o durante ciertas etapas de fiscalización, bajo condiciones legales.
+
+**Ejemplo:** contribuyente no reincidente rectifica espontáneamente antes de una orden de intervención: analizar exención infraccional.
+
+**Advertencia:** el beneficio depende de requisitos, momento procesal y categoría de infracción.
+
+<div class="fuente">Ley 11.683, art. 49.</div>
+
+## Procedimiento sancionatorio
+
+**Secuencia típica:** detección → imputación → defensa y prueba → decisión fundada → recursos y control judicial.
+
+La autoridad debe precisar hechos, norma infringida, responsabilidad y graduación.
+
+**Caso:** llega una multa sin identificación del período ni del deber incumplido. ¿Qué objeciones de defensa pueden plantearse?
+
+<div class="fuente">Ley 11.683, arts. 70 y ss.; Constitución Nacional, art. 18.</div>
+
+## Delitos fiscales: marco normativo
+
+El **Régimen Penal Tributario** es el texto aprobado por el **artículo 279, título IX, de la Ley 27.430**. No debe confundirse con la Ley 11.683 (infracciones administrativas) ni con la derogada Ley 24.769.
+
+La **ley 27.799 (2026)** elevó umbrales monetarios y modificó reglas relevantes.
+
+**Precaución:** no utilizar en clase los montos originales de 2017 ni asumir que toda deuda elevada constituye delito.
+
+<div class="fuente">Régimen Penal Tributario aprobado por el art. 279, título IX, Ley 27.430; modificaciones de la Ley 27.799.</div>
+
+## Evasión simple: art. 1
+
+**Contenido y alcance de la norma.** El art. 1 del Régimen Penal Tributario exige sujeto obligado, evasión total o parcial mediante declaraciones engañosas, ocultación maliciosa u otro ardid, y monto superior al umbral legal por tributo y ejercicio.
+
+**Requisitos, consecuencias y límites.** Pena: prisión de dos a seis años. Desde enero de 2026, umbral general: más de $100.000.000 por tributo y ejercicio anual. La cifra es condición objetiva de punibilidad, no prueba de dolo.
+
+**Ejemplo.** Una sociedad realiza ventas gravadas durante un ejercicio y registra sólo una parte de ellas. Para encubrir el resto, utiliza una caja paralela y presenta declaraciones juradas engañosas; la diferencia de IVA atribuible a la maniobra asciende a $130 millones. Si se prueban la obligación tributaria, el ardid, el dolo y el monto por el tributo y período correspondientes, la conducta puede encuadrar en el artículo 1 del Régimen Penal Tributario.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Evasión simple: el umbral no basta
+
+**Contenido y alcance de la norma.** El umbral delimita la punibilidad penal, pero no reemplaza el requisito de engaño. Una deuda elevada derivada de una interpretación jurídica controvertida no constituye automáticamente evasión penal.
+
+**Requisitos, consecuencias y límites.** La comprobación debe individualizar impuesto, ejercicio, monto y maniobra. No corresponde sumar indiscriminadamente tributos o períodos para superar el umbral.
+
+**Ejemplo.** La fiscalización detecta $70 millones de IVA omitido y $60 millones de Ganancias omitido en el mismo ejercicio. Aunque la suma aritmética es de $130 millones, el umbral penal se analiza separadamente por tributo y período. Además, debe demostrarse una maniobra engañosa; la mera diferencia impositiva no acredita evasión dolosa.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Evasión agravada: art. 2
+
+**Contenido y alcance de la norma.** Agravación de la evasión simple por circunstancias legalmente tipificadas: cuantía, interposición de sujetos o estructuras para ocultar identidad, utilización fraudulenta de beneficios y otras hipótesis enumeradas.
+
+**Requisitos, consecuencias y límites.** Pena: prisión de tres años y seis meses a nueve años. Agravante por monto: más de $1.000 millones; por estructuras interpuestas, se exige además el umbral específico de $200 millones, conforme Ley 27.799.
+
+**Ejemplo.** Sociedad pantalla oculta al verdadero obligado y evade $260 millones: examinar si la estructura cumplió función de ocultamiento.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Agravantes: personas interpuestas
+
+**Contenido y alcance de la norma.** El art. 2 no castiga la mera utilización de sociedades, fideicomisos o estructuras lícitas: exige su empleo para ocultar al verdadero obligado o dificultar su identificación, junto con los demás requisitos legales.
+
+**Requisitos, consecuencias y límites.** La investigación debe reconstruir titularidad real, decisiones, flujos de fondos y documentación. La complejidad societaria no prueba por sí sola fraude.
+
+**Ejemplo.** Un fideicomiso administra inversiones reales; otro se utiliza sólo para ocultar ingresos del obligado. Comparar.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Aprovechamiento indebido de beneficios
+
+**Contenido y alcance de la norma.** El art. 3 del Régimen Penal Tributario castiga la percepción, utilización o aprovechamiento fraudulento de beneficios tributarios mediante ardid o engaño.
+
+**Requisitos, consecuencias y límites.** Pena: prisión de tres años y seis meses a nueve años; desde 2026, monto superior a $100 millones en ejercicio anual. Diferenciar del régimen administrativo por los elementos y umbral penal.
+
+**Ejemplo.** Presentar exportaciones ficticias para obtener reintegros por $125 millones.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Apropiación indebida de tributos
+
+**Contenido y alcance de la norma.** El art. 4 se dirige al agente de retención o percepción que no deposita el tributo efectivamente retenido o percibido dentro de los 30 días corridos posteriores al vencimiento legal.
+
+**Requisitos, consecuencias y límites.** Pena: prisión de dos a seis años; umbral desde 2026: más de $10 millones por mes. Es distinto de no haber practicado la retención.
+
+**Ejemplo.** La firma retuvo $14 millones a terceros y no los ingresó transcurridos 30 días del vencimiento.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Seguridad social: evasión
+
+**Contenido y alcance de la norma.** El art. 5 reprime la evasión mediante engaño de aportes o contribuciones de seguridad social. No toda mora previsional constituye delito.
+
+**Requisitos, consecuencias y límites.** Pena: prisión de dos a seis años. Desde 2026, monto superior a $7 millones por mes. La unidad temporal es mensual, no anual.
+
+**Ejemplo.** Una empresa oculta trabajadores y evade $9 millones de aportes y contribuciones de un mes.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Seguridad social: agravantes
+
+**Art. 6:** contempla agravantes para evasión de recursos de seguridad social.
+
+**Ejemplos:** magnitud del monto y utilización de interpuestos o beneficios de modo fraudulento, según los incisos y umbrales vigentes.
+
+**Clave:** distinguir la omisión de aportes por dificultades financieras de una maniobra engañosa de evasión.
+
+<div class="fuente">RPT, arts. 5 y 6.</div>
+
+## Apropiación de recursos previsionales
+
+**Contenido y alcance de la norma.** La apropiación indebida previsional requiere distinguir la retención efectuada sobre remuneraciones del posterior incumplimiento de ingreso. Revisar el plazo y umbral del art. 7 vigente.
+
+**Requisitos, consecuencias y límites.** La falta de pago de contribuciones propias y la falta de depósito de aportes retenidos no son hechos jurídicamente idénticos.
+
+**Ejemplo.** Se descuentan aportes a empleados en los recibos pero no se depositan. Identificar el tipo y su prueba.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Delitos fiscales comunes
+
+- Obtención fraudulenta de beneficios fiscales.
+- Insolvencia fiscal fraudulenta.
+- Simulación dolosa de cancelación.
+- Alteración dolosa de registros.
+
+**Idea central:** son conductas que obstaculizan la recaudación o manipulan la información fiscal de forma específicamente tipificada.
+
+<div class="fuente">RPT, arts. 8–11.</div>
+
+## Insolvencia fiscal fraudulenta
+
+**Contenido y alcance de la norma.** El art. 9 reprime maniobras patrimoniales dolosas orientadas a frustrar el cobro de obligaciones tributarias o de seguridad social en las condiciones previstas por la ley.
+
+**Requisitos, consecuencias y límites.** La mera insolvencia económica no basta: debe examinarse el conocimiento de la obligación, la conducta de desapoderamiento y la finalidad de frustrar el cobro.
+
+**Ejemplo.** Después de una fiscalización, el obligado transfiere simuladamente todos sus activos a una sociedad vinculada.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Simulación dolosa y registros
+
+**Contenido y alcance de la norma.** Los arts. 10 a 12 contemplan, respectivamente, simulación dolosa de cancelación, alteración dolosa de registros y otras figuras delictivas comunes del régimen.
+
+**Requisitos, consecuencias y límites.** El art. 10 exige una cancelación aparente mediante documentación o registración falsa, con umbrales específicos; el art. 11 protege la integridad de registros y sistemas relevantes.
+
+**Ejemplo.** Se cargan comprobantes falsos de pago para aparentar extinción de una deuda exigible.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Administradores y profesionales
+
+**Contenido y alcance de la norma.** El art. 13 aborda la intervención de representantes, administradores y otros sujetos en hechos cometidos mediante personas jurídicas; el art. 15 prevé inhabilitación para profesionales que participen dolosamente en determinados delitos.
+
+**Requisitos, consecuencias y límites.** No basta ocupar el cargo o firmar estados contables: deben analizarse intervención concreta, dolo y contribución causal al hecho.
+
+**Ejemplo.** El contador advierte que una factura es falsa y diseña la maniobra para incluirla en la declaración.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Personas jurídicas: sanciones
+
+**Contenido y alcance de la norma.** El art. 14 prevé consecuencias para la persona jurídica cuando los hechos se cometen en su nombre, con su intervención o en su beneficio, bajo las condiciones legales.
+
+**Requisitos, consecuencias y límites.** Entre las sanciones posibles se incluyen multa, suspensión de actividades, suspensión para contratar con el Estado, cancelación de personería en determinados casos y publicación de la sentencia.
+
+**Ejemplo.** Una empresa se beneficia de evasión organizada por su director. Distinguir pena de la persona física y sanción al ente.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## ¿Pueden coexistir sanciones?
+
+**Contenido y alcance de la norma.** El art. 17 establece que las penas del Régimen Penal Tributario se imponen sin perjuicio de las sanciones administrativas. Ello no autoriza automáticamente duplicar castigos incompatibles por el mismo hecho.
+
+**Requisitos, consecuencias y límites.** Analizar autonomía de fundamentos, hechos y bienes jurídicos, coordinación de procedimientos y principio non bis in idem.
+
+**Ejemplo.** Un mismo ajuste origina multa por defraudación y denuncia penal: identificar qué debe analizarse antes de acumular.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Regularización y acción penal
+
+El régimen contempla mecanismos específicos relacionados con regularización, extinción y no continuación de la persecución penal.
+
+**Ley 27.799:** introdujo modificaciones relevantes en el art. 16 y disposiciones complementarias.
+
+**Ejemplo:** contribuyente cancela íntegramente deuda y accesorios: analizar el momento, los requisitos y las exclusiones; no presumir extinción automática.
+
+<div class="fuente">RPT, art. 16 y artículos incorporados por ley 27.799.</div>
+
+## Ley penal más benigna y umbrales
+
+El aumento de montos plantea el problema de la aplicación temporal de la ley penal más benigna.
+
+**Discusión:** hecho anterior a 2026 por monto inferior al nuevo umbral, pero superior al anterior.
+
+Distinguir la regla general de retroactividad benigna, los debates sobre actualización de cuantías y el criterio jurisprudencial aplicable.
+
+<div class="fuente">Código Penal, art. 2; ley 27.799; Suozzi (2018), lectura complementaria.</div>
+
+## Suozzi: lectura crítica
+
+**Texto propuesto:** «Una visión superadora sobre la retroactividad del régimen penal tributario de la ley 27.430» (2018).
+
+**Consigna:** identificar el argumento sobre montos y retroactividad; luego contrastarlo con el cambio normativo de 2026.
+
+[Lectura en PDF](https://s3-sa-east-1.amazonaws.com/virtualidadkennedy/A137+Derecho+Financiero+y+Tributario/M3/assets/Una%20visi%C3%B3n%20superadora%20sobre%20la%20retroactividad%20del%20r%C3%A9gimen%20penal%20tributario.pdf)
+
+<div class="fuente">Material doctrinario histórico: no sustituye la legislación de 2026.</div>
+
+## Código Aduanero: dos categorías
+
+La ley 22.415 reúne **delitos e infracciones aduaneras**.
+
+**Delitos:** contrabando y otras figuras penales.
+
+**Infracciones:** incumplimientos administrativos, incluidas hipótesis de contrabando menor.
+
+**Advertencia:** la clasificación no depende exclusivamente del valor; también importan conducta, mercancía, medios y circunstancias.
+
+<div class="fuente">Código Aduanero, sección XII.</div>
+
+## Contrabando simple
+
+**Contenido y alcance de la norma.** El art. 863 del Código Aduanero tipifica el contrabando mediante actos u omisiones que impiden o dificultan, mediante ardid o engaño, el adecuado ejercicio del control aduanero.
+
+**Requisitos, consecuencias y límites.** Pena básica: prisión de dos a ocho años, sin perjuicio de modalidades específicas y disposiciones complementarias.
+
+**Ejemplo.** El importador declara falsamente el contenido de un contenedor para evitar el control.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-22415-16536/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Contrabando agravado
+
+**Contenido y alcance de la norma.** Los arts. 865 y siguientes establecen circunstancias agravantes, entre ellas participación plural, calidad del autor, medios utilizados y características de la mercadería según la figura.
+
+**Requisitos, consecuencias y límites.** No toda mercadería prohibida determina la misma calificación: identificar el inciso y la escala penal aplicable.
+
+**Ejemplo.** Mercadería ocultada en un transporte con intervención de varios participantes: analizar agravantes posibles.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-22415-16536/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Estupefacientes y bienes peligrosos
+
+El Código Aduanero contiene tratamiento específico para **estupefacientes**, armas, explosivos y materiales de especial peligrosidad.
+
+Las penas varían según sustancia, destino, cantidad, circunstancias y artículo aplicable.
+
+**Ejemplo:** no equiparar la omisión de declarar una prenda con el ocultamiento de sustancias prohibidas.
+
+<div class="fuente">Código Aduanero, arts. 866–867.</div>
+
+## Contrabando menor
+
+**Contenido y alcance de la norma.** El Código Aduanero regula el contrabando menor como infracción bajo condiciones y límites legales propios, distintos del delito de contrabando.
+
+**Requisitos, consecuencias y límites.** La cuantía puede incidir en la calificación, pero no sustituye el examen de los presupuestos normativos ni de las excepciones.
+
+**Ejemplo.** Un viajero oculta bienes comerciales de valor reducido. ¿Infracción o delito? Comprobar las condiciones legales.. En este supuesto debe identificarse la conducta concreta, verificar el deber legal infringido y comprobar los presupuestos de la sanción antes de imponerla. La existencia de una diferencia fiscal o de un incumplimiento documental no autoriza por sí sola a presumir dolo.
+
+<div class="fuente">Texto normativo actualizado: <a href="https://www.argentina.gob.ar/normativa/nacional/ley-22415-16536/actualizacion">consultar artículo y disposiciones concordantes</a>. Desarrollo didáctico; no reproducción literal.</div>
+
+## Evasión fiscal: definición
+
+En sentido estricto, **sustracción ilícita** del pago de tributos mediante una conducta engañosa o fraudulenta.
+
+**Ejemplo:** ocultar ventas reales, fabricar costos inexistentes o falsear la documentación de operaciones.
+
+No confundir evasión dolosa con cualquier deuda fiscal, incumplimiento involuntario o elección legítima de un tratamiento tributario.
+
+<div class="fuente">Villegas (2021), «Aclaraciones terminológicas previas»; RPT, art. 1.</div>
+
+## Elusión: controversia doctrinaria
+
+**Uso doctrinario amplio:** mecanismos para evitar o reducir tributación, a veces calificados como lícitos si no se infringe literalmente la ley.
+
+**Villegas:** reserva «elusión» para el **abuso fraudulento de formas jurídicas** y separa la economía de opción legítima.
+
+**Clave:** la palabra no basta; importa la sustancia del negocio y su encuadre jurídico.
+
+<div class="fuente">Villegas (2021), sección «Elusión tributaria», pp. 180 y ss. del PDF.</div>
+
+## Economía de opción: licitud
+
+Elegir entre alternativas jurídicas **reales y legalmente permitidas** la menos gravosa fiscalmente no constituye por sí sola una infracción.
+
+**Ejemplo:** optar válidamente por un régimen tributario que la ley ofrece al sujeto y cuya totalidad de requisitos cumple.
+
+**Límite:** una opción aparente, construida con negocios simulados, no merece el mismo tratamiento.
+
+<div class="fuente">Villegas (2021), «Economía de opción o evitación».</div>
+
+## Elusión abusiva: caso
+
+Una empresa presenta como préstamo una transferencia que en realidad remunera una venta ya efectuada.
+
+**Análisis:** ¿existe deuda real, plazo, restitución y riesgo crediticio? ¿O es una forma ficticia que encubre ingresos?
+
+La consecuencia tributaria exige recalificar hechos; la sanción requiere, además, acreditar los requisitos del tipo aplicable.
+
+<div class="fuente">Ley 11.683, arts. 1, 2 y 47; Villegas (2021).</div>
+
+## Tres situaciones comparadas
+
+| Situación | Calificación inicial |
+|---|---|
+| Régimen optativo legal elegido correctamente | Economía de opción |
+| Ingreso real omitido intencionalmente | Evasión |
+| Contrato aparente que encubre otra operación | Posible abuso/elusión fraudulenta |
+
+**Advertencia:** la calificación final depende de prueba y de norma aplicable.
+
+<div class="fuente">Villegas (2021), sección «Elusión tributaria».</div>
+
+## Factores económicos del incumplimiento
+
+**Carga tributaria percibida:** puede alterar incentivos de cumplimiento.
+
+**Crisis de liquidez:** puede aumentar mora sin que necesariamente exista fraude.
+
+**Complejidad normativa:** eleva costos de interpretación y errores.
+
+**Ejemplo:** pyme que posterga un ingreso fiscal por falta de fondos frente a empresa que fabrica gastos inexistentes.
+
+<div class="fuente">Factores psicosociales y económicos de la tributación; desarrollo docente.</div>
+
+## Factores psicosociales y políticos
+
+**Confianza institucional:** percepción de corrupción, transparencia y destino del gasto.
+
+**Moral tributaria:** disposición a cumplir aun cuando el control sea imperfecto.
+
+**Educación fiscal:** comprensión de deberes y servicios financiados.
+
+**Idea para discutir:** una percepción negativa del Estado puede explicar conductas, pero **no justifica jurídicamente** evadir.
+
+<div class="fuente">Villegas, actividad financiera del Estado; análisis doctrinario de cumplimiento.</div>
+
+## Prevención y cumplimiento
+
+- Normas claras y procedimientos accesibles.
+- Fiscalización basada en riesgo y respeto al debido proceso.
+- Incentivos a regularización conforme ley.
+- Sistemas de facturación y control interno confiables.
+- Transparencia del gasto público.
+
+**Ejemplo:** conciliación mensual entre facturación, libros, cobros y DDJJ para detectar diferencias antes del vencimiento.
+
+<div class="fuente">Desarrollo docente a partir de Villegas y del régimen vigente.</div>
+
+## Caso integrador: tres hechos
+
+**A.** Una persona no presenta una DDJJ con saldo cero.
+
+**B.** Una sociedad omite $12 millones de impuesto por negligencia contable.
+
+**C.** Una empresa oculta ventas deliberadamente y evade $150 millones de IVA en un ejercicio.
+
+**Consigna:** clasificar conducta, elemento subjetivo, régimen y sanción posible.
+
+<div class="fuente">Ley 11.683, arts. 38, 45 y 46; RPT, art. 1.</div>
+
+## Caso integrador: solución orientativa
+
+**A:** infracción formal (art. 38); no exige impuesto omitido.
+
+**B:** posible omisión (art. 45), salvo error excusable y atendiendo a las condiciones del caso.
+
+**C:** posible defraudación administrativa y evasión penal simple, sujeto a prueba del ardid y requisitos legales.
+
+**Importante:** no calcular penas por intuición ni prescindir de las reglas de concurrencia.
+
+<div class="fuente">Ley 11.683; RPT.</div>
+
+## Síntesis y fuentes
+
+**Secuencia para resolver casos:** hecho → deber jurídico → tipo → culpabilidad → umbral → procedimiento → sanción → garantías.
+
+**Normativa:** [Ley 11.683](https://www.argentina.gob.ar/normativa/nacional/ley-11683-18771/actualizacion) · [Régimen Penal Tributario (art. 279, título IX, Ley 27.430; texto actualizado)](https://www.argentina.gob.ar/normativa/nacional/norma-305262/actualizacion) · [Ley 27.799](https://www.argentina.gob.ar/normativa/nacional/ley-27799-422008/texto) · [Código Aduanero, ley 22.415](https://www.argentina.gob.ar/normativa/nacional/ley-22415-16536/actualizacion).
+
+**Doctrina:** Héctor B. Villegas, *Curso de finanzas, derecho financiero y tributario*, ed. 2021.
+
+**Lectura:** Suozzi (2018), retroactividad del régimen penal tributario.
+

@@ -1,0 +1,126 @@
+---
+title: "Derecho Tributario | Casos sencillos para el final"
+subtitle: "7 casos breves · 14 preguntas y respuestas"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    scrollable: true
+    transition: slide
+    center: false
+    width: 1280
+    height: 720
+    css: estilos_casos_tributario.css
+lang: es
+---
+
+## Cómo trabajar los casos
+
+- Leer la situación e identificar el concepto tributario central.
+- Responder **dos preguntas breves** por caso.
+- Comparar con las respuestas orientativas de la diapositiva siguiente.
+
+## Caso 1 · Necesidades públicas y gasto público
+
+Una ciudad tiene problemas con la iluminación de sus calles. Los vecinos solicitan nuevas luminarias porque consideran que la oscuridad afecta la seguridad. El municipio decide destinar parte de su presupuesto a comprarlas e instalarlas.
+
+**Preguntas**
+
+1. ¿Qué necesidad pública busca satisfacer el municipio?
+2. ¿La compra e instalación de luminarias constituye un gasto público? ¿Por qué?
+
+## Caso 1 · Respuestas
+
+1. La **seguridad y el uso adecuado del espacio público**, mediante el alumbrado urbano.
+2. **Sí.** El Estado aplica fondos para satisfacer una necesidad colectiva. Es una manifestación de la actividad financiera estatal.
+
+## Caso 2 · Recursos públicos
+
+Una provincia necesita dinero para mantener sus hospitales. Para financiarlos utiliza la recaudación de impuestos provinciales. Además, recibe transferencias de fondos del Estado nacional.
+
+**Preguntas**
+
+1. ¿Qué son los recursos públicos?
+2. ¿Los impuestos y las transferencias nacionales son recursos públicos? ¿Tienen el mismo origen?
+
+## Caso 2 · Respuestas
+
+1. Son los **medios económicos** con los que cuenta el Estado para financiar sus gastos y cumplir sus funciones.
+2. **Sí, ambos son recursos públicos**, pero tienen distinto origen: los impuestos provinciales provienen de la potestad tributaria provincial; las transferencias provienen del Estado nacional.
+
+## Caso 3 · Determinación de oficio
+
+Una comerciante presenta su declaración jurada de IVA. ARCA detecta diferencias entre las ventas facturadas y las declaradas. Luego de realizar una fiscalización, el organismo inicia el procedimiento para determinar el impuesto que considera adeudado.
+
+**Preguntas**
+
+1. ¿Qué significa determinar de oficio una obligación tributaria?
+2. ¿La contribuyente puede defenderse frente a esa determinación?
+
+## Caso 3 · Respuestas
+
+1. Es el procedimiento por el cual el **organismo fiscal determina la materia imponible y el tributo** cuando se verifican los presupuestos legales para hacerlo.
+2. **Sí.** Debe respetarse el derecho de defensa; la contribuyente puede formular su descargo y, frente a la resolución correspondiente, utilizar las vías de impugnación previstas en la ley 11.683.
+
+## Caso 4 · Ilícitos tributarios
+
+Un comerciante presenta su declaración jurada de IVA, pero omite incluir algunas ventas. El organismo fiscal descubre la diferencia. No hay, por el momento, otros datos que demuestren maniobras de engaño.
+
+**Preguntas**
+
+1. ¿La omisión de declarar correctamente puede generar una sanción?
+2. ¿Se puede afirmar automáticamente que existió defraudación?
+
+## Caso 4 · Respuestas
+
+1. **Sí.** La omisión del impuesto puede configurar una infracción, según los requisitos y las defensas previstos en la normativa aplicable.
+2. **No.** La defraudación exige elementos adicionales, vinculados con el engaño o la conducta dolosa. No debe confundirse toda omisión con defraudación.
+
+## Caso 5 · IVA, Ganancias e Ingresos Brutos
+
+Una persona tiene una librería. Durante el año vende libros y artículos de oficina, paga el alquiler del local y obtiene una ganancia por su actividad. Está inscripta en los regímenes tributarios que corresponden.
+
+**Preguntas**
+
+1. ¿Qué diferencia básica existe entre el IVA y el impuesto a las Ganancias?
+2. ¿Sobre qué aspecto de la actividad recae, en términos generales, Ingresos Brutos?
+
+## Caso 5 · Respuestas
+
+1. El **IVA** grava operaciones alcanzadas de consumo o comercialización; **Ganancias** grava la renta alcanzada conforme a sus reglas. Las ventas y la ganancia no son lo mismo.
+2. **Ingresos Brutos** recae, en general, sobre el ejercicio habitual y oneroso de actividades dentro de la jurisdicción, tomando como referencia los ingresos gravados.
+
+## Caso 6 · Impuestos internos
+
+Una empresa fabrica bebidas alcohólicas y las vende a distribuidores. Su contador le informa que, además de otros tributos, determinadas bebidas pueden estar alcanzadas por impuestos internos.
+
+**Preguntas**
+
+1. ¿Qué tipo de bienes gravan los impuestos internos?
+2. ¿Los impuestos internos y el IVA son el mismo tributo?
+
+## Caso 6 · Respuestas
+
+1. Gravan **determinados bienes y servicios específicamente previstos por la ley**, entre ellos ciertas bebidas alcohólicas. No alcanzan indiscriminadamente todos los productos.
+2. **No.** Son tributos distintos, con hechos imponibles y reglas propias; una operación puede estar alcanzada por ambos si se cumplen sus condiciones legales.
+
+## Caso 7 · Impuesto de sellos
+
+Dos empresas firman un contrato escrito para alquilar un local comercial en la provincia de Buenos Aires. Una de ellas pregunta si el contrato puede estar alcanzado por el impuesto de sellos.
+
+**Preguntas**
+
+1. ¿Qué característica del contrato es importante para analizar el impuesto de sellos?
+2. ¿Se trata de un impuesto nacional o provincial?
+
+## Caso 7 · Respuestas
+
+1. Es importante que exista un **acto o contrato instrumentado**, además de verificar su carácter oneroso, su vinculación territorial y las reglas y exenciones de la jurisdicción.
+2. Es un **impuesto provincial** (también existe en CABA dentro de su jurisdicción). Su aplicación concreta depende de la normativa local.
+
+## Cierre · Repaso
+
+- **Actividad financiera:** recursos y gastos para satisfacer necesidades públicas.
+- **Obligación tributaria:** hecho imponible, sujetos y determinación.
+- **Ilícitos:** distinguir omisión de defraudación.
+- **Tributos:** identificar qué grava cada impuesto y qué jurisdicción lo establece.

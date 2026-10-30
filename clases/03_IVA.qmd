@@ -1,0 +1,153 @@
+---
+title: "Impuesto al Valor Agregado"
+subtitle: "Derecho Tributario · Desarrollo conceptual y casos"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    center: false
+    smaller: true
+    footer: "Derecho Tributario · Material de clase"
+lang: es
+---
+
+# Impuesto al Valor Agregado
+
+**Clase audiovisual · desarrollo normativo, ejemplos y aplicación**
+
+::: {.callout-note}
+Los ejemplos numéricos indicados como hipotéticos no representan alícuotas vigentes. Verificar normativa y período antes de liquidar.
+:::
+
+
+---
+
+## 1. Naturaleza y técnica
+
+Impuesto nacional al consumo, indirecto y plurifásico no acumulativo. Se calcula en cada etapa mediante la confrontación entre débito fiscal de ventas y crédito fiscal computable de compras.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Fabricante, distribuidor y comercio facturan IVA en distintas etapas; el sistema busca gravar el valor agregado.
+:::
+
+
+---
+
+## 2. Hechos imponibles
+
+Ley de IVA: ventas de cosas muebles situadas o colocadas en el país, obras, locaciones y prestaciones de servicios alcanzadas, importaciones definitivas y otros supuestos expresos. Cada operación exige encuadre específico.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Una venta local de mercadería y una prestación de servicios pueden estar gravadas por supuestos diferentes.
+:::
+
+
+---
+
+## 3. Sujetos y categorías
+
+Son sujetos quienes realizan las operaciones que la ley describe y reúnen sus condiciones. No es lo mismo un responsable inscripto que un pequeño contribuyente adherido al Monotributo.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Un comercio responsable inscripto discrimina IVA en operaciones cuando corresponde; el monotributista no lo hace.
+:::
+
+
+---
+
+## 4. Nacimiento de la obligación
+
+El perfeccionamiento del hecho imponible depende del tipo de operación y de reglas específicas sobre entrega, facturación, cobro, prestación o anticipos. No hay una regla única para todas las actividades.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Para una prestación de servicios, revisar cuándo se perfecciona el hecho según la ley y las circunstancias.
+:::
+
+
+---
+
+## 5. Débito fiscal: cálculo
+
+Surge de aplicar la alícuota correspondiente al precio neto gravado de las operaciones. La alícuota general es 21%, pero existen alícuotas diferenciales y exenciones legales que deben comprobarse.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Venta neta $100.000 al 21% → débito fiscal $21.000; total facturado $121.000.
+:::
+
+
+---
+
+## 6. Crédito fiscal: condiciones
+
+No todo IVA facturado en una compra es automáticamente computable. Debe existir vinculación con operaciones gravadas, documentación válida y cumplimiento de los requisitos y límites legales.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Compra de insumos netos por $40.000 + IVA $8.400: puede originar crédito fiscal si reúne los requisitos.
+:::
+
+
+---
+
+## 7. Liquidación mensual simplificada
+
+En una hipótesis sin ajustes ni saldos anteriores: IVA a ingresar = débito fiscal − crédito fiscal computable. Si el crédito supera el débito, corresponde analizar el tratamiento del saldo según su naturaleza.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Débito $21.000 − crédito $8.400 = $12.600 a ingresar (ejemplo simplificado).
+:::
+
+
+---
+
+## 8. Exenciones y alícuotas
+
+Una operación exenta no genera débito fiscal por esa operación; también puede restringir el cómputo del crédito asociado. No confundir exento con tasa cero ni con no alcanzado.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Una entidad realiza actividades gravadas y exentas: debe analizar la imputación del crédito fiscal.
+:::
+
+
+---
+
+## 9. Exportaciones y servicios digitales
+
+Las exportaciones tienen un tratamiento especial que puede permitir recuperar créditos fiscales en condiciones legales. Los servicios digitales y operaciones transfronterizas requieren reglas específicas de localización y percepción.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Compra de servicio digital a proveedor del exterior: identificar si existe imposición y mecanismo de ingreso.
+:::
+
+
+---
+
+## 10. Caso integrador
+
+Una librería responsable inscripta vende bienes por $300.000 netos al 21% y compra mercadería por $180.000 netos al 21%, con crédito íntegramente computable.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Débito $63.000; crédito $37.800; diferencia $25.200. Explicar por qué no se tributa $63.000.
+:::
+
+
+---
+
+## 11. Fuentes
+
+Ley de IVA, texto ordenado 1997 y modificatorias; decreto reglamentario; normativa ARCA. Verificar tratamiento y alícuota específicos antes de grabar.
+
+::: {.callout-tip}
+**Ejemplo / aplicación:** Pregunta: ¿qué cambia si una compra se destina exclusivamente a una operación exenta?
+:::
+
+
+---
+
+## Para discutir en clase
+
+1. ¿Cuál es el hecho imponible o presupuesto jurídico relevante?
+2. ¿Qué norma y qué jurisdicción deben consultarse?
+3. ¿Qué cambia si varían los hechos del ejemplo?
+
+**Recordatorio:** distinguir explicación conceptual de liquidación tributaria vigente.

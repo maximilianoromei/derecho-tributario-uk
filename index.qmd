@@ -112,4 +112,15 @@ Concepto, clasificación y estructura de los recursos tributarios.
 
 :::
 
+::: {.class-card}
+
+### Clase Repaso - Simulacro Final con resoluciones
+
+**Simulacro Final con resoluciones**
+
+[Ingresar a la clase](clases/simulacro_tributario.html){.btn-class target="_blank"}
+
+:::
+
+
 :::

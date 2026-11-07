@@ -1,0 +1,1263 @@
+---
+title: "Simulación de examen final · Derecho Tributario"
+subtitle: "Cinco casos integradores · Actividad financiera · Relación tributaria · Impuestos · Procedimiento"
+author: "Derecho Tributario · Universidad Kennedy"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    scrollable: true
+    transition: slide
+    center: false
+    width: 1280
+    height: 720
+    margin: 0.08
+    css: tributario_estilo.css
+    footer: "Derecho Tributario · Simulacro de examen final"
+execute:
+  echo: false
+lang: es
+---
+
+## Cómo usar este simulacro
+
+- **Primero:** leer el caso y responder cada pregunta sin consultar la solución.
+- **Después:** contrastar el razonamiento con la respuesta orientativa.
+- **Siempre:** responder primero el concepto central y después aplicarlo al caso.
+
+::: {.callout .callout-note}
+Las soluciones son guías de razonamiento, no sustituyen la consulta de la legislación vigente ni de las normas de cada jurisdicción.
+:::
+
+
+## Caso 1 · El municipio de San Jerónimo
+
+<div class="case">
+
+El municipio de San Jerónimo registra un fuerte crecimiento poblacional. Los vecinos reclaman un hospital, alumbrado y pavimentación; un grupo empresario pide financiar la remodelación de su shopping. El intendente propone vender un inmueble municipal, contratar un préstamo y establecer tres gravámenes: una suma anual por alumbrado a cada propietario, una contribución por pavimento a los frentistas y un 3 % sobre ventas de comercios. El municipio también analiza pagar salarios de médicos y adquirir ambulancias. Una asociación de comerciantes denuncia que ya paga Ingresos Brutos provincial y cuestiona que el intendente anuncie los gravámenes por decreto. Algunos propietarios alegan que sus calles no reciben iluminación ni pavimento. El concejo deliberante todavía no trató ninguna ordenanza.
+
+</div>
+
+
+## Caso 1 · Mapa de cuestiones
+
+1. ¿Qué necesidades son públicas y cuál es el criterio para distinguirlas de las privadas?
+2. ¿Qué gastos públicos aparecen y cómo se clasifican?
+3. ¿Qué recursos pretende obtener el municipio y cuáles son tributarios?
+4. ¿Cómo se diferencian impuesto, tasa y contribución especial?
+5. ¿Es necesariamente una tasa el cobro por alumbrado?
+6. ¿Qué caracteriza a la contribución por pavimentación?
+7. ¿Qué naturaleza tiene el gravamen del 3 % sobre ventas?
+8. ¿En qué se asemeja y diferencia de Ingresos Brutos?
+9. ¿Puede el intendente crear estos tributos por decreto?
+10. ¿Qué límites constitucionales deben examinarse?
+
+
+## Caso 1 · Pregunta 1
+
+### ¿Qué necesidades son públicas y cuál es el criterio para distinguirlas de las privadas?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 1
+
+### ¿Qué necesidades son públicas y cuál es el criterio para distinguirlas de las privadas?
+
+<div class="answer">
+
+Son públicas la salud, el alumbrado y la pavimentación: buscan satisfacer necesidades de la comunidad. La remodelación del shopping es, en principio, privada. **Clave:** una necesidad es pública cuando el Estado asume su satisfacción por interés general.
+
+</div>
+
+
+## Caso 1 · Pregunta 2
+
+### ¿Qué gastos públicos aparecen y cómo se clasifican?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 2
+
+### ¿Qué gastos públicos aparecen y cómo se clasifican?
+
+<div class="answer">
+
+**Gastos de capital:** construir el hospital, pavimentar y comprar ambulancias. **Gastos corrientes:** pagar sueldos médicos y mantener el alumbrado. Los primeros crean o mejoran bienes duraderos; los segundos permiten el funcionamiento cotidiano.
+
+</div>
+
+
+## Caso 1 · Pregunta 3
+
+### ¿Qué recursos pretende obtener el municipio y cuáles son tributarios?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 3
+
+### ¿Qué recursos pretende obtener el municipio y cuáles son tributarios?
+
+<div class="answer">
+
+**Venta del inmueble:** recurso patrimonial. **Préstamo:** recurso del crédito público, que debe devolverse. **Gravámenes:** recursos tributarios, exigidos obligatoriamente por el Estado. No todo ingreso público es un tributo.
+
+</div>
+
+
+## Caso 1 · Pregunta 4
+
+### ¿Cómo se diferencian impuesto, tasa y contribución especial?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 4
+
+### ¿Cómo se diferencian impuesto, tasa y contribución especial?
+
+<div class="answer">
+
+**Impuesto:** se paga sin recibir a cambio un servicio estatal individualizado. **Tasa:** se exige por una actividad o servicio estatal concreto referido al obligado. **Contribución especial:** se cobra por un beneficio particular generado por una obra o actividad pública.
+
+</div>
+
+
+## Caso 1 · Pregunta 5
+
+### ¿Es necesariamente una tasa el cobro por alumbrado?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 5
+
+### ¿Es necesariamente una tasa el cobro por alumbrado?
+
+<div class="answer">
+
+No necesariamente. Para ser **tasa**, el cobro debe vincularse con un servicio estatal efectivo y suficientemente individualizado. El alumbrado general de las calles plantea dificultades para cumplir ese requisito; hay que examinar la ordenanza y el servicio real.
+
+</div>
+
+
+## Caso 1 · Pregunta 6
+
+### ¿Qué caracteriza a la contribución por pavimentación?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 6
+
+### ¿Qué caracteriza a la contribución por pavimentación?
+
+<div class="answer">
+
+Es una **contribución especial por mejoras** si la pavimentación beneficia particularmente a determinados inmuebles. Se cobra por ese beneficio, no simplemente por ser propietario. Debe comprobarse la obra, el beneficio y la regulación aplicable.
+
+</div>
+
+
+## Caso 1 · Pregunta 7
+
+### ¿Qué naturaleza tiene el gravamen del 3 % sobre ventas?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 7
+
+### ¿Qué naturaleza tiene el gravamen del 3 % sobre ventas?
+
+<div class="answer">
+
+Por su diseño es un **impuesto**: grava las ventas sin ofrecer un servicio municipal individualizado. La **base** sería el monto vendido y la **alícuota**, el 3 %. Que sea un impuesto no significa que el municipio tenga facultades para crearlo.
+
+</div>
+
+
+## Caso 1 · Pregunta 8
+
+### ¿En qué se asemeja y diferencia de Ingresos Brutos?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 8
+
+### ¿En qué se asemeja y diferencia de Ingresos Brutos?
+
+<div class="answer">
+
+Los dos gravámenes se relacionan con la actividad comercial. **Ingresos Brutos** es provincial y grava, en general, el ejercicio habitual y oneroso de actividades según cada código fiscal. El gravamen municipal debe analizarse por separado: la similitud no determina por sí sola su validez.
+
+</div>
+
+
+## Caso 1 · Pregunta 9
+
+### ¿Puede el intendente crear estos tributos por decreto?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 9
+
+### ¿Puede el intendente crear estos tributos por decreto?
+
+<div class="answer">
+
+**No puede crearlos por un simple decreto.** Rige el principio de legalidad: los elementos esenciales del tributo deben establecerse mediante una norma del órgano legislativo competente. En el municipio, debe examinarse el régimen provincial y la ordenanza correspondiente.
+
+</div>
+
+
+## Caso 1 · Pregunta 10
+
+### ¿Qué límites constitucionales deben examinarse?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 1 · Respuesta 10
+
+### ¿Qué límites constitucionales deben examinarse?
+
+<div class="answer">
+
+Deben respetarse **legalidad, igualdad, razonabilidad, capacidad contributiva y no confiscatoriedad**. También debe verificarse que el municipio tenga competencia. Por ejemplo, un tributo puede ser cuestionable por quién lo creó, por qué grava o por cuánto exige.
+
+</div>
+
+
+## Caso 2 · Comercial del Sur SA: sujetos y responsables
+
+<div class="case">
+
+Comercial del Sur SA vende electrodomésticos en varias provincias y contrata servicios profesionales. Sus ventas están alcanzadas, en principio, por IVA e Ingresos Brutos; obtiene utilidades que podrían quedar sujetas a Ganancias. Al pagar honorarios, el área contable practica retenciones según el régimen aplicable. En ciertas ventas cobra percepciones dispuestas por la autoridad fiscal. Un cliente afirma que el impuesto «lo paga siempre la empresa» porque figura en su factura. El director financiero ordena retener sumas, pero demora su ingreso al fisco. La empresa cambia de directorio y uno de los socios sostiene que su participación accionaria lo hace responsable automáticamente de todas las deudas. ARCA y la administración provincial reclaman documentación y la sociedad discute quién es el obligado en cada operación.
+
+</div>
+
+
+## Caso 2 · Mapa de cuestiones
+
+1. ¿Qué es la relación jurídica tributaria y quién es su sujeto activo?
+2. ¿Quién es el contribuyente en Ganancias de la sociedad?
+3. ¿Qué es el hecho imponible y qué papel cumple?
+4. ¿Qué distingue a un responsable sustituto del contribuyente?
+5. ¿Qué es la responsabilidad solidaria y por qué no alcanza con ser socio?
+6. ¿Qué hace un agente de retención al pagar honorarios?
+7. ¿Qué hace un agente de percepción al vender mercaderías?
+8. ¿Es igual el contribuyente de derecho que quien soporta el costo económico?
+9. ¿Qué consecuencias puede tener retener y no ingresar lo retenido?
+10. ¿Qué obligaciones formales subsisten aunque no exista saldo a pagar?
+
+
+## Caso 2 · Pregunta 1
+
+### ¿Qué es la relación jurídica tributaria y quién es su sujeto activo?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 1
+
+### ¿Qué es la relación jurídica tributaria y quién es su sujeto activo?
+
+<div class="answer">
+
+La **relación tributaria** vincula al Estado, que puede exigir el tributo, con el obligado a pagarlo. La obligación nace cuando ocurre el **hecho imponible** definido por la ley. Además del pago, pueden existir deberes de declarar, registrar e informar.
+
+</div>
+
+
+## Caso 2 · Pregunta 2
+
+### ¿Quién es el contribuyente en Ganancias de la sociedad?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 2
+
+### ¿Quién es el contribuyente en Ganancias de la sociedad?
+
+<div class="answer">
+
+La **sociedad** es, en principio, contribuyente de Ganancias por las rentas que la ley le atribuye. Sus socios no se convierten automáticamente en deudores del impuesto de la empresa. Hay que distinguir la persona jurídica de quienes la integran.
+
+</div>
+
+
+## Caso 2 · Pregunta 3
+
+### ¿Qué es el hecho imponible y qué papel cumple?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 3
+
+### ¿Qué es el hecho imponible y qué papel cumple?
+
+<div class="answer">
+
+El **hecho imponible** es el hecho que la ley establece como origen del tributo. En IVA, por ejemplo, debemos comprobar que exista una venta o prestación alcanzada, quién la realizó y cuándo. No todo ingreso de dinero genera IVA.
+
+</div>
+
+
+## Caso 2 · Pregunta 4
+
+### ¿Qué distingue a un responsable sustituto del contribuyente?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 4
+
+### ¿Qué distingue a un responsable sustituto del contribuyente?
+
+<div class="answer">
+
+**Contribuyente:** persona a la que la ley atribuye el hecho imponible. **Responsable sustituto:** persona que la ley coloca en lugar del contribuyente para cumplir una obligación determinada. La sustitución debe estar expresamente prevista; no se presume.
+
+</div>
+
+
+## Caso 2 · Pregunta 5
+
+### ¿Qué es la responsabilidad solidaria y por qué no alcanza con ser socio?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 5
+
+### ¿Qué es la responsabilidad solidaria y por qué no alcanza con ser socio?
+
+<div class="answer">
+
+El **responsable solidario** puede ser obligado a pagar una deuda tributaria junto con el deudor principal, si se cumplen los requisitos legales. **Ser socio o administrador no basta por sí solo**: debe verificarse el supuesto de responsabilidad previsto en la ley.
+
+</div>
+
+
+## Caso 2 · Pregunta 6
+
+### ¿Qué hace un agente de retención al pagar honorarios?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 6
+
+### ¿Qué hace un agente de retención al pagar honorarios?
+
+<div class="answer">
+
+El **agente de retención** descuenta una suma del dinero que debe pagar a otra persona y la ingresa al fisco. Por ejemplo, al pagar ciertos honorarios puede retener una parte según el régimen aplicable. Retener no lo convierte en contribuyente de ese impuesto.
+
+</div>
+
+
+## Caso 2 · Pregunta 7
+
+### ¿Qué hace un agente de percepción al vender mercaderías?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 7
+
+### ¿Qué hace un agente de percepción al vender mercaderías?
+
+<div class="answer">
+
+El **agente de percepción** cobra una suma tributaria adicional al realizar una operación y luego la ingresa al fisco. **Diferencia clave:** el agente de retención descuenta de un pago; el de percepción agrega un importe al cobro.
+
+</div>
+
+
+## Caso 2 · Pregunta 8
+
+### ¿Es igual el contribuyente de derecho que quien soporta el costo económico?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 8
+
+### ¿Es igual el contribuyente de derecho que quien soporta el costo económico?
+
+<div class="answer">
+
+**No.** Una cosa es quién debe el impuesto ante el fisco y otra quién soporta su costo económico. En IVA, el consumidor suele soportarlo en el precio, pero el sujeto legal obligado se identifica según la ley.
+
+</div>
+
+
+## Caso 2 · Pregunta 9
+
+### ¿Qué consecuencias puede tener retener y no ingresar lo retenido?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 9
+
+### ¿Qué consecuencias puede tener retener y no ingresar lo retenido?
+
+<div class="answer">
+
+Si el agente retiene y no ingresa lo retenido, incumple una obligación propia de su función. Puede deber el importe, intereses y sanciones. **No toda demora es delito:** la consecuencia depende de los hechos y de los requisitos legales.
+
+</div>
+
+
+## Caso 2 · Pregunta 10
+
+### ¿Qué obligaciones formales subsisten aunque no exista saldo a pagar?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 2 · Respuesta 10
+
+### ¿Qué obligaciones formales subsisten aunque no exista saldo a pagar?
+
+<div class="answer">
+
+Los **deberes formales** incluyen inscribirse, emitir comprobantes, conservar documentación y presentar declaraciones. Pueden existir aunque el impuesto a pagar sea cero. **Pagar** y **cumplir deberes formales** son obligaciones distintas.
+
+</div>
+
+
+## Caso 3 · La arquitecta y su emprendimiento
+
+<div class="case">
+
+Lucía es arquitecta y presta servicios profesionales de manera independiente en la Ciudad de Buenos Aires. También comercializa muebles diseñados por ella mediante una tienda digital y alquila un inmueble propio. Una sociedad le contrata el diseño de oficinas y le practica una retención al pagarle. Lucía factura a consumidores finales y a empresas; compra insumos gravados y recibe facturas con IVA discriminado. Cree que, si su cliente ya le retuvo un importe, no debe declarar ninguna obligación. Además, recibe un requerimiento de la administración tributaria local por ingresos de su actividad. Planea expandir las ventas a otra provincia y pregunta si una misma operación puede interesar a distintos impuestos. Su contador advierte que el tratamiento de cada ingreso depende de la ley, su condición fiscal y las circunstancias de cada operación.
+
+</div>
+
+
+## Caso 3 · Mapa de cuestiones
+
+1. ¿Qué hechos podrían resultar relevantes para Ganancias?
+2. ¿Por qué Ganancias es un impuesto y no una tasa?
+3. ¿Qué operaciones podrían estar alcanzadas por IVA?
+4. ¿Cómo se distinguen débito fiscal y crédito fiscal?
+5. ¿Una retención de Ganancias reemplaza la declaración del impuesto?
+6. ¿Qué grava Ingresos Brutos y quién tiene potestad para establecerlo?
+7. ¿Qué ocurre si Lucía realiza actividades en más de una jurisdicción?
+8. ¿Es lo mismo base imponible que hecho imponible?
+9. ¿Qué relación hay entre capacidad contributiva e impuestos sobre renta y consumo?
+10. ¿Cómo resolverías el caso sin confundir los tres impuestos?
+
+
+## Caso 3 · Pregunta 1
+
+### ¿Qué hechos podrían resultar relevantes para Ganancias?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 1
+
+### ¿Qué hechos podrían resultar relevantes para Ganancias?
+
+<div class="answer">
+
+Los honorarios, las ventas y ciertos alquileres pueden generar rentas alcanzadas por **Ganancias**. Cada ingreso debe analizarse según su origen y las reglas de la ley. No todos tienen necesariamente el mismo tratamiento.
+
+</div>
+
+
+## Caso 3 · Pregunta 2
+
+### ¿Por qué Ganancias es un impuesto y no una tasa?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 2
+
+### ¿Por qué Ganancias es un impuesto y no una tasa?
+
+<div class="answer">
+
+Ganancias es un **impuesto** porque grava rentas definidas por la ley, sin exigir un servicio estatal individualizado a cambio. Su recaudación sirve para financiar gastos públicos generales.
+
+</div>
+
+
+## Caso 3 · Pregunta 3
+
+### ¿Qué operaciones podrían estar alcanzadas por IVA?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 3
+
+### ¿Qué operaciones podrían estar alcanzadas por IVA?
+
+<div class="answer">
+
+En general, IVA alcanza **ventas de cosas muebles** y determinadas **obras, locaciones y prestaciones de servicios**. El tratamiento del alquiler depende, entre otras cosas, del inmueble y su destino. Hay que revisar cada operación y sus posibles exenciones.
+
+</div>
+
+
+## Caso 3 · Pregunta 4
+
+### ¿Cómo se distinguen débito fiscal y crédito fiscal?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 4
+
+### ¿Cómo se distinguen débito fiscal y crédito fiscal?
+
+<div class="answer">
+
+El **débito fiscal** surge del IVA de las operaciones gravadas que realiza el contribuyente. El **crédito fiscal** es el IVA de ciertas compras vinculadas con su actividad gravada, si cumple los requisitos legales. No toda factura de compra da derecho a crédito.
+
+</div>
+
+
+## Caso 3 · Pregunta 5
+
+### ¿Una retención de Ganancias reemplaza la declaración del impuesto?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 5
+
+### ¿Una retención de Ganancias reemplaza la declaración del impuesto?
+
+<div class="answer">
+
+**No necesariamente.** La retención suele funcionar como pago a cuenta. La persona puede seguir obligada a presentar su declaración y calcular el impuesto total. Luego computa lo retenido cuando el régimen lo permite.
+
+</div>
+
+
+## Caso 3 · Pregunta 6
+
+### ¿Qué grava Ingresos Brutos y quién tiene potestad para establecerlo?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 6
+
+### ¿Qué grava Ingresos Brutos y quién tiene potestad para establecerlo?
+
+<div class="answer">
+
+**Ingresos Brutos** es un impuesto provincial o de CABA sobre actividades comprendidas en cada legislación local. Deben revisarse habitualidad, actividad, jurisdicción y exenciones. Pagar IVA no elimina automáticamente Ingresos Brutos.
+
+</div>
+
+
+## Caso 3 · Pregunta 7
+
+### ¿Qué ocurre si Lucía realiza actividades en más de una jurisdicción?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 7
+
+### ¿Qué ocurre si Lucía realiza actividades en más de una jurisdicción?
+
+<div class="answer">
+
+Si la actividad se desarrolla en más de una jurisdicción, puede aplicarse el **Convenio Multilateral**. Sirve para distribuir la base de Ingresos Brutos entre provincias o CABA. No crea un impuesto nuevo y requiere comprobar sus condiciones de aplicación.
+
+</div>
+
+
+## Caso 3 · Pregunta 8
+
+### ¿Es lo mismo base imponible que hecho imponible?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 8
+
+### ¿Es lo mismo base imponible que hecho imponible?
+
+<div class="answer">
+
+El **hecho imponible** indica qué situación está gravada; la **base imponible** indica sobre qué monto se calcula el tributo. La **alícuota** es el porcentaje o valor que se aplica a esa base. Son tres conceptos diferentes.
+
+</div>
+
+
+## Caso 3 · Pregunta 9
+
+### ¿Qué es la capacidad contributiva y cómo se manifiesta en Ganancias e IVA?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 9
+
+### ¿Qué es la capacidad contributiva y cómo se manifiesta en Ganancias e IVA?
+
+<div class="answer">
+
+La **capacidad contributiva** es la aptitud económica de una persona para contribuir a los gastos públicos. Puede manifestarse en la renta, el patrimonio o el consumo. **Ganancias** toma la renta como manifestación directa; el **IVA** se vincula al consumo como manifestación indirecta. Los tributos deben respetar los principios constitucionales de igualdad y razonabilidad.
+
+</div>
+
+
+## Caso 3 · Pregunta 10
+
+### ¿Cómo resolverías el caso sin confundir los tres impuestos?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 3 · Respuesta 10
+
+### ¿Cómo resolverías el caso sin confundir los tres impuestos?
+
+<div class="answer">
+
+Hay que analizar **cada impuesto por separado**. En Ganancias: rentas y deducciones. En IVA: operaciones, débitos y créditos. En Ingresos Brutos: actividad y jurisdicción. Pagar uno no significa quedar exento de los otros.
+
+</div>
+
+
+## Caso 4 · La fábrica de bebidas y el contrato
+
+<div class="case">
+
+Bebidas del Litoral SA fabrica y comercializa distintos productos, entre ellos bebidas cuya composición podría quedar comprendida en Impuestos Internos. Firma con un distribuidor un contrato oneroso instrumentado por escrito en una provincia y realiza entregas a clientes de otra. El distribuidor afirma que el Impuesto de Sellos se aplica a cualquier negocio, aunque no exista instrumento. La fábrica sostiene que Impuestos Internos y el IVA son «la misma cosa» porque ambos se relacionan con ventas. Además, una provincia anuncia una alícuota especial para ciertos contratos y el municipio propone una tasa de inspección de seguridad e higiene. La empresa posee un depósito local, pero cuestiona la existencia de inspecciones. Se discute la distribución de competencias entre Nación, provincias y municipios y la diferencia entre la naturaleza del gravamen y su forma de liquidación.
+
+</div>
+
+
+## Caso 4 · Mapa de cuestiones
+
+1. ¿Qué distingue Impuestos Internos del IVA?
+2. ¿Qué debe verificarse para saber si una bebida tributa Internos?
+3. ¿Qué naturaleza tiene el Impuesto de Sellos?
+4. ¿Basta un acuerdo verbal para aplicar Sellos?
+5. ¿Cómo se determina qué jurisdicción puede exigir Sellos?
+6. ¿La tasa municipal de inspección es necesariamente válida?
+7. ¿Puede el mismo negocio generar IVA, Internos, Ingresos Brutos y Sellos?
+8. ¿Cómo se distribuyen las potestades tributarias?
+9. ¿Qué función cumple el principio de legalidad en las alícuotas?
+10. ¿Qué pasos seguirías para asesorar a la empresa?
+
+
+## Caso 4 · Pregunta 1
+
+### ¿Qué distingue Impuestos Internos del IVA?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 1
+
+### ¿Qué distingue Impuestos Internos del IVA?
+
+<div class="answer">
+
+**IVA** es un impuesto general que funciona con débitos y créditos fiscales. **Impuestos Internos** grava determinados productos u operaciones expresamente previstos por la ley. Una operación puede estar alcanzada por ambos, si se cumplen sus respectivos hechos imponibles.
+
+</div>
+
+
+## Caso 4 · Pregunta 2
+
+### ¿Qué debe verificarse para saber si una bebida tributa Internos?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 2
+
+### ¿Qué debe verificarse para saber si una bebida tributa Internos?
+
+<div class="answer">
+
+Primero hay que identificar **qué producto es**. Después se consulta si la Ley de Impuestos Internos lo grava, quién debe pagar y qué alícuota corresponde. No alcanza con decir que es una 'bebida': distintos productos pueden tener tratamientos diferentes.
+
+</div>
+
+
+## Caso 4 · Pregunta 3
+
+### ¿Qué naturaleza tiene el Impuesto de Sellos?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 3
+
+### ¿Qué naturaleza tiene el Impuesto de Sellos?
+
+<div class="answer">
+
+**Sellos** es un impuesto local que grava ciertos actos y contratos en las condiciones de la ley de cada jurisdicción. En el régimen tradicional importa especialmente que el acto esté **instrumentado**. No es una tasa por registrar el contrato.
+
+</div>
+
+
+## Caso 4 · Pregunta 4
+
+### ¿Basta un acuerdo verbal para aplicar Sellos?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 4
+
+### ¿Basta un acuerdo verbal para aplicar Sellos?
+
+<div class="answer">
+
+**No siempre.** Hay que verificar si existe un instrumento alcanzado y qué exige la ley local. Un acuerdo puede existir sin que, por ese solo hecho, nazca el Impuesto de Sellos. Deben revisarse las reglas particulares de la jurisdicción.
+
+</div>
+
+
+## Caso 4 · Pregunta 5
+
+### ¿Cómo se determina qué jurisdicción puede exigir Sellos?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 5
+
+### ¿Cómo se determina qué jurisdicción puede exigir Sellos?
+
+<div class="answer">
+
+Debe determinarse **cuál de las dos provincias está habilitada a cobrar Sellos** conforme a las reglas territoriales aplicables al instrumento y a sus efectos. En el supuesto de atribución alternativa planteado, **cobra una u otra, no ambas por el mismo hecho imponible**. No alcanza con que el contrato tenga relación con dos provincias para exigir dos veces el tributo.
+
+</div>
+
+
+## Caso 4 · Pregunta 6
+
+### ¿La tasa municipal de inspección es necesariamente válida?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 6
+
+### ¿La tasa municipal de inspección es necesariamente válida?
+
+<div class="answer">
+
+No basta con que exista un depósito. Para cobrar una **tasa**, el municipio debe tener competencia y prestar una actividad o servicio concreto referido al obligado. También deben examinarse la ordenanza y la forma de calcular el monto.
+
+</div>
+
+
+## Caso 4 · Pregunta 7
+
+### ¿Puede el mismo negocio generar IVA, Internos, Ingresos Brutos y Sellos?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 7
+
+### ¿Puede el mismo negocio generar IVA, Internos, Ingresos Brutos y Sellos?
+
+<div class="answer">
+
+**Sí, puede ocurrir.** Una operación puede generar IVA, Impuestos Internos, Ingresos Brutos o Sellos si cumple los hechos imponibles de cada régimen. La coexistencia de impuestos no es automáticamente ilegal; hay que revisar los límites aplicables.
+
+</div>
+
+
+## Caso 4 · Pregunta 8
+
+### ¿Cómo se distribuyen las potestades tributarias?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 8
+
+### ¿Cómo se distribuyen las potestades tributarias?
+
+<div class="answer">
+
+La **Nación** ejerce las potestades que le atribuye la Constitución; las **provincias** conservan las no delegadas. Los **municipios** tienen autonomía dentro del marco constitucional y provincial. Para saber quién puede cobrar, hay que identificar el tributo y la norma habilitante.
+
+</div>
+
+
+## Caso 4 · Pregunta 9
+
+### ¿Qué función cumple el principio de legalidad en las alícuotas?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 9
+
+### ¿Qué función cumple el principio de legalidad en las alícuotas?
+
+<div class="answer">
+
+La **ley** debe establecer los elementos esenciales del tributo, incluida la regla para determinar cuánto se paga. La administración no puede inventar una alícuota sin autorización legal. Siempre hay que verificar la norma vigente y sus facultades reglamentarias.
+
+</div>
+
+
+## Caso 4 · Pregunta 10
+
+### ¿Qué pasos seguirías para asesorar a la empresa?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 4 · Respuesta 10
+
+### ¿Qué pasos seguirías para asesorar a la empresa?
+
+<div class="answer">
+
+Separaría **productos, contratos y establecimientos**. Para cada uno preguntaría: ¿qué hecho se grava?, ¿quién paga?, ¿qué jurisdicción puede exigirlo? Luego revisaría base, alícuota, exenciones y, si se trata de una tasa, el servicio concreto.
+
+</div>
+
+
+## Caso 5 · La fiscalización y el conflicto con ARCA
+
+<div class="case">
+
+Durante una fiscalización, ARCA requiere a Máquina SA libros, facturas y declaraciones juradas. El organismo cuestiona créditos fiscales de IVA y deducciones de Ganancias, y sostiene que existen ingresos omitidos. La empresa aporta comprobantes, pero discute la valoración de la prueba y la antigüedad de parte de las operaciones. Tras el procedimiento correspondiente, recibe una resolución de determinación de oficio y una sanción pecuniaria. El director administrativo supone que basta presentar una nota informal para suspender cualquier efecto. Otro directivo propone no contestar los requerimientos porque «el impuesto se discute recién en juicio». La sociedad consulta sobre prescripción, vías de revisión, plazos, competencia del Tribunal Fiscal de la Nación y consecuencias de dejar firme el acto. Un proveedor señala que también fue fiscalizado por Ingresos Brutos provincial.
+
+</div>
+
+
+## Caso 5 · Mapa de cuestiones
+
+1. ¿Qué potestades ejerce ARCA durante una fiscalización?
+2. ¿Qué diferencia hay entre autodeclaración y determinación de oficio?
+3. ¿Qué elementos deben discutirse al impugnar el ajuste de IVA?
+4. ¿Qué aspectos pueden discutirse en el ajuste de Ganancias?
+5. ¿Qué es la prescripción y por qué importa el período fiscal?
+6. ¿Qué diferencias hay entre deuda tributaria, intereses y multa?
+7. ¿Qué vías de impugnación prevé en general la Ley 11.683?
+8. ¿Una nota informal suspende automáticamente la exigibilidad?
+9. ¿Qué cambia si el reclamo es provincial por Ingresos Brutos?
+10. ¿Qué consecuencias produce dejar firme la resolución?
+11. ¿Qué recursos puede presentar Máquina contra la determinación de oficio y en qué plazo?
+12. ¿En qué se diferencian la reconsideración ante ARCA y la apelación ante el Tribunal Fiscal?
+13. Si Máquina pagó de más, ¿cómo puede solicitar la repetición del tributo?
+14. Si Máquina apela una sentencia del Tribunal Fiscal, ¿debe pagar antes? ¿Cómo opera el *solve et repete*?
+15. ¿Cuándo puede ARCA exigir y ejecutar la deuda discutida por Máquina?
+
+
+## Caso 5 · Pregunta 1
+
+### ¿Qué potestades ejerce ARCA durante una fiscalización?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 1
+
+### ¿Qué potestades ejerce ARCA durante una fiscalización?
+
+<div class="answer">
+
+ARCA puede **pedir documentación, revisar registros y verificar declaraciones** dentro de sus facultades legales. El contribuyente debe colaborar con requerimientos válidos y conserva su derecho de defensa. Fiscalizar no equivale a sancionar.
+
+</div>
+
+
+## Caso 5 · Pregunta 2
+
+### ¿Qué diferencia hay entre autodeclaración y determinación de oficio?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 2
+
+### ¿Qué diferencia hay entre autodeclaración y determinación de oficio?
+
+<div class="answer">
+
+Normalmente el contribuyente calcula el impuesto mediante su **declaración jurada**. Si corresponde, ARCA puede efectuar una **determinación de oficio** siguiendo el procedimiento legal y permitiendo la defensa. Determinar una deuda no es lo mismo que imponer una multa.
+
+</div>
+
+
+## Caso 5 · Pregunta 3
+
+### ¿Qué elementos deben discutirse al impugnar el ajuste de IVA?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 3
+
+### ¿Qué elementos deben discutirse al impugnar el ajuste de IVA?
+
+<div class="answer">
+
+Hay que comprobar **qué operaciones se realizaron**, si estaban gravadas y si el crédito fiscal cumple los requisitos. Una factura no demuestra por sí sola que la operación existió. La decisión debe basarse en hechos, pruebas y ley.
+
+</div>
+
+
+## Caso 5 · Pregunta 4
+
+### ¿Qué aspectos pueden discutirse en el ajuste de Ganancias?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 4
+
+### ¿Qué aspectos pueden discutirse en el ajuste de Ganancias?
+
+<div class="answer">
+
+Hay que revisar **ingresos declarados, deducciones, fechas y comprobantes**. Una deducción requiere cumplir las condiciones legales. No es lo mismo un comprobante defectuoso que una operación inexistente: cada problema exige un análisis distinto.
+
+</div>
+
+
+## Caso 5 · Pregunta 5
+
+### ¿Qué es la prescripción y por qué importa el período fiscal?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 5
+
+### ¿Qué es la prescripción y por qué importa el período fiscal?
+
+<div class="answer">
+
+La **prescripción** fija límites de tiempo para que el fisco ejerza determinadas facultades. Para saber si ocurrió hay que conocer el período, los vencimientos y las causas legales de suspensión o interrupción. No alcanza con decir que la deuda es vieja.
+
+</div>
+
+
+## Caso 5 · Pregunta 6
+
+### ¿Qué diferencias hay entre deuda tributaria, intereses y multa?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 6
+
+### ¿Qué diferencias hay entre deuda tributaria, intereses y multa?
+
+<div class="answer">
+
+**Tributo:** importe principal que se debe. **Intereses:** consecuencia económica de pagar fuera de término según la ley. **Multa:** sanción por una infracción. Una diferencia de impuesto no genera automáticamente una multa ni un delito.
+
+</div>
+
+
+## Caso 5 · Pregunta 7
+
+### ¿Qué vías de impugnación prevé en general la Ley 11.683?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 7
+
+### ¿Qué vías de impugnación prevé en general la Ley 11.683?
+
+<div class="answer">
+
+Frente a ciertos actos de ARCA, la Ley 11.683 prevé **reconsideración** o **apelación ante el Tribunal Fiscal de la Nación**, si corresponde. La vía depende del acto y de los requisitos legales. Hay que verificar el plazo desde la notificación.
+
+</div>
+
+
+## Caso 5 · Pregunta 8
+
+### ¿Una nota informal suspende automáticamente la exigibilidad?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 8
+
+### ¿Una nota informal suspende automáticamente la exigibilidad?
+
+<div class="answer">
+
+**No.** Presentar cualquier nota no asegura que se suspendan los efectos del acto ni que se conserve el derecho a discutirlo. Hay que usar el **recurso correcto**, dentro del **plazo** y con los requisitos exigidos.
+
+</div>
+
+
+## Caso 5 · Pregunta 9
+
+### ¿Qué cambia si el reclamo es provincial por Ingresos Brutos?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 9
+
+### ¿Qué cambia si el reclamo es provincial por Ingresos Brutos?
+
+<div class="answer">
+
+Si el ajuste es por **Ingresos Brutos**, se aplica el procedimiento de la provincia o de CABA correspondiente, no automáticamente la Ley 11.683. Cambian la autoridad, los recursos y los plazos. Hay que consultar el código fiscal local.
+
+</div>
+
+
+## Caso 5 · Pregunta 10
+
+### ¿Qué consecuencias produce dejar firme la resolución?
+
+::: {.callout .callout-note}
+**Consigna:** fundamentar jurídicamente, identificar los hechos relevantes y distinguir categorías.
+:::
+
+
+## Caso 5 · Respuesta 10
+
+### ¿Qué consecuencias produce dejar firme la resolución?
+
+<div class="answer">
+
+Si no recurre a tiempo, la resolución puede **quedar firme** y habilitar el cobro de la deuda. Después suele ser mucho más difícil discutirla. Por eso lo primero es identificar la notificación, el recurso disponible y su vencimiento.
+
+</div>
+
+
+## Caso 5 · Pregunta 11
+
+### ¿Qué recursos puede presentar Máquina contra la determinación de oficio y en qué plazo?
+
+::: {.callout .callout-note}
+**Consigna:** aplicar las reglas del procedimiento tributario a la situación de Máquina SA.
+:::
+
+
+## Caso 5 · Respuesta 11
+
+### ¿Qué recursos puede presentar Máquina contra la determinación de oficio y en qué plazo?
+
+<div class="answer">
+
+Máquina puede elegir entre el **recurso de reconsideración ante ARCA** y el **recurso de apelación ante el Tribunal Fiscal de la Nación**, si corresponde por materia y monto. El plazo es de **15 días desde la notificación** (art. 76, Ley 11.683).
+
+</div>
+
+
+## Caso 5 · Pregunta 12
+
+### ¿En qué se diferencian la reconsideración ante ARCA y la apelación ante el Tribunal Fiscal?
+
+::: {.callout .callout-note}
+**Consigna:** aplicar las reglas del procedimiento tributario a la situación de Máquina SA.
+:::
+
+
+## Caso 5 · Respuesta 12
+
+### ¿En qué se diferencian la reconsideración ante ARCA y la apelación ante el Tribunal Fiscal?
+
+<div class="answer">
+
+La **reconsideración** la decide la administración tributaria; la **apelación** la resuelve el Tribunal Fiscal, un órgano con funciones jurisdiccionales separado de ARCA. Son vías alternativas contra la determinación. Si se interponen en término y son procedentes, suspenden la ejecución del ajuste durante esa etapa.
+
+</div>
+
+
+## Caso 5 · Pregunta 13
+
+### Si Máquina pagó de más, ¿cómo puede solicitar la repetición del tributo?
+
+::: {.callout .callout-note}
+**Consigna:** aplicar las reglas del procedimiento tributario a la situación de Máquina SA.
+:::
+
+
+## Caso 5 · Respuesta 13
+
+### Si Máquina pagó de más, ¿cómo puede solicitar la repetición del tributo?
+
+<div class="answer">
+
+Debe reclamar la **repetición** de lo pagado indebidamente o en exceso. Si pagó **espontáneamente**, primero presenta un reclamo administrativo. Si pagó **a raíz de una determinación de oficio**, puede iniciar directamente la acción ante el Tribunal Fiscal, cuando sea competente, o ante la Justicia Nacional (art. 81, Ley 11.683).
+
+</div>
+
+
+## Caso 5 · Pregunta 14
+
+### Si Máquina apela una sentencia del Tribunal Fiscal, ¿debe pagar antes? ¿Cómo opera el *solve et repete*?
+
+::: {.callout .callout-note}
+**Consigna:** aplicar las reglas del procedimiento tributario a la situación de Máquina SA.
+:::
+
+
+## Caso 5 · Respuesta 14
+
+### Si Máquina apela una sentencia del Tribunal Fiscal, ¿debe pagar antes? ¿Cómo opera el *solve et repete*?
+
+<div class="answer">
+
+El *solve et repete* significa **pagar y luego discutir judicialmente**. Máquina puede apelar la sentencia del Tribunal Fiscal sin que el pago sea, en general, un requisito formal previo para presentar la apelación; pero esa apelación **no suspende, como regla, la ejecución del tributo e intereses**. ARCA puede reclamarlos durante la revisión judicial (art. 194, Ley 11.683).
+
+</div>
+
+
+## Caso 5 · Pregunta 15
+
+### ¿Cuándo puede ARCA exigir y ejecutar la deuda discutida por Máquina?
+
+::: {.callout .callout-note}
+**Consigna:** aplicar las reglas del procedimiento tributario a la situación de Máquina SA.
+:::
+
+
+## Caso 5 · Respuesta 15
+
+### ¿Cuándo puede ARCA exigir y ejecutar la deuda discutida por Máquina?
+
+<div class="answer">
+
+Si Máquina recurre la determinación **en término** por una vía procedente, la ejecución del ajuste queda suspendida durante esa instancia. Si la determinación queda **firme**, ARCA puede reclamar y ejecutar la deuda. Si el Tribunal Fiscal confirma el tributo, la apelación posterior ante la Cámara **no suspende, como regla, su ejecución** (art. 194).
+
+</div>
+
+
+## Referencias normativas para estudiar
+
+- **Constitución Nacional:** arts. 4, 16, 17, 75 y 123, entre otros.
+- **Ley 11.683:** procedimiento tributario nacional.
+- **Ley de Impuesto a las Ganancias** (t.o. 2019 y modificatorias).
+- **Ley de IVA** (t.o. 1997 y modificatorias).
+- **Ley de Impuestos Internos** (t.o. 1979 y modificatorias).
+- **Códigos fiscales y leyes tarifarias** provinciales y de CABA: Ingresos Brutos y Sellos.
+- **Convenio Multilateral:** actividades en múltiples jurisdicciones.
+
+**Advertencia:** verificar texto vigente, jurisdicción, períodos fiscales, montos y regímenes especiales antes de resolver un caso real.
